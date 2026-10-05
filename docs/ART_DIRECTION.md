@@ -48,6 +48,17 @@ All standard gear is Consortium-made, so it shares one visual language.
 
 ---
 
+## Old World look (Titans, relics)
+
+This must look clearly different from Consortium gear, so players can tell old from new at a glance.
+
+- Smoother, more unified shapes. Fewer visible rivets and bolted-on parts. It looks grown or cast rather than assembled.
+- Weathered over centuries: heavy patina, dust, pitting, faded markings. Not chipped paint.
+- Its own accent color, distinct from Consortium amber (for example a cold white-blue glow from the Heart).
+- Faint "HELIOS" markings on hulls, half worn away.
+
+---
+
 ## Lighting presets to test assets against
 
 1. **Day:** normal Elder Flame light.

@@ -4,9 +4,25 @@ Companion to LORE.md. These are planning notes, not final specs.
 
 ---
 
+## The Station (starting area)
+
+The current setup already fits the lore, so there's no need to change it. The player starts on the Station, learns to fly, and meets the core features there.
+
+| Feature | Lore role |
+|---|---|
+| Mini markets | Consortium company stores with fixed prices |
+| Auction house | Consortium-run; takes a cut of every sale |
+| Bazaar | Independent traders who pay the Consortium rent |
+| Shipyard | Builds every ship in the system |
+| Social area | Neutral ground where every side of the war meets |
+
+The tutorial can double as the contract signing: the player is handed a ship, a Dusklens and a Ledger in the first scene.
+
+---
+
 ## The Ledger (starting debt)
 
-The player starts in debt to the Lumen Consortium for their first ship. The debt gives an immediate goal, teaches the gameplay loop, and ties the player to the story from minute one. Games that do this well: *Hardspace: Shipbreaker*, *Animal Crossing*.
+The player starts with the standard Consortium contract every pilot has for their first ship. It's normal in this world, which is the point: the modern experience of needing debt to get a start in life. The debt gives an immediate goal, teaches the gameplay loop, and ties the player to the story from minute one. Games that do this well: *Hardspace: Shipbreaker*, *Animal Crossing*.
 
 **Principle:** the debt holds back **Consortium privileges**, never the core fun. Players must always have money to spend on their own progress.
 
@@ -43,7 +59,7 @@ This replaces a plain encyclopedia. Lore is a **mystery players investigate**, a
 
 ## Factions and reputation
 
-- **No locked faction choice.** Players earn reputation with the Hearthfleet, the Concord and the Unlit separately through quests and choices.
+- **No locked faction choice.** Players earn reputation with the Hearthfleet, the Meridians and the Unlit separately through quests and choices.
 - Reputation unlocks faction quests, cosmetics (banners, colors, clothing), vendors and story.
 - Why: Roblox players play with friends. Locking factions splits groups apart and hides content.
 - **Possible big choice at the end of a chapter** about the Flame. Restore it? Replace it? Let it go dark? This could be a server-wide event instead of a per-player ending.
@@ -76,6 +92,18 @@ This replaces a plain encyclopedia. Lore is a **mystery players investigate**, a
 
 - All ships and weapons are standard Consortium gear. There's no faction-specific hardware, only cosmetic differences.
 - Lore says "**weapons run on flame energy**." The current overheat mechanic fits. Ammo or charge mechanics would fit too, so the lore never needs changing.
+
+---
+
+## Bosses and world events
+
+| Thing | Gameplay | Lore |
+|---|---|---|
+| **The Titan** (Cinderreach) | Large boss ship. Players follow an "Unknown signal" to find it. Drops a Titan Heart. | An Old World vessel drawn to the burning shard's heat. It repairs itself, which is why it respawns, and rebuilds its Heart each time. |
+| **Umbra boss** | TBD | Should tie to the Maw or Hollows (for example, something Truesight can't see) |
+| **The Ion Storm** | Roaming, planet-sized storm. Lightning in the outer cloud, a safe eye with valuable ore. | A leftover of the Great Flare. Lightning has fused rare ore in the eye over centuries. |
+
+Open: what are Titan Hearts used for in-game? The lore makes them the most sought-after item in the system, so their use should feel important.
 
 ---
 
