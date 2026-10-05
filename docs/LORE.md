@@ -308,7 +308,7 @@ Both boss fleets use standard Lumenhold hulls, which matches the existing models
 **Titan-class** dreadnoughts: huge automated harvesters with no crew, escorted by drone fleets. They mine the burning shard in Cinderreach and defend their haul against anyone who comes near. Their transponders are unregistered, so each one shows up on scanners as an **Unknown Signal**. Lumenhold's official story is that they're a class of old automated harvesters that went rogue decades ago and "can't be recalled."
 
 - **There are many of them, not one.** That's why a Titan is always out there to fight (repeatable boss).
-- **They take a team.** Titans were built to survive Cinderreach's heat and fight off whole fleets, so no lone pilot can beat one. The Cinder Wardens organize **Warden Hunts**: open bounty calls that gather pilots for a group attack.
+- **They're built to fight fleets.** Titans were made to survive Cinderreach's heat and drive off whole fleets, so pilots rarely face one alone. The Cinder Wardens organize **Warden Hunts**: open bounty calls that gather pilots, and send Warden ships to fight alongside them.
 - **Titan Heart:** the core where a Titan stores what it has mined. It's essentially refined pure shard.
 - **What players can do with a Heart:**
   - **Forge it into armor** on Fulcrum Station. This is the current mechanic.

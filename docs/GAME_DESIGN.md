@@ -54,15 +54,16 @@ This replaces a plain encyclopedia. Lore is a **mystery players investigate**, a
 - **No locked faction choice.** Players earn reputation with the Hearthfleet, the Meridians and the Unlit separately through quests and choices.
 - Reputation unlocks faction quests, cosmetics (banners, colors, clothing), vendors and story.
 - Why: Roblox players play with friends. Locking factions splits groups apart and hides content.
-- **Possible big choice at the end of a chapter** about the Flame. Restore it? Replace it? Let it go dark? This could be a server-wide event instead of a per-player ending.
+- **Possible big choice at the end of a chapter** about the Flame. Restore it? Replace it? Let it go dark? For now it's a per-player ending. A shared outcome can come later, if there's a player base.
 
 ## Conflicts as content
 
 Every present-day conflict in LORE.md (the Shard War, the Ledger, the storm rush, Rimeborn, Cinderreach, Umbra salvage, and each faction's internal split) should supply both **repeatable activities** and **quest lines**. Reputation can track a faction *and* which side of its internal split the player leans toward.
 
-## PvP: War Contracts
+## War Contracts
 
-- The Lumenhold's job board posts contracts for **both sides** of a conflict.
+- **PvE first:** you fight NPC fleets from the other side. Player-vs-player contracts can be added once there are enough players.
+- Lumenhold's job board posts contracts for **both sides** of a conflict.
 - Taking a contract puts the player on that side **for that battle only**.
 - Players are literally mercenaries for the company funding everyone, so the mechanic and the story say the same thing.
 
@@ -71,7 +72,7 @@ Every present-day conflict in LORE.md (the Shard War, the Ledger, the storm rush
 ## Story structure: chapters
 
 - Endless play **and** real endings: the story comes in **chapters or seasons**. Each chapter ends, and the world keeps going.
-- **The Blink getting longer** can change across chapters as a server-wide sign of progress.
+- **The Blink getting longer** can change with each chapter update, as a visible sign the story is moving.
 - Manageable for a solo developer: one chapter at a time.
 
 ---
@@ -101,17 +102,40 @@ The goal is a long-lived MMO-style game (like Hypixel SkyBlock) with an ongoing 
 |---|---|---|
 | **The world** | Planets, bosses, the Shard War, the Ion Storm, the economy | Nobody. It stays stable so it can be replayed forever. |
 | **Personal story** | Quest chains, the Ledger, Ship's Log mysteries, reputation | One player at a time |
-| **World events** | Chapter or season updates, live events, the Blink getting longer | Everyone at once, on a schedule |
+| **Chapter updates** | New chapters released as normal game updates. Each adds content and moves the story forward. | Each player, once they reach that point in their own story. Nobody has to be online at a set time. |
 
 **Rules that keep the lore from contradicting the repeating gameplay:**
 - **Anything repeatable must not be unique in the lore.** "A Titan", not "the Titan". "Hollowed ships", not one named ghost ship. There are always more.
-- **Anything unique happens only once**, in a personal quest or a one-time world event. For example, a story mission that kills one *named* Titan for good.
+- **Anything unique happens only once**, in a personal quest or a chapter update. For example, a story mission that kills one *named* Titan for good.
 - **Endless conflicts need a lore reason to be endless.** The Shard War never ends because **Lumenhold keeps it at a stalemate on purpose**. The repeating gameplay *is* the story.
-- **The big goal is shared, not personal.** Restoring the Tender (the Ion Storm) and relighting the Damper's anchors in Umbra can be a **server-wide, long-term project** that every player contributes to over seasons. It's a story ending that doesn't stop the game.
+- **The big goal can grow with the player base.** Restoring the Tender (the Ion Storm) and relighting the Damper's anchors in Umbra starts as a personal quest line. If the game grows, it can gain a shared progress counter everyone contributes to. Either way, it's a story ending that doesn't stop the game.
 
 ---
 
-## Bosses and world events
+## Starting small: everything works with one player
+
+There's no player base yet, so **nothing in the story may depend on a crowd.** Every feature has to work for a single player, and can get better when more people join.
+
+1. **No live events.** Every story change ships as a normal update. Nobody has to be online at a particular time.
+2. **Each player sees the world at their own point in the story.** MMOs call this "phasing." A player still in Chapter 3 finds Vance at the shipyard, and a player past Chapter 4 finds his replacement. Technically, NPCs and dialogue just check the player's saved quest progress. Shared systems (bosses, the Ion Storm, the economy) look the same for everyone.
+3. **Group content scales.** Titans and the Hollow Fleet get stronger with more players present, and **NPC allies fill empty slots**: Cinder Warden ships join Warden Hunts, and Guild salvagers join in Umbra. A solo player can win with NPC help, and a full group gets a harder, more rewarding fight.
+4. **War Contracts start as PvE.** You fight NPC fleets of the other side. Player-vs-player contracts can come later.
+5. **No votes or server-wide tallies yet.** Where the story could branch, the author picks the canon outcome. Player choices change dialogue, rewards, reputation and epilogues.
+6. **Shared projects start personal.** The restoration is your own quest line with your own progress. A global progress counter can be layered on top later without changing the quests.
+
+### Upgrade path: now vs. later
+| Feature | Now (works solo) | Later (with a player base) |
+|---|---|---|
+| Story changes | Chapter updates and phasing | Optional live premiere events |
+| Warden Hunts / Hollow Fleet | Scaled bosses with NPC allies | Big public group fights |
+| War Contracts | PvE against NPC fleets | PvP contracts |
+| Branching outcomes | Author's canon, plus per-player epilogues | Shared outcomes decided by players |
+| Restoration project | Personal quest line | Shared progress counter across servers |
+| Almanac Day | A story scene | A live yearly ceremony |
+
+---
+
+## Bosses and world features
 
 | Thing | Gameplay | Lore (see LORE.md) |
 |---|---|---|
@@ -120,7 +144,7 @@ The goal is a long-lived MMO-style game (like Hypixel SkyBlock) with an ongoing 
 | **The Ion Storm** | Roaming fog cloud with no surface that can pass over planets. Lightning in the outer layer, a calm center with valuable ore. | A living swarm of **stormdust** that the Old World once harnessed. The fog *is* the creature. |
 
 ### Group fights
-Titans are hard enough to need a team. That suits an MMO: **Warden Hunts** are open bounty calls from the Cinder Wardens that gather players for a group attack.
+Titans are built as group fights. **Warden Hunts** are open bounty calls from the Cinder Wardens that gather pilots for an attack. **With few or no other players online, NPC Warden ships fill the empty slots, and the Titan's strength scales with how many players are fighting.** A solo player can win with NPC help, and a full group gets a harder, more rewarding fight.
 
 ### Drops (proposal, beyond Titan Hearts)
 | Source | Drop | Possible use |

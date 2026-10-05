@@ -6,12 +6,14 @@ A draft plan for releasing the story in chapters, MMO-style (see GAME_DESIGN.md 
 - **World update:** each chapter also adds lasting content (a region, a boss, a feature) that everyone shares.
 - **Truth revealed in layers:** each chapter reveals one layer of the hidden truth, from what everyone knows, to what quests uncover, to the endgame.
 
-Everything here is tentative. Character arcs for every chapter are in CHARACTERS.md → Arc map.
+Everything here is tentative.
+
+**No live events needed:** every story change ships as a normal update, and each player sees the world as it is at their own point in the story (see GAME_DESIGN.md → Starting small). Character arcs for every chapter are in CHARACTERS.md → Arc map.
 
 ---
 
 ## Chapter 1: Owing the Hold
-**Personal story:** You arrive at Fulcrum Station. Quartermaster Vance hands you a ship and a contract, and your Lens switches on. You learn to fly, take your first Lumenhold jobs, and live through your first Blink. A Cinder Warden **Warden Hunt** sends you and other pilots after an **Unknown Signal**, your first Titan.
+**Personal story:** You arrive at Fulcrum Station. Quartermaster Vance hands you a ship and a contract, and your Lens switches on. You learn to fly, take your first Lumenhold jobs, and live through your first Blink. A Cinder Warden **Warden Hunt** sends you, alongside Warden ships and any other pilots nearby, after an **Unknown Signal**: your first Titan.
 
 **Ends with:** your first big Ledger milestone, and Warden-Captain Kettering saying, almost to herself: *"Rogue machines don't mine this neatly."*
 
@@ -58,14 +60,14 @@ Everything here is tentative. Character arcs for every chapter are in CHARACTERS
 
 **Truth revealed:** the core hidden truth.
 
-**World event:** the truth goes public, server-wide. The factions react: the Hearthfleet feel proven right, the Meridians turn to Idris Vale's dangerous plan, the Unlit say "we told you." Lumenhold blames "misinformation."
+**After this chapter:** the truth is public in your world (phasing: players who haven't finished Chapter 4 still see the old world). The factions react: the Hearthfleet feel proven right, the Meridians turn to Idris Vale's dangerous plan, the Unlit say "we told you." Lumenhold blames "misinformation."
 
 ---
 
 ## Chapter 5 and onward: Tending
 **Opening reveal:** the Vesper Order matches the HELIOS etching on the shepherd grains to the faint markings on the Altar in Umbra. The Unlit's holy place is Old World. It's **the Damper**, the harness that once held the Maw back, and the beacons the Unlit put out were its anchors.
 
-**The long goal:** a **server-wide project** to restore the balance: guide the Ion Storm (the Tender) back on course, and relight the Damper's anchors in Umbra. Every player contributes over seasons. The Unlit are split: some see it as betraying the Quiet, others as finally understanding it.
+**The long goal:** a quest line to restore the balance: guide the Ion Storm (the Tender) back on course, and relight the Damper's anchors in Umbra. It starts as your personal project. If the game grows, it can gain a shared progress counter everyone contributes to. The Unlit are split: some see it as betraying the Quiet, others as finally understanding it.
 
 **Ongoing conflicts:** Lumenhold fights to keep its monopoly. Idris Vale's Titan Heart project threatens a new Rimefall. The Maw grows bolder as the story raises the stakes.
 

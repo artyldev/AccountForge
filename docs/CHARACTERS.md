@@ -15,9 +15,9 @@ Each character has:
 - **Arc:** what happens to them in each chapter.
 
 **How arcs work in an MMO:**
-- **Big turning points are world events.** When Crane is exposed or Vance is dismissed, it happens for everyone, at a chapter release.
+- **Big turning points ship as chapter updates, and each player sees them at their own point in the story.** A player still in Chapter 3 finds Vance at the shipyard; a player past Chapter 4 finds his replacement. No live events are needed.
 - **Player choices change how a character treats *you*** (dialogue, trust, rewards, epilogue), not the shared world.
-- **Where the world itself could go either way**, it can follow what most players chose (a server-wide tally), never one player's choice.
+- **Where the story could go either way**, the author picks the canon outcome. Player choices change dialogue, rewards and epilogues. Shared outcomes decided by players can come later, if there's a player base.
 
 ---
 
@@ -87,7 +87,7 @@ What each character is doing in each chapter.
 - **Ch 1:** your mentor. He hands you your ship, explains the Ledger kindly, and does your first repair at cost.
 - **Ch 2:** you bring back salvage from Umbra, and he recognizes a serial number on a Hollowed hull. It's a ship he built. He goes quiet.
 - **Ch 3:** a rush order of export components. He asks you to escort a sealed shipment that "nobody's supposed to see." You can look inside: the parts match Titan plating. He refuses to look.
-- **Ch 4:** Kettering's evidence and yours finally reach him. He opens the manifests himself: the components are Titan parts, built in his shipyard. He copies the manifests and leaks them. **World event:** Lumenhold dismisses him.
+- **Ch 4:** Kettering's evidence and yours finally reach him. He opens the manifests himself: the components are Titan parts, built in his shipyard. He copies the manifests and leaks them. **After this chapter:** Lumenhold has dismissed him.
 - **Ch 5+:** he goes home to Solace and becomes the Rimeborn's engineer. He builds the parts for relighting the Damper's anchors. He has to work alongside Idris Vale, whose family name his family has cursed for a century.
 
 **Per-player variation:** how he says goodbye to you in Ch 4 depends on whether you helped him find the truth or judged him for not looking sooner.
@@ -108,10 +108,10 @@ What each character is doing in each chapter.
 
 **Arc:**
 - **Ch 1:** no face, only her signature on every Almanac page and her voice on the Station's Blink announcements.
-- **Ch 2:** she presides over **Almanac Day**, the yearly release ceremony on Fulcrum Station (a world event players can attend).
+- **Ch 2:** she presides over **Almanac Day**, the yearly release ceremony on Fulcrum Station. For now it's a short story scene; it could become a live ceremony if the game grows.
 - **Ch 3:** Prior Anselm's measurements of the storm's drift reach her. She visits Vesper in secret, and players can spot her ship there. Overheard: *"You taught me numbers were sacred." / "I taught you they were true."*
 - **Ch 4:** the target of the detective story. Players piece together the Hearthfleet bell-records, Juno's contract records and Anselm's measurements, and find the Second Almanac. Following the Blade Runner lesson that action comes before words, **she unlocks the archive for you first, then gives her quiet speech** (see INFLUENCES.md), then hands you the book.
-- **Ch 5+:** **world event:** Lumenhold "retires" her "for health reasons." She escapes to Vesper. Her mathematics is what makes calculating the Ion Storm's true course possible. She redeems herself through work, not speeches.
+- **Ch 5+:** **after this chapter:** Lumenhold "retires" her "for health reasons." She escapes to Vesper. Her mathematics is what makes calculating the Ion Storm's true course possible. She redeems herself through work, not speeches.
 
 ---
 
@@ -153,7 +153,7 @@ What each character is doing in each chapter.
 - **Ch 2:** he hires you to deliver a sealed crate (Hearts) to Pallas. First meeting: charming, full of talk about freedom from the Hold.
 - **Ch 3:** he hears Anselm's finding that the storm is alive and waves it off: *"Everything's alive if you squint."* He wants a stormdust sample.
 - **Ch 4:** after the reveal, the Meridian council turns to him, and he speeds up the Heart engine. He meets Vance, and it's tense.
-- **Ch 5+:** **world event: the engine test.** If most players backed the Rimeborn and caution, it runs with safeguards. If not, it fails and threatens a new Rimefall, and players must contain it. Either way, his turning point is choosing to shut it down himself, at personal cost, and saying publicly what Corwin never did: that he was wrong.
+- **Ch 5+:** **the engine test**, the chapter's climax. Your choices with the Rimeborn and the Vale circle decide how it plays out for you: it runs with safeguards, or it fails and threatens a new Rimefall that you have to help contain. Either way, his turning point is choosing to shut it down himself, at personal cost, and saying publicly what Corwin never did: that he was wrong.
 
 ---
 
