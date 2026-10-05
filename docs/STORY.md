@@ -22,9 +22,9 @@ Everything here is tentative.
 ---
 
 ## Chapter 2: The Quiet
-**Personal story:** The Umbra Salvage Guild needs a pilot. Wren guides you into the dark. You earn **Truesight** from the Unlit, fight the **Hollow Fleet**, and learn that it is made of Shard War wrecks.
+**Personal story:** The Umbra Salvage Guild needs a pilot. Wren guides you into the dark. You earn **Truesight** from the Unlit, fight the **Hollow Fleet**, and learn that it is made of Shard War wrecks. Wren takes you to **the Altar** at Umbra's heart, where the Unlit gather in the dark to listen.
 
-**Ends with:** Wren's line, *"Every battle out there sends us more of these. The war is feeding it."* Listening during a Blink, you hear the Quiet for the first time.
+**Ends with:** Wren's line, *"Every battle out there sends us more of these. The war is feeding it."* Listening at the Altar during a Blink, you hear the Quiet for the first time.
 
 **Truth revealed:** the war isn't just tragic. It's feeding the Maw.
 
@@ -33,11 +33,11 @@ Everything here is tentative.
 ---
 
 ## Chapter 3: Stormchasers
-**Personal story:** The Vesper Order hires you to chart the Ion Storm's path. Prior Anselm shows you a dead stormdust grain under a lens: it's **a machine**, etched with HELIOS. You find Lumenhold harvesting the storm in secret.
+**Personal story:** The Vesper Order hires you to chart the Ion Storm's path. Prior Anselm shows you that the storm is **alive**, and that hidden in its living dust are rare grains that were *made*, etched with HELIOS: **shepherd grains**, the Old World's way of guiding it. You find Lumenhold harvesting the storm in secret.
 
 **Ends with:** the realization that Lumenhold's "sealant" is stormdust, and the storm is shrinking.
 
-**Truth revealed:** Lumenhold's monopoly depends on the Old World, and is slowly destroying the last Old World machine.
+**Truth revealed:** Lumenhold's monopoly depends on the Old World, and is slowly killing a living thing the Old World once guided to tend the Flame.
 
 **World content:** Ion Storm features (forecasts, Blink shelter, relics), the Vesper Order.
 
@@ -55,7 +55,9 @@ Everything here is tentative.
 ---
 
 ## Chapter 5 and onward: Tending
-**The long goal:** a **server-wide project** to restore the Ion Storm, the Tender, and slow the Flame's decay. Every player contributes over seasons.
+**Opening reveal:** the Vesper Order matches the HELIOS etching on the shepherd grains to the faint markings on the Altar in Umbra. The Unlit's holy place is Old World. It's **the Damper**, the harness that once held the Maw back, and the beacons the Unlit put out were its anchors.
+
+**The long goal:** a **server-wide project** to restore the balance: guide the Ion Storm (the Tender) back on course, and relight the Damper's anchors in Umbra. Every player contributes over seasons. The Unlit are split: some see it as betraying the Quiet, others as finally understanding it.
 
 **Ongoing conflicts:** Lumenhold fights to keep its monopoly. Idris Vale's Titan Heart project threatens a new Rimefall. The Maw grows bolder as the story raises the stakes.
 

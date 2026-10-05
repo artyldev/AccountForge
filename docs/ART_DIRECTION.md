@@ -63,6 +63,7 @@ This must look clearly different from Lumenhold gear, so players can tell old fr
 - **The Ion Storm:** fog with a faint shimmer. Up close it should look made of tiny glinting particles, not just cloud. Its own cold white-blue glow (distinct from Lumenhold amber), which stays visible during the Blink.
 - **Relics** (dead stormdust grains, the gold disc, coins): smooth, cast-looking shapes. Weathered over centuries: patina, pitting, faded markings, not chipped paint. Faint "HELIOS" etchings.
 - **Optional debris in the calm center:** ore chunks fused with glinting stormdust residue.
+- **The Altar (Umbra):** a huge, ancient Old World structure ringed by dead beacon anchors. Worn smooth by time. Unlit offerings and markings layered on top of faint HELIOS etchings, so you can see two eras on one surface. It's a static structure, which makes it a good Blender pipeline job.
 
 ---
 

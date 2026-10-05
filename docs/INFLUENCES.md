@@ -63,7 +63,7 @@ Mixing three styles everywhere would feel messy. Instead, **each influence leads
 - **The Blink as a mood:** when the Flame goes dark, Fulcrum Station is lit only by ads and signs. It should be the game's signature visual moment.
 - **Noir investigation:** Chapter 4 (*The Almanac*) is a detective story. The player gathers clues, questions people who might be lying, and follows a trail to an uncomfortable truth.
 - **Manufactured memory:** in Blade Runner, memories can be implanted. Here, **the Almanac is the world's implanted memory.** Lumenhold has rewritten history for over a century, and nobody knows what really happened.
-- **"What counts as alive?"** Prior Anselm suspects the stormdust was *made*. The next question is whether it *thinks*. If the Ion Storm is aware, tending its sun alone for over a thousand years, then Lumenhold's harvesting isn't mining. It's harming a living thing. *(Open decision, see LORE.md.)*
+- **"What counts as alive?"** The Ion Storm is a living thing that the Old World put to work tending its sun for a thousand years. Lumenhold's harvesting isn't mining. It's harming a living creature. The Maw raises the same question from the other side: a hungry creature that slipped its leash, not a villain.
 - **One quiet, devastating speech:** see "The quiet speech" below.
 
 ### The quiet speech

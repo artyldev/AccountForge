@@ -42,6 +42,7 @@ These keep the story free of plot holes. Check new lore against them.
 | **Fulcrum Station** (proposed) | The neutral trade station at the center of the system | Starting location |
 | **The Almanac** | Lumenhold's reference for everything: Blink times, routes, prices, contracts, notices. Fed live into every Lens. | Used from the first minute |
 | **Stormdust** | The glowing fog that makes up the Ion Storm | Seeing the storm, mining in it |
+| **The Altar** | An ancient structure at the heart of Umbra, worshipped by the Unlit | Chapter 2 |
 | **The Old World** | A civilization older than the Firstlight. Only relics remain. | Relics, the Ion Storm |
 | **The Vesper Order** (tentative) | Scholar-monks on Vesper who study the Old World | Mid-game (Old World storyline) |
 
@@ -55,7 +56,7 @@ These keep the story free of plot holes. Check new lore against them.
 - **Shard energy is flame energy.** Ships, weapons, lights and settlements all run on it. Shards can be used up, and a spent shard never comes back.
 - **Shards are still bound to the Elder Flame.** Burning one drains the Flame a little. *(Almost nobody knows this.)*
 - **The Seam and the Blink.** Once a day the Flame passes through the Seam: it enters at one horizon, goes dark while inside, and comes out at the opposite horizon. Old records say the Blink was once instant. **It is getting longer.**
-- **The Maw** lives in the Seam. It is aware, ancient and patient, but it is **not a god**. It feeds on the light that leaks from the wound. It is weak in light, so it can only reach into the world during the Blink and in the deep dark of Umbra. **It grows as the Flame weakens.** The Hearthfleet call it "the Maw", the Meridians "the Null Point", the Unlit "the Quiet". *(What it really is: see Hidden truths.)*
+- **The Maw** lives in the Seam. It is aware, ancient and patient, but it is **not a god**. Nobody made it. It's a natural thing, like a black hole that can think. It feeds on the light that leaks from the wound. It is weak in light, so it can only reach into the world during the Blink and in the deep dark of Umbra. **It grows as the Flame weakens.** The Hearthfleet call it "the Maw", the Meridians "the Null Point", the Unlit "the Quiet". *(What it really is: see Hidden truths.)*
 - **Hollows** come out of the Seam during the Blink. They contain no flame essence at all.
 
 ### The Lens and Truesight
@@ -89,27 +90,28 @@ It's printed once a year, and **streamed live into every Lens** as the Almanac f
 
 A planet-sized cloud of glowing fog that drifts through space. It has no surface and can pass right over planets. Its outer layer crackles with lightning. Its center is calm, and rich in rare ore.
 
-**The fog is made of stormdust.** Everyone assumes it's ordinary charged dust. **It isn't.** Every grain is a tiny Old World machine, and the whole cloud moves as one swarm. *(Players learn this mid-story. Until then it's just "stormdust".)* No ruins or big structures are needed. The cloud itself is the artifact.
+**The fog is made of stormdust, and it's alive.** Everyone assumes it's ordinary charged dust. **It isn't.** Each grain is tiny and simple, but together the cloud behaves like one creature: a living swarm that feeds on the charged matter the Flame throws off. *(Players learn this mid-story. Until then it's just "stormdust".)* No ruins or big structures are needed. The cloud itself is the mystery.
 
 **What players can discover:**
 - **It follows a path.** It's slow and it repeats, so it can be charted and predicted.
 - **It keeps glowing during the Blink.** It's the only light in the sky when the Flame goes dark, because **it doesn't run on shards**.
 - **Hollows won't enter it.** During the Blink it's the safest place in the system.
 - **The ore** is matter the stormdust has gathered and fused. The lightning is their overflow.
-- **Dead stormdust grains**, under magnification, carry a tiny etched word: **HELIOS**.
+- **A few grains are different.** One grain in many thousands was clearly *made*, not grown, and carries a tiny etched word: **HELIOS**. These are **shepherd grains**, the Old World's way of steering the swarm.
 - *(Optional later)* Debris and ore chunks drifting in the calm center, for more to see and mine.
 
-The storm is the **Old World's last working machine**, and its biggest mystery. What it's for is in Hidden truths.
+The storm is the **oldest living thing anyone knows of**, and the Old World once guided it. Why is in Hidden truths.
 
 ---
 
 ## The Old World
 
-Before the Firstlight there was another civilization. It left behind relics and the Ion Storm. Nobody knows where it came from or where it went.
+Before the Firstlight there was another civilization. It didn't build great machines to keep its sun alive. It **found two living forces near the Flame and harnessed them**. What's left: relics, and the remains of those harnesses. Nobody knows where it came from or where it went.
 
 ### What players find
-- **The Ion Storm:** the largest Old World remnant, still working.
-- **HELIOS:** a word etched on dead stormdust grains, and also on Lumenhold's oldest seal. Nobody can translate it.
+- **Shepherd grains:** rare made grains inside the living Ion Storm, which once steered it.
+- **The Altar in Umbra:** an ancient structure near the Seam, worshipped by the Unlit. Nobody remembers who raised it. *(What it really is: see Hidden truths.)*
+- **HELIOS:** a word etched on shepherd grains, worn faintly into the Altar in Umbra, and stamped on Lumenhold's oldest seal. Nobody can translate it.
 - **Old names:** **Pallas** and **Vesper** already carried these names in the oldest Firstlight records, and no known language explains them.
 - **Relics:** a gold disc engraved with a diagram of lines and dots, a coin with a face and unreadable letters, star charts with one circled star that isn't in the sky.
 
@@ -142,7 +144,7 @@ Years are counted **forward from the Great Flare**, as plain numbers: the presen
 | ~Year 150 | **The Divergence** | People split over how to live in the broken world. The Hearthfleet, the Meridians and the Unlit form. |
 | ~Year 210 | **Cinderreach** | A Hearthfleet Rekindling sets a great shard burning forever. The Cinder Wardens are founded as penance. |
 | ~Year 300 | **Rimefall** | The Meridians drain a great shard. The region freezes. **That year the Blink grows noticeably longer.** Lumenhold's Almanac office notices, and quietly changes the numbers. |
-| ~Year 340 | **Umbra goes dark** | The Unlit put out the old shard-beacons. The region falls into darkness. |
+| ~Year 340 | **Umbra goes dark** | The Unlit put out the old shard-beacons around the Altar. The region falls into darkness, and the Maw draws closer. |
 | ~Year 360 | **The first Titans** | Lumenhold's "lost automated harvesters" appear in Cinderreach. |
 | Year 381 | **The Shard War begins** | Rich shard veins are found on Tallow and Sable. See The Shard War. |
 | Year 397 | **The Ceasefire of Sable** | A peace that lasts eleven days. |
@@ -194,6 +196,8 @@ Engineers and planners who build ivory-and-gold cities lit with solid light. The
 
 ### The Unlit: something else
 They live in and around Umbra, study the Maw, and believe the dark is coming whatever anyone does, so they've learned to live in it. They are the makers of Truesight.
+
+At the heart of Umbra stands **the Altar**, an ancient structure near the Seam. During the Blink the Unlit gather there in total darkness to listen to the Quiet. They believe it was raised by the first people ever to hear it. *(It wasn't. See Hidden truths.)*
 - **Right:** the dark can be understood and survived.
 - **Wrong:** they've stopped trying to save anyone else.
 - **Their disaster: Umbra.**
@@ -246,7 +250,7 @@ The Meridians hold the 12 o'clock side, the Hearthfleet the 4–5 o'clock side, 
 
 **Rimefall:** the Meridians drained a great shard to build a power source of their own. The shard died, the region froze, and the atmosphere thinned. Frozen ruins of a Meridian citadel are still locked in the ice. Survivors' families are still refugees.
 
-**Umbra:** once kept lit by old shard-beacons. The Unlit put the beacons out because they burned shards. The region went dark, and the Maw drew closer. It lies nearest the Seam.
+**Umbra:** once lit by a ring of old shard-beacons around the Altar. The Unlit put the beacons out around Year 340, partly to stop burning shards and partly as devotion, so the Altar would stand in the dark the Quiet loves. The region went dark, and the Maw drew closer. It lies nearest the Seam. *(What the beacons really were: see Hidden truths.)*
 
 ---
 
@@ -344,7 +348,7 @@ Human faces for each group. Each one wants something, and each one is right abou
 | **Wren** | Unlit | A young pilot who guides salvagers into Umbra. The player's way into Unlit territory. | To prove the Unlit aren't just giving up | Has started to hear the Quiet. |
 | **Guildmaster Rook Halloran** | Umbra Salvage Guild | Runs the salvage outpost on Umbra's edge | Profit, and the crew's safety | Knows the Hollow Fleet grows after every big battle. Sells that information to no one. |
 | **Juno Sallow** | Independent (bazaar) | A broker who hands out War Contracts for a cut. The human face of the job board. | To stay neutral and get rich | Knows which side Lumenhold wants to win each month, and has noticed it changes. |
-| **Prior Anselm** | Vesper Order | Elder of the scholar-monks on Vesper | To read HELIOS before the Order dies out | Has a dead stormdust grain under a lens, and suspects it was *made*. |
+| **Prior Anselm** | Vesper Order | Elder of the scholar-monks on Vesper | To read HELIOS before the Order dies out | Has spent years sifting stormdust and found a few grains that aren't like the rest: they were *made*. |
 
 ### Why Warden-Captain Kettering doubts the Titans are rogue
 The Wardens have watched Titans for 50 years, and three things don't add up:
@@ -367,13 +371,14 @@ This is the modern-debt theme (needing loans to get a start in life), handled th
 | Mystery | Answer (author only) |
 |---|---|
 | Why is the Blink getting longer? | Shard burning drains the Flame. The Almanac has been altered to hide it. |
-| What is the Maw? | The Old World's Damper, out of balance (see Hidden truths) |
+| What is the Maw? | A natural, aware being that feeds on light. The Old World once kept it harnessed (see Hidden truths) |
+| What is the Altar in Umbra? | The Damper: what's left of the Old World's harness for the Maw |
 | What happened at Rimefall? | The Meridians drained a great shard |
-| Who darkened Umbra? | The Unlit put out the beacons |
+| Who darkened Umbra? | The Unlit put out the beacons, which were the Damper's anchors |
 | Why does Cinderreach never stop burning? | A Hearthfleet Rekindling went wrong |
 | What's really in your contract? | A hidden clause, revealed when it's paid off |
 | Who owns the Titans? | See Hidden truths |
-| What is the Ion Storm? | See Hidden truths. Partly solvable. |
+| What is the Ion Storm? | A living swarm the Old World harnessed (see Hidden truths). Partly solvable. |
 | What makes Lumenhold hulls impossible to copy? | Stormdust plating from the Ion Storm (see Hidden truths) |
 | Who broke the Ceasefire of Sable? | Lumenhold |
 | Why don't the Almanac's Blink numbers match the Hearthfleet bell-records? | The Almanac has been altered since about Year 300 |
@@ -388,16 +393,16 @@ This is the modern-debt theme (needing loans to get a start in life), handled th
 
 1. **Lumenhold has known for generations that shards are bound to the Flame**, and that every shard burned dims it. They hide this by altering the Flame Almanac.
 2. **Their goal isn't to fix the Flame.** A healed Flame means free light, and that would end their business. The war burns shards, which weakens the Flame, which makes their stockpile worth more. When the Flame is dim enough, **Lumenhold owns the last light.**
-3. **Lumenhold's monopoly is the Ion Storm.** Every sealed hull needs stormdust plating (publicly sold as "Lumenhold sealant"), and only Lumenhold knows where it comes from. They quietly harvest the storm. That's why no one, not even the Meridians, can copy their ships. HELIOS on their seal was copied from the grains. They use the stormdust without understanding it, and **every harvest weakens the Tender** (see 5).
+3. **Lumenhold's monopoly is the Ion Storm.** Every sealed hull needs stormdust plating (publicly sold as "Lumenhold sealant"), and only Lumenhold knows where it comes from. They quietly harvest the storm. That's why no one, not even the Meridians, can copy their ships. HELIOS on their seal was copied from a shepherd grain found in their very first harvest. They use the stormdust without understanding it. **Every harvest kills living stormdust and sometimes scoops up shepherd grains**, pushing the storm further off course (see 5).
 4. **The Titans are Lumenhold's, and they're still running.** They mine Cinderreach's burning shard for Lumenhold, and the "rogue" story means Lumenhold can deny responsibility. **Lumenhold doesn't need players to fight them. It profits either way:**
    - If a Titan completes its run, its Heart goes to a hidden Lumenhold collection point.
    - If players destroy it, they bring the Heart to Lumenhold's Forge and pay forging fees. Or they sell it on Lumenhold's auction house, which takes a cut.
    - Lost Titans are rebuilt in parts at Fulcrum Station's shipyard, listed as "export hull components." Players who buy from that shipyard are paying for the bosses they fight.
-5. **The Ion Storm is a Flame-tender.** The Old World built the stormdust swarm to collect the charged matter the Elder Flame throws off and feed it back, keeping the Flame stable. **The Firstlight lasted exactly as long as the Tender kept its course.** Nobody remembered how to maintain it. It drifted off its path, and the Great Flare followed. Lumenhold's harvesting has been shrinking it ever since. Nobody did it on purpose; people simply forgot. **Restoring the Tender could slow the Flame's decay.** That's the long-term thread of hope.
-6. **The Old World** *(author's private answer, never confirmed in the game)*: the people's ancestors arrived long ago, an expedition named HELIOS that built the Tender for its new sun. Over the centuries of the Firstlight they forgot, and the Great Flare destroyed the last records.
+5. **The Ion Storm is a living swarm the Old World harnessed as a Flame-tender.** Stormdust naturally feeds on the charged matter the Elder Flame throws off. The Old World discovered it and seeded it with **shepherd grains** that steered it on a course where that matter was fed back into the Flame, keeping it stable. The storm was never built and never owned, only guided. **The Firstlight lasted exactly as long as the Tender kept its course.** Nobody remembered how to look after the shepherd grains. They wore out, the storm drifted, and the Great Flare followed. Lumenhold's harvesting has been shrinking it ever since. Nobody did it on purpose; people simply forgot. **Restoring the Tender, by replacing the shepherd grains and guiding it back on course, could slow the Flame's decay.** That's the long-term thread of hope.
+6. **The Old World** *(author's private answer, never confirmed in the game)*: the people's ancestors arrived long ago, an expedition named HELIOS that found two living forces near its new sun, the stormdust swarm and the Maw, and harnessed them to keep the sun steady. Over the centuries of the Firstlight they forgot, and the Great Flare destroyed the last records.
 7. **Lumenhold broke the Ceasefire of Sable.** The convoy destroyed near Tallow in Year 397 was hit by an unmarked Lumenhold ship. Peace would have ended the war contracts, and burned fewer shards.
 8. **The Almanac lie started at Rimefall (about Year 300).** That year the Blink jumped noticeably. Lumenhold's Almanac office realized what shard burning does, and has changed the numbers ever since. Hearthfleet shrines kept their own bell-records of Blink lengths. **Comparing the two is how players catch the lie.**
-9. **The Maw is the Old World's second machine.** The HELIOS expedition built two: the **Tender** (the Ion Storm), which feeds energy back into the Flame, and a **Damper**, which swallows excess energy when the Flame surges. Together they kept the Flame steady for the whole Firstlight. When the Tender drifted off course, the balance broke, the Flame surged, and the Great Flare tore the Damper loose. It now sits in the Seam, still doing its one job, *taking light*, with nothing to balance it. **The Blink is the Flame passing behind it.** It isn't evil. It's a machine that was never told to stop. **Restoring the Tender could calm it,** so the hope isn't killing the Maw but restoring the balance.
+9. **The Maw is natural, and the Old World put it on a leash.** It's an ancient, aware, black-hole-like being that feeds on light. Nobody made it. The HELIOS expedition found it near the Flame and built **the Damper**: a harness of anchors around it, powered by shard-beacons, that held it at a distance and let it feed only on the Flame's *excess* when the Flame surged. The Tender fed the Flame, the Maw ate the surplus, and the Damper kept the Maw in check: balance. When the Tender drifted, the Flame surged, and the Great Flare cracked the Damper. The Maw slipped closer and now sits in the Seam. **The Blink is the Flame passing behind it.** The Damper's last surviving piece is **the Altar in Umbra**, and **the beacons the Unlit put out around Year 340 were its anchors.** That's why the Maw drew closer that year. The Unlit have spent generations worshipping the harness without knowing it was built to hold back the very thing they listen to. The Maw isn't evil. It's a hungry creature that slipped its leash. **The hope isn't killing it, but restoring the balance:** guide the Tender back on course, and relight the Damper's anchors.
 10. **The war feeds the Maw.** Every wreck from the Shard War is a new hull for the Hollow Fleet.
 11. **Every faction has blood on its hands** (Cinderreach, Rimefall, Umbra). Lumenhold's crimes all come after the Great Flare.
 12. **The theme:** the Firstlight ended because people forgot how to tend their sun. The present day is ending because people are burning it on purpose.
@@ -415,6 +420,7 @@ This is the modern-debt theme (needing loans to get a start in life), handled th
 - [x] The Ion Storm is aware (decided). Lumenhold's harvesting is harm to a living thing.
 - [x] The Lens is an eye implant that explains the UI (decided).
 - [x] Currency stays "coins" (Lumenhold coin in the lore).
-- [ ] Approve the Maw-as-Damper idea (Hidden truths #9).
+- [x] The Maw and the Ion Storm are natural living forces the Old World **harnessed**, not built (decided).
+- [x] The Damper is the Old World's harness for the Maw, worshipped by the Unlit as the Altar (decided).
 - [ ] Approve the character list and dates, or change them.
-- [ ] Endgame / chapter structure: what can the player do about the Flame and the Tender?
+- [ ] Endgame / chapter structure: what can the player do about the Flame, the Tender and the Damper?
