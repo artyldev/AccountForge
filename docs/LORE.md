@@ -589,6 +589,6 @@ This is the modern-debt theme (needing loans to get a start in life), handled th
 - [x] The Maw and the Ion Storm are natural living forces the Old World **harnessed**, not built (decided).
 - [x] The Damper is the Old World's feeding ring for the Maw, worshipped by the Unlit as the Altar (decided).
 - [ ] Approve the character list and dates, or change them.
-- [ ] Approve Lumenhold's people: founders Mira Holt and Garrick Lusk; today, Chair Cassia Lusk, Director Halvard Brask and Teodora Holt.
+- [x] Lumenhold's people approved: founders Mira Holt and Garrick Lusk; today, Chair Cassia Lusk, Director Halvard Brask and Teodora Holt.
 - [x] The Firstlight was a light-sail age across separate round worlds (decided). Carillon is on Threnody.
 - [ ] Endgame / chapter structure: what can the player do about the Flame, the Tender and the Damper?
