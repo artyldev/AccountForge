@@ -30,7 +30,7 @@ These keep the story free of plot holes. Check new lore against them.
 |---|---|---|
 | **The Elder Flame** | The sun. Everyday name: "the Flame." | From the start |
 | **The Firstlight** | The age of prosperity before the Great Flare | Ruins, old texts, NPC nostalgia |
-| **The Hearth** | The single world everyone lived on during the Firstlight. The Great Flare shattered it into today's planetoids. | Ruins, old maps, the Hearthfleet's name |
+| **Light-sail barges** | The ships of the Firstlight. They sailed between worlds on the Flame's steady light. Their wrecks still drift. | Drifting wrecks, Hearthfleet hull paint |
 | **The Great Flare** | The disaster that broke the Flame and scattered its pieces | Opening story |
 | **Shards** | Pieces of the Elder Flame. They power everything. | First minutes (your ship runs on one) |
 | **The Seam** | A wound in the sky left by the Great Flare | Seen during the first Blink |
@@ -52,8 +52,8 @@ These keep the story free of plot holes. Check new lore against them.
 ## How the world works
 
 - **The Elder Flame** is the sun. In the Firstlight it was whole. The **Great Flare** tore pieces off it and flung them across the sky. Nobody caused it on purpose (see Hidden truths).
-- **Every planetoid is a fragment of the Hearth with a shard lodged in its core.** When the Great Flare flung pieces of the Flame outward, they struck the Hearth and shattered it. Each fragment held together around the shard that hit it. The shard gives a planetoid its gravity, its atmosphere and its environment. A burning shard makes a lava world. A drained shard makes an ice world.
-- **Space is deadly.** Away from a shard's pull there is no air and no warmth, which is why every ship is fully enclosed.
+- **Shards fell onto the worlds.** The planets are old, and people lived on them long before the Great Flare. When the Flare flung pieces of the Flame outward, they rained down and lodged in the worlds, and each world's shard reshaped it. A burning shard made a lava world. A drained shard makes an ice world, and its air thins. That's why every planet is so different.
+- **Space is deadly.** Between worlds there is no air, and since the Flare the Flame's light is wild and harsh. Every ship is fully enclosed and shielded.
 - **Shard energy is flame energy.** Ships, weapons, lights and settlements all run on it. Shards can be used up, and a spent shard never comes back.
 - **Shards are still bound to the Elder Flame.** Burning one drains the Flame a little. *(Almost nobody knows this.)*
 - **The Seam and the Blink.** Once a day the Flame passes through the Seam: it enters at one horizon, goes dark while inside, and comes out at the opposite horizon. Old records say the Blink was once instant. **It is getting longer.**
@@ -131,37 +131,44 @@ Scholar-monks living on lonely Vesper, where the sky is clearest. They chart the
 
 ## The Firstlight
 
-The Old World is the deep mystery. **The Firstlight is the lost golden age** that every faction is nostalgic for, argues over and claims to be heir to. It should feel close and personal, a time people's great-great-grandparents' stories still reach back to.
+The Old World is the deep mystery. **The Firstlight is the lost golden age** that every faction is nostalgic for, argues over and claims to be heir to. It should feel close and personal, a time that great-great-grandparents' stories still reach back to.
 
-### The Hearth
-During the Firstlight everyone lived on **one world: the Hearth.** It circled a whole, steady Elder Flame. There were no shards, no Blink and no Seam.
-- **The Great Flare shattered the Hearth.** Today's planetoids are its fragments, which is why Firstlight ruins turn up on almost every one of them.
-- **Some cities were split in two.** The Firstlight capital, **Carillon, the City of Bells**, broke in half: one half is on **Threnody**, the other on **Mourn**. Survivors named those fragments in grief. Finding the matching halves is a natural exploration quest.
-- **Fulcrum Station stands where the Hearth's core used to be.** Lumenhold built its hub at the exact center of the old world. People in the Hearthfleet find that offensive.
-- **Your map is the Hearth's remains:** a station at the center, with fragments drifting outward.
+### The light-lanes
+- **The worlds were always separate, round planets,** as they appear in the game. People lived across many of them.
+- **The Flame was whole and steady,** so its light flowed between worlds in reliable streams: **the light-lanes**.
+- **Light-sail barges** rode them: big enclosed hulls under enormous sails that caught the Flame's light, crossing from world to world. *(This is based on real physics. Sunlight pushes very gently on a surface, and real spacecraft have used sails to travel on it, such as Japan's IKAROS in 2010.)*
+- **One people, many worlds,** tied together by barge routes, trade and bells.
+- **Fulcrum Station stands where the busiest light-lanes once crossed.** Lumenhold built its hub on the Firstlight's old crossroads.
 
 ### Life in the Firstlight
-- **Light was free.** The Flame was steady, and nobody burned anything for power. Life ran on sunlight, wind and water. There was no shard economy, because there were no shards.
-- **It looked like our "medieval space" style:** stone, timber, brass, bells, banners, sky-barges. This is where the Hearthfleet's look comes from.
-- **Sky-barges** sailed the Hearth's open air. When the world broke apart, the ones that were airborne were thrown into space, and their wrecks still drift between fragments. *(This is where your "space boats" idea lives: Firstlight wrecks, not a vehicle system.)*
-- **Bells kept time.** Carillon's bells marked the hours and the seasons. The Hearthfleet's Blink bells and bell-records descend from this tradition.
+- **Light was free.** The Flame was steady, and nobody burned anything for power. Barges sailed on light, and cities ran on sunlight, wind and water. There were no shards and no shard economy.
+- **It looked like our "medieval space" style:** stone, timber, brass, bells, banners, and great sails. This is where the Hearthfleet's look comes from.
+- **The capital was Carillon, the City of Bells,** on the world now called **Threnody**. A threnody is a song of mourning; survivors named the world after the laments sung over the ruined city. Carillon's ruins are a natural exploration site.
+- **Bells kept time.** Carillon's bells marked the hours, the seasons and barge departures. The Hearthfleet's Blink bells and bell-records descend from this tradition.
 - **Firstlight people had their own myths about the Old World.** Their stories mention "the Ones Who Came from Beyond the Flame" as legend. Even the Firstlight had forgotten its own origins.
 
 ### The Keepers of the Course
-The Old World's knowledge of the harnesses passed to an order called **the Keepers of the Course**. Their duty was to look after the shepherd grains and keep the Ion Storm on course, and to keep the Damper's beacons lit.
+The Old World's knowledge of the harnesses passed to an order called **the Keepers of the Course**. Their duty was to look after the shepherd grains, keep the Ion Storm on course, and keep the Damper's beacons lit.
 - **Over centuries, the duty turned into ritual.** The Keepers kept performing a ceremony called *the Tending* without understanding the technical meaning of the steps.
 - **The last Keeper who truly understood died long before the Flare.** After that the order was ceremonial, then religious, then a quaint tradition. The shepherd grains wore out, and nobody knew how to replace them.
 - **Their motto survives as a proverb:** *"Tend the fire you have."*
-- **The Keepers measured the Flame carefully**, ringing and recording the hours. **That habit survived in the Hearthfleet as bell-records**, which is why the Hearthfleet has accurate Blink records that can expose the Almanac.
+- **The Keepers measured the Flame carefully,** ringing and recording the hours. **That habit survived in the Hearthfleet as bell-records**, which is why the Hearthfleet has accurate Blink records that can expose the Almanac.
 
-### Why the Firstlight ended
-**Nobody attacked it. Nobody did anything wrong. Everyone just forgot.** Comfort made the Keepers' work feel unnecessary, until it wasn't. That's the Firstlight's lesson, and it mirrors the present: the Firstlight ended because people *forgot* to tend their sun, and the present day is ending because people are *burning* it.
+### How it ended
+The Great Flare made the Flame's light wild, then unsteady. **Sails burned, and barges caught between worlds were lost.** Shards rained down and transformed the planets. With no steady light left to sail on, **every world was cut off from every other.** That was the Scattering, and it lasted until Lumenhold built ships that didn't need steady light.
+
+**Nobody attacked the Firstlight. Nobody did anything wrong. Everyone just forgot.** Comfort made the Keepers' work feel unnecessary, until it wasn't. That's the Firstlight's lesson, and it mirrors the present: the Firstlight ended because people *forgot* to tend their sun, and the present day is ending because people are *burning* it.
+
+### What's left
+- **Barge wrecks** with torn sails drift between worlds. They're the "space boats" idea as history: explorable wrecks and set dressing, not a vehicle system.
+- **Ruins** on many planets: towers, bell-frames, barge docks built for ships that will never come.
+- **Carillon** on Threnody.
 
 ### Who claims the Firstlight
 | Group | Their claim |
 |---|---|
-| **Hearthfleet** | "We are the Hearth's true heirs." Their name means the fleet that carries the Hearth's memory. They keep its crafts, bells and shrines. |
-| **Meridians** | "We are its builders." Their name comes from the meridian lines Firstlight surveyors drew across the Hearth. They see themselves as heirs to its engineering, not its rituals. |
+| **Hearthfleet** | "We are its true heirs." They descend from the Firstlight's **barge guilds**. They're forced to fly Lumenhold ships now, but they still call them "barges" and **paint sails on the hulls**. They keep the old crafts, bells and shrines. |
+| **Meridians** | "We are its minds." They descend from the Firstlight **navigators who charted the light-lanes**. Their name comes from the routes they drew between worlds. They see themselves as heirs to its knowledge, not its rituals. |
 | **Unlit** | "It's gone. Stop praying to a corpse." They reject the nostalgia completely. |
 | **Lumenhold** | Sells the nostalgia. "Light for All" was a Firstlight inscription, and Lumenhold put it on every gate. They promise the Firstlight's comfort while doing the opposite of what made it work. |
 
@@ -175,11 +182,11 @@ Years are counted **forward from the Great Flare**, as plain numbers: the presen
 |---|---|---|
 | ??? | **The Old World** | Unknown. Only relics and the Ion Storm remain. |
 | ??? | **The Arrival** | *Hidden.* See Hidden truths. |
-| (no numbered years) | **The Firstlight** | Everyone lives on one world, **the Hearth**, under a whole and steady Flame. Light is free. A long age of prosperity. The Keepers of the Course guide the Ion Storm, until their knowledge fades into ritual (see The Firstlight). |
-| Year 0 | **The Great Flare** | The Flame surges and breaks. Its shards strike the Hearth and shatter it into fragments, each held together by a shard. The Seam opens, and the first Blink happens. Almost every record is lost. |
-| Years 0–60 | **The Scattering** | Survivors are stranded on separate fragments, drifting apart, with no way to cross between them. Families are split across worlds. They name their fragments out of grief and hope: Threnody, Mourn, Ossuary, Solace, Halcyon. |
-| ~Year 60 | **The Founding** | The Ion Storm drifts over a small planetoid where a crew of salvagers lives. They find that **stormdust, ground into hull plating, lets a ship survive open space.** They build the first sealed ships and reconnect the worlds. They become **Lumenhold**. Their home planetoid is renamed **Kiln**, after their first workshop. |
-| ~Year 90 | **Fulcrum Station** | Lumenhold builds the Station at the center of the debris field, **where the Hearth's core used to be**. They borrow an old Firstlight inscription for the gates: "Light for All." |
+| (no numbered years) | **The Firstlight** | One people across many worlds, linked by light-sail barges on the steady light of a whole Flame. Light is free. A long age of prosperity. The Keepers of the Course guide the Ion Storm, until their knowledge fades into ritual (see The Firstlight). |
+| Year 0 | **The Great Flare** | The Flame surges and breaks. Its light turns wild, sails burn, and barges in transit are lost. Shards rain onto the worlds and transform them. The Seam opens, and the first Blink happens. Almost every record is lost. |
+| Years 0–60 | **The Scattering** | With no steady light to sail on, every world is cut off. Families are split across worlds. Survivors rename their changed worlds out of grief and hope: Threnody, Mourn, Ossuary, Solace, Halcyon. |
+| ~Year 60 | **The Founding** | The Ion Storm drifts over a small planetoid where a crew of salvagers lives. They find that **stormdust, ground into hull plating, shields a ship from the Flame's wild light**, and that shards can drive engines. They build **the first ships that don't need steady light** and reconnect the worlds. They become **Lumenhold**. Their home planetoid is renamed **Kiln**, after their first workshop. |
+| ~Year 90 | **Fulcrum Station** | Lumenhold builds the Station **where the busiest Firstlight light-lanes once crossed**. They borrow an old Firstlight inscription for the gates: "Light for All." |
 | ~Year 150 | **The Divergence** | People split over how to live in the broken world. The Hearthfleet, the Meridians and the Unlit form. |
 | ~Year 210 | **Cinderreach** | A Hearthfleet Rekindling sets a great shard burning forever. The Cinder Wardens are founded as penance. |
 | ~Year 300 | **Rimefall** | The Meridians drain a great shard. The region freezes. **That year the Blink grows noticeably longer.** Lumenhold's Almanac office notices, and quietly changes the numbers. |
@@ -220,14 +227,14 @@ Years are counted **forward from the Great Flare**, as plain numbers: the presen
 All three fly the same Lumenhold ships and carry the same weapons. They differ in **beliefs, cities, clothing, banners and ship colors** (cosmetic only).
 
 ### The Hearthfleet: the old ways
-Guild families bound by oaths and crafts, who see themselves as the Hearth's true heirs. They live in stone-and-timber holds, keep shrines to the Elder Flame, and ring bells that descend from Carillon's. They believe the Flame will recover if people stop burning so many shards. Their smiths also work the **Forge** on Fulcrum Station under a Lumenhold license.
+Guild families bound by oaths and crafts, descended from the Firstlight's barge guilds. They see themselves as its true heirs, still call their ships "barges", and paint sails on the hulls. They live in stone-and-timber holds, keep shrines to the Elder Flame, and ring bells that descend from Carillon's. They believe the Flame will recover if people stop burning so many shards. Their smiths also work the **Forge** on Fulcrum Station under a Lumenhold license.
 - **Right:** they've guessed the real cause.
 - **Wrong:** they still fly shard-burning ships to fight for their beliefs.
 - **Their disaster: Cinderreach.**
 - **Territory:** the Ashway and Cinderreach (4–5 o'clock).
 
 ### The Meridians: the future
-Engineers and planners who take their name from the meridian lines Firstlight surveyors drew across the Hearth. They build ivory-and-gold cities lit with solid light. They want a power source of their own to break Lumenhold's monopoly.
+Engineers and planners descended from the Firstlight navigators who charted the light-lanes. Their name comes from the routes they drew between worlds. They build ivory-and-gold cities lit with solid light. They want a power source of their own to break Lumenhold's monopoly.
 - **Right:** the monopoly is the real danger.
 - **Wrong:** their shortcuts cost whole worlds.
 - **Their disaster: Rimefall.**
@@ -246,7 +253,7 @@ At the heart of Umbra stands **the Altar**, an ancient structure near the Seam. 
 
 ## The map
 
-Space has no north, so in-world people navigate by landmarks ("Rimefall-side", "past the Divide"). These docs use **clock positions on the map screen**, with Fulcrum Station at the center and Rimefall at 12 o'clock. The whole map is the shattered Hearth: Fulcrum Station sits where its core was, and the planetoids are its fragments drifting outward.
+Space has no north, so in-world people navigate by landmarks ("Rimefall-side", "past the Divide"). These docs use **clock positions on the map screen**, with Fulcrum Station at the center and Rimefall at 12 o'clock. Fulcrum Station sits where the Firstlight's busiest light-lanes once crossed.
 
 The Meridians hold the 12 o'clock side, the Hearthfleet the 4–5 o'clock side, and the Unlit the 9 o'clock side. The Shard War is fought on the 3 o'clock flank, between the Meridian and Hearthfleet territories. That puts it within sight of the Station, which profits from it.
 
@@ -409,14 +416,14 @@ Fulcrum Station is covered in cheerful Lumenhold messaging: posters, signs and a
 
 ## Characters
 
-Human faces for each group. Each one wants something, and each one is right about something. Names are tentative.
+Human faces for each group. Each one wants something, and each one is right about something. Names are tentative. **Full backstories and chapter-by-chapter arcs are in CHARACTERS.md.**
 
 | Character | Group | Role | Wants | Secret or arc |
 |---|---|---|---|---|
 | **Quartermaster Vance** | Lumenhold | Runs the shipyard. Gives the player their first ship. | To do right by new pilots. Genuinely believes Lumenhold keeps the system running. | Eventually finds out what the "export hull components" really are: Titan parts. Has to decide what to do about it. |
 | **Almanac-Keeper Edda Crane** | Lumenhold | Head of the Almanac office | Order. Believes the truth about the Blink would cause panic and war. | Changes the numbers every year. Sees it as a kind lie that keeps the peace. |
 | **Warden-Captain Maud Kettering** | Hearthfleet (Cinder Wardens) | Guards the approach to Cinderreach. Posts Titan bounties. | To make up for her ancestors' Rekindling | Has three reasons to doubt the "rogue" story (see below). Can't prove who's behind it. |
-| **Chief Engineer Idris Vale** | Meridians | Leads Meridian research | A power source no one can take away | A grandparent signed off on the Rimefall drain. Idris is quietly planning a new shortcut, using Titan Hearts. |
+| **Chief Engineer Idris Vale** | Meridians | Leads Meridian research | A power source no one can take away | An ancestor signed off on the Rimefall drain, and the Vale name has carried it ever since. Idris is quietly planning a new shortcut, using Titan Hearts. |
 | **Wren** | Unlit | A young pilot who guides salvagers into Umbra. The player's way into Unlit territory. | To prove the Unlit aren't just giving up | Has started to hear the Quiet. |
 | **Guildmaster Rook Halloran** | Umbra Salvage Guild | Runs the salvage outpost on Umbra's edge | Profit, and the crew's safety | Knows the Hollow Fleet grows after every big battle. Sells that information to no one. |
 | **Juno Sallow** | Independent (bazaar) | A broker who hands out War Contracts for a cut. The human face of the job board. | To stay neutral and get rich | Knows which side Lumenhold wants to win each month, and has noticed it changes. |
@@ -455,7 +462,8 @@ This is the modern-debt theme (needing loans to get a start in life), handled th
 | What makes Lumenhold hulls impossible to copy? | Stormdust plating from the Ion Storm (see Hidden truths) |
 | Who broke the Ceasefire of Sable? | Lumenhold |
 | Why don't the Almanac's Blink numbers match the Hearthfleet bell-records? | The Almanac has been altered since about Year 300 |
-| Why do Threnody and Mourn have matching ruins? | They hold the two halves of Carillon, the Firstlight capital |
+| Why is there a ruined city of bells on Threnody? | It was Carillon, the Firstlight capital |
+| Why do barge docks stand on worlds no ship can sail to? | The Firstlight sailed on light, until the Great Flare |
 | Who were the Keepers of the Course? | The order that guided the Ion Storm, until their knowledge became ritual |
 | Can the Flame be saved? | Open. This is the endgame question. |
 | Is the Elder Flame itself alive? | **Permanent mystery.** |
@@ -499,5 +507,5 @@ This is the modern-debt theme (needing loans to get a start in life), handled th
 - [x] The Maw and the Ion Storm are natural living forces the Old World **harnessed**, not built (decided).
 - [x] The Damper is the Old World's harness for the Maw, worshipped by the Unlit as the Altar (decided).
 - [ ] Approve the character list and dates, or change them.
-- [ ] Approve the Hearth (single shattered homeworld) and Carillon split between Threnody and Mourn.
+- [x] The Firstlight was a light-sail age across separate round worlds (decided). Carillon is on Threnody.
 - [ ] Endgame / chapter structure: what can the player do about the Flame, the Tender and the Damper?

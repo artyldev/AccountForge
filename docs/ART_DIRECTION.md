@@ -45,7 +45,7 @@ Players should be able to tell *when* something is from at a glance:
 | Era | Look | Where |
 |---|---|---|
 | **The Old World** | Smooth, cast-looking, strange. Cold white-blue accents. Faint HELIOS marks. | The Altar, shepherd grains, relics |
-| **The Firstlight** | Warm "medieval space": stone, timber, brass, bells, banners, sky-barge wrecks | Ruins on almost every planetoid, Carillon's halves, Hearthfleet holds |
+| **The Firstlight** | Warm "medieval space": stone, timber, brass, bells, banners, great sails | Ruins on many planets, Carillon on Threnody, drifting light-sail barge wrecks, Hearthfleet holds and their sail-painted hulls |
 | **The Lumenhold age (now)** | Industrial sci-fi: riveted metal, stencils, amber branding, ads | Ships, Fulcrum Station, Titans |
 
 ---
@@ -99,6 +99,14 @@ Always check the license. A monetized Roblox game needs a license that **allows 
 - **Roblox Creator Store:** check for hidden scripts before using anything.
 
 **The cheapest way to get unique bosses:** kitbash the ships you already have in Blender, scale them up, add armor, and retexture with the wear-and-tear rules. That's a good second job for the pipeline, after the Lumenhold ship remaster.
+
+---
+
+## Light-sail barge wrecks
+
+Firstlight ships drifting between worlds: hull shapes like old sailing barges, with timber-and-brass detail, masts and tattered light-sails. Centuries of drift: frost, pitting, sun-bleached sails. These are static set dressing, so they're a good Blender pipeline job, and they're the one place the original "Age of Sail" look lives on.
+
+**Hearthfleet hull paint:** a cosmetic that paints stylized sails along the hull of a standard Lumenhold ship.
 
 ---
 
