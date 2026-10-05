@@ -87,9 +87,20 @@ Every present-day conflict in LORE.md (the Shard War, the Ledger, the storm rush
 
 ---
 
+## Blueprints and crafting
+
+Who designs what is in LORE.md → Who makes the gear. In gameplay terms:
+
+- **Blueprints come from makers.** Lumenhold sells the standard patterns. Hearthfleet smiths, Meridian workshops and the Unlit teach their own designs as reputation rewards.
+- **The Forge on Fulcrum Station is run by Hearthfleet smiths.** Titan Heart armor is their craft, and Lumenhold takes a license fee on everything forged there.
+- **Every crafted item carries a maker's mark**, so players can see where their gear came from.
+- **Black-market blueprints:** cheaper cracked copies, sold in the bazaar. The risk is that Assessors may come looking.
+- **Late game:** the Holt Papers unlock hull work outside Lumenhold's licenses (for example, a "Holt-pattern" hull variant).
+
 ## Weapons and ships
 
-- All ships and weapons are standard Lumenhold gear. There's no faction-specific hardware, only cosmetic differences.
+- Ships and guns are standard Lumenhold patterns. Their looks can differ (faction cosmetics), but the hardware is the same.
+- **Armor, modules and upgrades are where faction gear lives** (see Blueprints and crafting).
 - Lore says "**weapons run on flame energy**." The current overheat mechanic fits. Ammo or charge mechanics would fit too, so the lore never needs changing.
 
 ---

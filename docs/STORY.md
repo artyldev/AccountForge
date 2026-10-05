@@ -45,7 +45,7 @@ Everything here is tentative.
 
 **Truth revealed:** Lumenhold's monopoly depends on the Old World, and is slowly killing a living thing the Old World once guided to tend the Flame.
 
-**Character beats:** Kettering's tracker goes dark on a Lumenhold courier lane. Juno shows you the monthly contract pattern. Tally asks you to help raid a stormdust convoy. Vance won't look inside a sealed shipment. Crane visits Vesper in secret. Wren hears the Quiet flinch from the storm.
+**Character beats:** Kettering's tracker goes dark on a Lumenhold courier lane. Juno shows you the monthly contract pattern. Tally asks you to help raid a stormdust convoy. Vance won't look inside a sealed shipment. Crane visits Vesper in secret. Wren hears the Quiet flinch from the storm. Teodora Holt asks you to deliver supplies to Solace. The convoy Tally wants raided is under Director Brask's command.
 
 **World content:** Ion Storm features (forecasts, Blink shelter, relics), the Vesper Order.
 
@@ -56,7 +56,7 @@ Everything here is tentative.
 
 **Ends with:** Crane's quiet speech (see INFLUENCES.md). Then you switch your Lens to an independent feed, and **the Blink countdown on your HUD changes.** The truth about shard burning: **every shard burned dims the Elder Flame.** Lumenhold has known for over a century.
 
-**Character beats:** Juno's Year 397 record, Kettering's evidence and Vance's leaked manifests all come together. Crane unlocks the archive, gives her quiet speech, and hands you the Second Almanac. Vance is dismissed. Rook's drift map goes public. Kettering's own council betrays her.
+**Character beats:** Juno's Year 397 record, Kettering's evidence and Vance's leaked manifests all come together. Crane unlocks the archive, gives her quiet speech, and hands you the Second Almanac. Vance is dismissed. Rook's drift map goes public. Kettering's own council betrays her. The Board makes Brask the scapegoat. Teodora forces a vote to publish and loses 6–1. Chair Cassia Lusk appears on every screen to blame "misinformation."
 
 **Truth revealed:** the core hidden truth.
 
@@ -65,11 +65,11 @@ Everything here is tentative.
 ---
 
 ## Chapter 5 and onward: Tending
-**Opening reveal:** the Vesper Order matches the HELIOS etching on the shepherd grains to the faint markings on the Altar in Umbra. The Unlit's holy place is Old World. It's **the Damper**, the harness that once held the Maw back, and the beacons the Unlit put out were its anchors.
+**Opening reveal:** the Vesper Order matches the HELIOS etching on the shepherd grains to the faint markings on the Altar in Umbra. The Unlit's holy place is Old World. It's **the Damper**, a feeding ring that once passed the Flame's surges to the Maw and kept it calm. When the Unlit put the beacons out, they starved it.
 
-**The long goal:** a quest line to restore the balance: guide the Ion Storm (the Tender) back on course, and relight the Damper's anchors in Umbra. It starts as your personal project. If the game grows, it can gain a shared progress counter everyone contributes to. The Unlit are split: some see it as betraying the Quiet, others as finally understanding it.
+**The long goal:** a quest line to restore the balance, in order: relearn how to make shepherd grains and guide the Ion Storm (the Tender) back on course, then relight the Damper so the Flame's surges feed the Maw again. It starts as your personal project. If the game grows, it can gain a shared progress counter everyone contributes to. The Unlit are split: some see it as betraying the Quiet, others as finally understanding it.
 
-**Ongoing conflicts:** Lumenhold fights to keep its monopoly. Idris Vale's Titan Heart project threatens a new Rimefall. The Maw grows bolder as the story raises the stakes.
+**Ongoing conflicts:** Lumenhold fights to keep its monopoly, and Chair Lusk offers you a seat in the Reserve. Teodora Holt releases the Holt Papers, breaking the monopoly. Idris Vale's Titan Heart project threatens a new Rimefall. The Maw grows bolder as the story raises the stakes.
 
 **Character beats:** Anselm and Crane decode the Tending. Vance builds anchor parts on Solace. Idris's Heart engine test. Rook faces the *Second Wind*. The Maw speaks through Wren. Late in the chapter, the Ion Storm speaks once.
 

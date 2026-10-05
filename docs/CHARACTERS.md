@@ -33,6 +33,9 @@ Each character has:
 | **Guildmaster Rook Halloran** | Umbra Salvage Guild | Profit and his crew's safety | Stop treating the war like weather | Ch 2 |
 | **Juno Sallow** | Independent broker | Stay neutral and get rich | Realize neutrality in a rigged game is a side | Ch 1 |
 | **Tally** | Ledgerbreakers | Free everyone from the Ledger | Learn that tearing down isn't the same as freeing | Ch 1 (rumors), Ch 2 |
+| **Chair Cassia Lusk** | Lumenhold Board | Make sure *someone* survives the Flame's failure | Accept the Flame can be saved, even though that makes her life's work a crime | Ch 1 (broadcasts) |
+| **Director Halvard Brask** | Lumenhold Operations | Run things well and keep his people paid | See that "just doing the job" is a choice | Ch 1 (his Assessors) |
+| **Teodora Holt** | Lumenhold Board (the Holt seat) | Reform Lumenhold from inside | Give up her seat and break the company to save what it was for | Ch 1 (her clinics) |
 | **Prior Anselm** | Vesper Order | Read HELIOS before the Order dies out | Share knowledge before it's lost again | Ch 3 |
 
 ---
@@ -52,6 +55,9 @@ What each character is doing in each chapter.
 | **Juno** | War Contracts | Steady work | Shows you the pattern | The Year 397 record | Picks a side |
 | **Tally** | Graffiti and rumors | Hacks your Lens | The convoy raid choice | The original contracts | Burn it down, or build |
 | **Anselm** | (none) | (none) | Shows you the shepherd grains | Reunites with Crane | Decodes the Tending |
+| **Cassia Lusk** | Broadcasts only | Almanac Day remarks | Broadcasts | Blames "misinformation" | Offers you a seat in the Reserve |
+| **Brask** | His Assessors | Weather Survey ships | Leads the convoy Tally raids | Exposed, then made the scapegoat | Informant, or gone |
+| **Teodora Holt** | Her name on Solace clinics | (background) | Asks you to supply Solace | Loses the Board vote 6–1 | Releases the Holt Papers |
 
 ---
 
@@ -67,6 +73,11 @@ What each character is doing in each chapter.
 - **Wren and Grandmother Ise:** an elder of the Listeners at the Altar. Wren left her to become a Guide.
 - **Rook and the Hollow Fleet:** its flagship is his old ship.
 - **Tally and the player:** Tally holds the original version of the player's contract.
+- **Cassia Lusk and Teodora Holt:** the two founding families, on opposite sides of the same table for three centuries.
+- **Teodora and Vance:** her clinics on Solace treated his sister. She knows his name before he knows hers.
+- **Brask and Tally:** commanding officer and former Assessor. Tally used to report to him.
+- **Brask and Juno:** in Year 397 he ordered the job she brokered, the one that broke the Ceasefire.
+- **Crane and Cassia:** Crane believes she's keeping the peace. Cassia believes Crane's lie is useful.
 
 ---
 
@@ -174,7 +185,7 @@ What each character is doing in each chapter.
 - **Ch 2:** your companion. She guides you into Umbra, you earn Truesight, fight the Hollow Fleet and visit the Altar. Ends with: *"Every battle out there sends us more of these. The war is feeding it."*
 - **Ch 3:** when the Ion Storm passes near Umbra, the Quiet *flinches*. She notices, and sends word to Anselm through you.
 - **Ch 4:** after the reveal, the Unlit split into Listeners and Guides. Her grandmother asks her to come home to the Altar.
-- **Ch 5+:** the Altar turns out to be the Damper, a harness, and that hits her hardest: her family's holy place was built to hold the Quiet back. **The Maw speaks once, through her** (see below). She backs relighting the anchors, *"not caging it, holding it,"* and reconciles with Ise, who may not agree. She becomes a new kind of Listener: one who listens *and* acts.
+- **Ch 5+:** the Altar turns out to be the Damper, and that hits her hardest: her family's holy place was a feeding ring, built to keep the Quiet fed and calm, and the Unlit starved it when they put the beacons out. **The Maw speaks once, through her** (see below). She backs relighting the beacons, *"not caging it, feeding it,"* and reconciles with Ise, who may not agree. She becomes a new kind of Listener: one who listens *and* acts.
 
 ---
 
@@ -259,6 +270,70 @@ What each character is doing in each chapter.
 
 ---
 
+## Lumenhold's leadership
+
+Lumenhold isn't one faceless villain. These are the people at the top, and they don't agree with each other.
+
+### Chair Cassia Lusk
+**Chair of the Lumenhold Board.** Mid-sixties.
+
+**Background:** a descendant of the founder Garrick Lusk, raised inside the company. She read the true Almanac at twenty. Her father adopted the Last Light doctrine around Year 360. She took the Chair in Year 380, and the next year, when the Shard War broke out, she was the one who decided Lumenhold would supply both sides.
+
+- **Want:** make sure *someone* survives the Flame's failure, and that the end is orderly instead of chaos.
+- **Need:** accept that the Flame can be saved. She resists hope, because if the Flame can be saved, her life's work is a crime.
+- **Flaw:** total certainty, and contempt for "sentiment."
+- **Secret:** **the Reserve**, a sealed refuge on Verge holding the shard stockpile, with room for the Board's families and very few others.
+- **Voice:** calm, reasonable, never cruel in tone. That's what makes her frightening.
+  > *"I'm not ending the world. I'm deciding who survives it."*
+
+**Arc:**
+- **Ch 1–3:** only on broadcast screens around Fulcrum Station, and giving remarks at Almanac Day.
+- **Ch 4:** after the reveal, she addresses the system directly for the first time and blames "misinformation."
+- **Ch 5+:** the main antagonist. She **offers you a seat in the Reserve**, a lifeboat for you and the people you choose. It's a per-player temptation. She isn't defeated outright (Lumenhold never is), but she can lose ground as the Holt Papers spread and the Tender recovers.
+
+### Director Halvard Brask
+**Head of Lumenhold Operations.** About fifty.
+
+**Background:** he rose from the Assessors, and was Tally's commanding officer. He runs the Titans, the convoys, the Weather Survey and the Assessors. He doesn't believe in the Last Light doctrine. He believes in the job.
+
+- **Want:** run things well, and keep his people safe and paid.
+- **Need:** see that "just doing the job" is a choice.
+- **Flaw:** refuses to look at the whole picture.
+- **Secret:** in Year 397, as a mid-level officer, he signed the order for the unmarked ship that broke the Ceasefire of Sable. Juno brokered it; he ordered it.
+- **Voice:** clipped and procedural.
+  > *"I don't make the decisions. I make them happen."*
+
+**Arc:**
+- **Ch 1:** his Assessors are around the Station.
+- **Ch 2:** Weather Survey ships glimpsed near the storm.
+- **Ch 3:** he commands the stormdust convoy Tally asks you to raid.
+- **Ch 4:** Juno's record and his signature expose him. **The Board makes him the scapegoat**, a "rogue officer," to protect the Chair.
+- **Ch 5+:** disgraced and bitter. He knows where the Reserve and the Titans' collection point are. Depending on how you treated him, he becomes an informant, or disappears.
+
+### Teodora Holt
+**Lumenhold Board member, holder of the Holt seat.** About forty.
+
+**Background:** a descendant of the founder Mira Holt. The Holt seat has been outvoted on everything since Year 300, when her ancestor cast the losing vote to tell the truth. She runs Lumenhold's charity programs, including clinics in the Rimeborn camps on Solace. Cynics call it public relations; she means it.
+
+- **Want:** reform Lumenhold from inside and restore the founder's promise.
+- **Need:** accept that the company can't be fixed only from inside. Saving what it was *for* means giving up her seat and releasing the Holt Papers, which breaks the company she loves.
+- **Flaw:** loyalty to the institution. She believes in process, and waits too long.
+- **Secret:** she knows where the Holt Papers are, in her family's archive, and has never released them, because it would end Lumenhold.
+- **Voice:** warm, measured, a little formal.
+  > *"My family built this company to light the dark. I'd like to remember what that felt like."*
+
+**Arc:**
+- **Ch 1–2:** her name is on the Solace clinics. Vance's sister is treated there.
+- **Ch 3:** she quietly asks you to deliver medical supplies to Solace. First meeting.
+- **Ch 4:** after the reveal, she forces a Board vote to publish everything, and loses 6–1.
+- **Ch 5+:** she **releases the Holt Papers**, giving every faction a way to build hulls from stormfall without harming the storm. It breaks the monopoly. She's removed from the Board and joins Vance on Solace. You can help her recover and protect the Papers.
+
+### The founders (history only)
+- **Mira Holt:** the engineer who discovered stormfall plating, and wanted it shared freely. Died around Year 110.
+- **Garrick Lusk:** the trader who built the company, and the Ledger system after her.
+
+---
+
 ## Non-human characters
 
 ### The Ion Storm (the Tender)
@@ -270,12 +345,11 @@ What each character is doing in each chapter.
 ### The Maw (the Quiet)
 - **What it is:** a natural, aware, black-hole-like being. Hungry, not evil.
 - **How it communicates:** only through Unlit who have learned to listen, and in Ch 5, through Wren.
-- **Its one moment.** It reframes relighting the anchors as a mercy rather than a prison. Draft:
-  > *"Always hungry. Never full. Once, something held me, and the hunger was quiet. Then it let go. Hold me again."*
+- **Its one moment.** It reframes relighting the Damper as feeding a hungry creature, not caging it. Draft:
+  > *"Always hungry. Never full. Once, something fed me, and the hunger was quiet. Then it stopped. Feed me again, and I will stay."*
 
 ### The Lumenhold Board
-- **Faceless by design.** Players never meet a single villain to defeat. They meet the system: the Almanac, the announcements, the contracts.
-- If a face is ever needed, keep it to one figure, **the Chair**, seen only on broadcast screens.
+- No longer faceless. See **Lumenhold's leadership** above. Players still never get one villain to defeat: the Chair can lose ground, but the system outlives any one person.
 
 ---
 

@@ -101,6 +101,11 @@ A planet-sized cloud of glowing fog that drifts through space. It has no surface
 - **A few grains are different.** One grain in many thousands was clearly *made*, not grown, and carries a tiny etched word: **HELIOS**. These are **shepherd grains**, the Old World's way of steering the swarm.
 - *(Optional later)* Debris and ore chunks drifting in the calm center, for more to see and mine.
 
+### How the storm moves, and stormfall
+- **It moves like a flock.** Each grain follows the grains around it, the way starlings or a school of fish move as one. Nothing leads it, and yet the whole cloud turns together.
+- **That's how the Old World steered it.** In real bird flocks and fish schools, researchers have found that a small number of individuals heading somewhere on purpose can steer the whole group, without the rest "knowing." Shepherd grains work the same way: a tiny minority with a fixed heading, and the swarm follows them.
+- **Stormfall:** lightning in the outer cloud kills some grains. The dead grains fall out of the storm like ash, onto any world it passes over. That dead dust is **stormfall**. Collecting it does the storm no harm, and it's what the first Lumenhold hulls were plated with.
+
 The storm is the **oldest living thing anyone knows of**, and the Old World once guided it. Why is in Hidden truths.
 
 ---
@@ -185,13 +190,16 @@ Years are counted **forward from the Great Flare**, as plain numbers: the presen
 | (no numbered years) | **The Firstlight** | One people across many worlds, linked by light-sail barges on the steady light of a whole Flame. Light is free. A long age of prosperity. The Keepers of the Course guide the Ion Storm, until their knowledge fades into ritual (see The Firstlight). |
 | Year 0 | **The Great Flare** | The Flame surges and breaks. Its light turns wild, sails burn, and barges in transit are lost. Shards rain onto the worlds and transform them. The Seam opens, and the first Blink happens. Almost every record is lost. |
 | Years 0–60 | **The Scattering** | With no steady light to sail on, every world is cut off. Families are split across worlds. Survivors rename their changed worlds out of grief and hope: Threnody, Mourn, Ossuary, Solace, Halcyon. |
-| ~Year 60 | **The Founding** | The Ion Storm drifts over a small planetoid where a crew of salvagers lives. They find that **stormdust, ground into hull plating, shields a ship from the Flame's wild light**, and that shards can drive engines. They build **the first ships that don't need steady light** and reconnect the worlds. They become **Lumenhold**. Their home planetoid is renamed **Kiln**, after their first workshop. |
+| ~Year 60 | **The Founding** | The Ion Storm drifts over a small planetoid where a crew of salvagers lives. Led by the engineer **Mira Holt** and the trader **Garrick Lusk**, they find that **stormfall**, the dead dust the storm sheds like ash, **ground into hull plating, shields a ship from the Flame's wild light**, and that shards can drive engines. They build **the first ships that don't need steady light** and reconnect the worlds. They become **Lumenhold**. Their home planetoid is renamed **Kiln**, after their first workshop. |
 | ~Year 90 | **Fulcrum Station** | Lumenhold builds the Station **where the busiest Firstlight light-lanes once crossed**. They borrow an old Firstlight inscription for the gates: "Light for All." |
+| ~Year 110 | **Mira Holt dies** | Lumenhold's founding engineer dies. Lusk's heirs lock her designs into licenses, and bury her notes. |
+| ~Year 120 | **The first Ledgers** | Lumenhold starts selling ships on credit, so anyone can get one, not only the rich. At the time it's a generous idea. |
 | ~Year 150 | **The Divergence** | People split over how to live in the broken world. The Hearthfleet, the Meridians and the Unlit form. |
+| ~Year 200 | **The Weather Survey** | Stormfall can't keep up with demand. Lumenhold starts dragging nets through the living storm, using ships registered as "Weather Survey." |
 | ~Year 210 | **Cinderreach** | A Hearthfleet Rekindling sets a great shard burning forever. The Cinder Wardens are founded as penance. |
-| ~Year 300 | **Rimefall** | The Meridians drain a great shard. The region freezes. **That year the Blink grows noticeably longer.** Lumenhold's Almanac office notices, and quietly changes the numbers. |
+| ~Year 300 | **Rimefall** | The Meridians drain a great shard. The region freezes. **That year the Blink grows noticeably longer.** Lumenhold's Board votes **by a single seat** to hide it. The Almanac's numbers are changed from then on. |
 | ~Year 340 | **Umbra goes dark** | The Unlit put out the old shard-beacons around the Altar. The region falls into darkness, and the Maw draws closer. |
-| ~Year 360 | **The first Titans** | Lumenhold's "lost automated harvesters" appear in Cinderreach. |
+| ~Year 360 | **The Last Light doctrine** | The Board quietly adopts a new strategy: stockpile shards for the day the Flame fails. The first Titans appear in Cinderreach, officially "lost automated harvesters." |
 | Year 381 | **The Shard War begins** | Rich shard veins are found on Tallow and Sable. See The Shard War. |
 | Year 397 | **The Ceasefire of Sable** | A peace that lasts eleven days. |
 | Year 412 | **Present day** | The war is deadlocked. The Blink keeps getting longer. You arrive at Fulcrum Station with a ship and a contract. |
@@ -216,9 +224,77 @@ Years are counted **forward from the Great Flare**, as plain numbers: the presen
 
 **How players feel its influence:** everywhere and quietly. Prices rise during the Blink "for your safety." Jobs for both sides of the war are posted on the same board. Even independent traders at the bazaar pay Lumenhold rent. There is no cackling-villain moment. The evil is in the contracts.
 
-**Human faces:** many Lumenhold employees are decent people who believe in it. Quartermaster Vance at the shipyard is the first one players meet.
+**Human faces:** Lumenhold is people, not a single block. See **Inside Lumenhold** below.
 
 **Real-world model:** the East India Company, a trading company with its own army that ended up ruling a subcontinent.
+
+---
+
+## Inside Lumenhold
+
+A company doesn't stay evil for 350 years as one block. It's made of people, and it got here one reasonable-sounding step at a time.
+
+### The founders: two visions from day one
+Lumenhold was founded on Kiln by a salvage crew. Two of them shaped everything that came after:
+- **Mira Holt**, the engineer. She discovered that stormfall could plate a hull. She wanted the method shared freely, so every world could build its own ships. To her, "Light for All" meant exactly what it said.
+- **Garrick Lusk**, the trader. He turned her discovery into a business, and believed only a strong company could keep the worlds connected. He was right about that, which is what made him dangerous.
+
+They ran the company together for fifty years. When Holt died around Year 110, Lusk's heirs locked her designs into licenses and buried her notes, **the Holt Papers** *(see Hidden truths)*. Both families still hold seats on Lumenhold's Board today.
+
+### How it went wrong, one sensible step at a time
+No one ever decided to be evil. Each generation made one move that looked reasonable at the time:
+
+| When | Step | Why it seemed right |
+|---|---|---|
+| ~Year 60–110 | Reconnect the worlds | It was heroic. It really was. |
+| ~Year 110 | License the designs | "Protect quality. Bad hulls kill pilots." |
+| ~Year 120 | Sell ships on credit (the first Ledgers) | "Anyone can get a ship, not only the rich." |
+| ~Year 200 | Net the living storm ("Weather Survey") | "Demand is outgrowing stormfall. People need ships." |
+| ~Year 300 | Hide the Blink numbers | "The truth would cause panic and war." The Board vote was won by one seat. |
+| ~Year 360 | Stockpile shards and build the Titans | "The Flame is failing anyway. Someone has to hold the last light, or everyone dies in chaos." |
+| Year 381 on | Keep the war deadlocked | "A stalemate is stable. Peace would unravel everything." |
+
+**Real-world parallel:** real companies have hidden what they knew for decades. The tobacco industry and the health risks of smoking is the best-known case. Almost nobody inside thought of themselves as a villain.
+
+### Who knows what
+Lumenhold keeps its secrets by splitting them up. Most employees only know their own piece.
+
+| Division | What it does | What it knows |
+|---|---|---|
+| **The Board** (7 seats) | Strategy | Everything |
+| **Operations** | Titans, convoys, the Weather Survey | The Titans and the storm harvest. Not the Almanac lie. |
+| **The Almanac Office** | Calendar, records, the Lens feed | The true Blink numbers. Not the Titans. |
+| **The Ledger Office** | Contracts and debt, collected by the **Assessors** | That contract terms get changed after signing |
+| **The Works** | Shipyard, Forge licensing | Almost nothing. Many workers are in debt themselves. |
+
+### Inside the company today
+| Group | Leader | What they believe |
+|---|---|---|
+| **The Last Light bloc** (the Board majority) | **Chair Cassia Lusk** | The Flame will fail no matter what. Lumenhold must hold the last light so that *someone* survives. It's a lifeboat, not a crime. |
+| **Operations** | **Director Halvard Brask** | Results. He doesn't ask why, only how much. |
+| **The reformers** (one Board seat, the Holt seat) | **Teodora Holt** | The company betrayed its founder, and it can still be fixed from inside. |
+| **The Almanac Office** | **Edda Crane** | The lie keeps the peace. |
+| **The Works** | Floor staff like **Vance** | Still believe in the original promise: ships for everyone. |
+
+Full arcs for Lumenhold's people are in CHARACTERS.md.
+
+---
+
+## Who makes the gear
+
+Lumenhold doesn't design everything. It controls the **core licenses**, and everyone else has to work through them.
+
+| Maker | What they design | How Lumenhold profits |
+|---|---|---|
+| **Lumenhold Works** | The standard patterns: hulls, engines, standard weapons, the Lens | Sells them directly |
+| **Hearthfleet guild smiths** | Armor and hull fittings, from old guild traditions. They run the Forge on Fulcrum Station, and Titan Heart armor is their craft. | A license fee on everything forged on the Station |
+| **Meridian workshops** | Precision weapon modifications, ship modules, instruments | A license fee on every design |
+| **The Unlit** | Truesight lenses and gear made for the dark | Nothing. Lumenhold can't copy pure-shard lens craft, and hates that. |
+| **The black market** (Ledgerbreakers, bazaar fences) | Cracked copies of licensed blueprints, sold cheap | Nothing, which is why the Assessors hunt them |
+| **The Holt Papers** (late game) | A way to build hulls from stormfall alone | Ends the monopoly |
+
+- **Ships and guns stay standard Lumenhold patterns.** Armor, modules and upgrades are where faction gear lives.
+- Every crafted item carries a **maker's mark**.
 
 ---
 
@@ -361,7 +437,7 @@ The Shard War is the biggest conflict, but it isn't the only one. Conflicts happ
 | **Hearthfleet** | What to do with Cinderreach's fire | **Cinder Wardens:** leave it alone, as penance | **Emberwrights** (forge clans): harvest it to arm the war |
 | **Meridians** | How far to go for independence | **The Vale circle:** Titan Hearts at any cost (Idris Vale) | **The Rimeborn and cautious engineers:** never another Rimefall |
 | **Unlit** | Whether to engage with the world | **Listeners:** stay in the dark, honor the Quiet, keep outsiders out | **Guides:** work with salvagers and outsiders (Wren's generation) |
-| **Lumenhold** | What the company is *for* | **The Board:** the last light, at any cost | **The Almanac office:** lie to keep the peace (Crane), plus floor staff like Vance who believe in the old promise |
+| **Lumenhold** | What the company is *for* | **The Last Light bloc:** hold the last light, at any cost (Chair Cassia Lusk) | **The reformers:** return to the founder's promise (Teodora Holt), plus floor staff like Vance |
 
 **Why this matters for an MMO:** each conflict is a source of repeatable activity *and* story. Reputation can track both a faction and which side of its internal split you favor, without ever forcing a hard choice.
 
@@ -452,7 +528,7 @@ This is the modern-debt theme (needing loans to get a start in life), handled th
 |---|---|
 | Why is the Blink getting longer? | Shard burning drains the Flame. The Almanac has been altered to hide it. |
 | What is the Maw? | A natural, aware being that feeds on light. The Old World once kept it harnessed (see Hidden truths) |
-| What is the Altar in Umbra? | The Damper: what's left of the Old World's harness for the Maw |
+| What is the Altar in Umbra? | The Damper: the center of the Old World's feeding ring for the Maw |
 | What happened at Rimefall? | The Meridians drained a great shard |
 | Who darkened Umbra? | The Unlit put out the beacons, which were the Damper's anchors |
 | Why does Cinderreach never stop burning? | A Hearthfleet Rekindling went wrong |
@@ -465,6 +541,9 @@ This is the modern-debt theme (needing loans to get a start in life), handled th
 | Why is there a ruined city of bells on Threnody? | It was Carillon, the Firstlight capital |
 | Why do barge docks stand on worlds no ship can sail to? | The Firstlight sailed on light, until the Great Flare |
 | Who were the Keepers of the Course? | The order that guided the Ion Storm, until their knowledge became ritual |
+| Who founded Lumenhold? | Mira Holt and Garrick Lusk, who disagreed from the start |
+| What are the Holt Papers? | The founder's buried method for building ships without harming the storm |
+| What does the "Weather Survey" actually survey? | Nothing. It nets the living storm. |
 | Can the Flame be saved? | Open. This is the endgame question. |
 | Is the Elder Flame itself alive? | **Permanent mystery.** |
 | What does HELIOS mean? | **Permanent mystery.** Marked as a lost word. |
@@ -476,20 +555,23 @@ This is the modern-debt theme (needing loans to get a start in life), handled th
 
 1. **Lumenhold has known for generations that shards are bound to the Flame**, and that every shard burned dims it. They hide this by altering the Flame Almanac.
 2. **Their goal isn't to fix the Flame.** A healed Flame means free light, and that would end their business. The war burns shards, which weakens the Flame, which makes their stockpile worth more. When the Flame is dim enough, **Lumenhold owns the last light.**
-3. **Lumenhold's monopoly is the Ion Storm.** Every sealed hull needs stormdust plating (publicly sold as "Lumenhold sealant"), and only Lumenhold knows where it comes from. They quietly harvest the storm. That's why no one, not even the Meridians, can copy their ships. HELIOS on their seal was copied from a shepherd grain found in their very first harvest. They use the stormdust without understanding it. **Every harvest kills living stormdust and sometimes scoops up shepherd grains**, pushing the storm further off course (see 5).
+3. **Lumenhold's monopoly is the Ion Storm.** Every hull needs stormdust plating (publicly sold as "Lumenhold sealant"), and only Lumenhold knows where it comes from. At first it was only **stormfall**, the dead dust the storm sheds naturally, which does no harm. Around Year 200, demand outgrew stormfall, and Lumenhold began dragging charged nets through the living storm from ships registered as **"Weather Survey."** The nets kill living stormdust and **sometimes scoop up shepherd grains**, pushing the storm further off course (see 5). HELIOS on Lumenhold's seal was copied from a shepherd grain found in the very first stormfall Mira Holt collected. They use the stormdust without understanding it.
 4. **The Titans are Lumenhold's, and they're still running.** They mine Cinderreach's burning shard for Lumenhold, and the "rogue" story means Lumenhold can deny responsibility. **Lumenhold doesn't need players to fight them. It profits either way:**
    - If a Titan completes its run, its Heart goes to a hidden Lumenhold collection point.
    - If players destroy it, they bring the Heart to Lumenhold's Forge and pay forging fees. Or they sell it on Lumenhold's auction house, which takes a cut.
    - Lost Titans are rebuilt in parts at Fulcrum Station's shipyard, listed as "export hull components." Players who buy from that shipyard are paying for the bosses they fight.
-5. **The Ion Storm is a living swarm the Old World harnessed as a Flame-tender.** Stormdust naturally feeds on the charged matter the Elder Flame throws off. The Old World discovered it and seeded it with **shepherd grains** that steered it on a course where that matter was fed back into the Flame, keeping it stable. The storm was never built and never owned, only guided. **The Firstlight lasted exactly as long as the Tender kept its course.** Nobody remembered how to look after the shepherd grains. They wore out, the storm drifted, and the Great Flare followed. Lumenhold's harvesting has been shrinking it ever since. Nobody did it on purpose; people simply forgot. **Restoring the Tender, by replacing the shepherd grains and guiding it back on course, could slow the Flame's decay.** That's the long-term thread of hope.
+5. **The Ion Storm is a living swarm the Old World harnessed as a Flame-tender.** Stormdust naturally feeds on the charged matter the Elder Flame throws off during surges. The Old World seeded the swarm with **shepherd grains**, made grains that act like the few informed birds that steer a whole flock, and set it on a course that soaked up the Flame's surges and released them back as steady light. The storm was never built and never owned, only guided. **The Firstlight lasted exactly as long as the Tender kept its course.** The Keepers of the Course replaced worn shepherd grains during *the Tending*, until nobody remembered how to make new ones. They wore out, the storm drifted, and the Great Flare followed. Lumenhold's nets have been shrinking it ever since. **Restoring the Tender means relearning how to make shepherd grains and guiding the storm back on course.** That's the long-term thread of hope.
 6. **The Old World** *(author's private answer, never confirmed in the game)*: the people's ancestors arrived long ago, an expedition named HELIOS that found two living forces near its new sun, the stormdust swarm and the Maw, and harnessed them to keep the sun steady. Over the centuries of the Firstlight they forgot, and the Great Flare destroyed the last records.
 7. **Lumenhold broke the Ceasefire of Sable.** The convoy destroyed near Tallow in Year 397 was hit by an unmarked Lumenhold ship. Peace would have ended the war contracts, and burned fewer shards.
 8. **The Almanac lie started at Rimefall (about Year 300).** That year the Blink jumped noticeably. Lumenhold's Almanac office realized what shard burning does, and has changed the numbers ever since. Hearthfleet shrines kept their own bell-records of Blink lengths. **Comparing the two is how players catch the lie.**
-9. **The Maw is natural, and the Old World put it on a leash.** It's an ancient, aware, black-hole-like being that feeds on light. Nobody made it. The HELIOS expedition found it near the Flame and built **the Damper**: a harness of anchors around it, lit by beacons that drank the Flame's light, that held it at a distance and let it feed only on the Flame's *excess* when the Flame surged. The Tender fed the Flame, the Maw ate the surplus, and the Damper kept the Maw in check: balance. When the Tender drifted, the Flame surged, and the Great Flare cracked the Damper. The Maw slipped closer and now sits in the Seam. **The Blink is the Flame passing behind it.** The Damper's last surviving piece is **the Altar in Umbra**. After the Flare, with the Flame's light failing, survivors near Umbra kept its beacons burning with shards out of habit and reverence, not knowing why. **The beacons the Unlit put out around Year 340 were its anchors.** That's why the Maw drew closer that year. The Unlit have spent generations worshipping the harness without knowing it was built to hold back the very thing they listen to. The Maw isn't evil. It's a hungry creature that slipped its leash. **The hope isn't killing it, but restoring the balance:** guide the Tender back on course, and relight the Damper's anchors.
+9. **The Maw is natural, and the Old World kept it fed.** It's an ancient, aware, black-hole-like being that feeds on light. Nobody made it, and nobody could cage it, so the HELIOS expedition **fed it**. They built **the Damper**: a ring of beacons around the Maw, with the Altar at its center. When the Flame surged, the Damper caught the excess light and passed it along the beacons to the Maw, steadily, the way you'd feed an animal at the same place every day so it never comes looking for food. That did two jobs at once: it took the dangerous surges off the Flame, and it kept the Maw fed, calm and in one place. When the Tender drifted, the surges grew too big, the Great Flare cracked the Damper, and the Maw, suddenly hungry, drifted closer and settled in the Seam. **The Blink is the Flame passing behind it.** After the Flare, survivors near Umbra kept the beacons burning with shards out of habit and reverence, not knowing they were feeding the Maw. **When the Unlit put the beacons out around Year 340, the Maw went hungry and moved closer.** That's why Umbra went dark. The Unlit have spent generations worshipping the feeding ring without knowing what it was for. The Maw isn't evil. It's hungry. **The hope isn't killing it, but restoring the balance**, in order: first guide the Tender back on course so the Flame's surges are manageable again, then relight the Damper so those surges feed the Maw instead of the Flame burning out. Relighting the beacons with shards alone would just burn more of the Flame.
 10. **The war feeds the Maw.** Every wreck from the Shard War is a new hull for the Hollow Fleet.
 11. **Every faction has blood on its hands** (Cinderreach, Rimefall, Umbra). Lumenhold's crimes all come after the Great Flare.
 12. **Lumenhold's motto is stolen.** "Light for All" was carved over Carillon's gates in the Firstlight, describing free sunlight. Lumenhold uses it to sell the opposite.
-13. **The theme:** the Firstlight ended because people forgot how to tend their sun. The present day is ending because people are burning it on purpose.
+13. **The Holt Papers.** Mira Holt's original notes describe how to plate hulls with stormfall alone, which harms nothing. Ships built that way are slower and costlier to make, but anyone could build them. Releasing the Papers would break Lumenhold's monopoly without killing the storm. Teodora Holt knows where they are.
+14. **The Year 300 vote was won by one seat. The seat that voted to tell the truth was the Holt seat.** It has been outvoted on everything since.
+15. **The Chair's lifeboat:** the Last Light stockpile is stored at **the Reserve**, a sealed Lumenhold refuge on Verge, with room for the Board's families and few others.
+16. **The theme:** the Firstlight ended because people forgot how to tend their sun. The present day is ending because people are burning it on purpose.
 
 ---
 
@@ -505,7 +587,8 @@ This is the modern-debt theme (needing loans to get a start in life), handled th
 - [x] The Lens is an eye implant that explains the UI (decided).
 - [x] Currency stays "coins" (Lumenhold coin in the lore).
 - [x] The Maw and the Ion Storm are natural living forces the Old World **harnessed**, not built (decided).
-- [x] The Damper is the Old World's harness for the Maw, worshipped by the Unlit as the Altar (decided).
+- [x] The Damper is the Old World's feeding ring for the Maw, worshipped by the Unlit as the Altar (decided).
 - [ ] Approve the character list and dates, or change them.
+- [ ] Approve Lumenhold's people: founders Mira Holt and Garrick Lusk; today, Chair Cassia Lusk, Director Halvard Brask and Teodora Holt.
 - [x] The Firstlight was a light-sail age across separate round worlds (decided). Carillon is on Threnody.
 - [ ] Endgame / chapter structure: what can the player do about the Flame, the Tender and the Damper?
