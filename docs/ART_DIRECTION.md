@@ -38,6 +38,14 @@ Assets should look **used**. Plain, uniform surfaces are what look cheap.
 
 ---
 
+## Where each influence shows (see INFLUENCES.md)
+
+- **Fulcrum Station:** cyberpunk and Blade Runner density. Layered decks, Lumenhold ads and signs, clean upper decks and crowded lower ones. **During the Blink, only ads and signs stay lit.** This is the signature shot.
+- **Ruins, Rimefall, wrecks:** Fallout-style environmental storytelling. Frozen or abandoned scenes left exactly as they were, with readable logs and notes.
+- **Faction homes:** our own medieval-space style.
+
+---
+
 ## Lumenhold look (all standard ships and weapons)
 
 All standard gear is Lumenhold-made, so it shares one visual language.

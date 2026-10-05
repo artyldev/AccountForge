@@ -286,6 +286,13 @@ Wrecks drift into Umbra from every battle of the Shard War. Near the Seam, the M
 - **Meridians:** keep working under solid light, and refuse to stop for the dark.
 - **Unlit:** go outside and listen.
 
+### Lumenhold everywhere
+Fulcrum Station is covered in cheerful Lumenhold messaging: posters, signs and announcements. It's the game's main source of dark humor (see INFLUENCES.md).
+- *"Light for All."*
+- *"A paid Ledger is a peaceful Ledger."*
+- *"Blink surcharge in effect. Thank you for staying safe with Lumenhold."*
+- *"Stormdust? Just weather. Lumenhold sealant: trusted since 60 AF."*
+
 ### Sayings
 | Saying | Who says it | Meaning |
 |---|---|---|
@@ -311,6 +318,7 @@ Human faces for each group. Each one wants something, and each one is right abou
 | **Chief Engineer Idris Vale** | Meridians | Leads Meridian research | A power source no one can take away | A grandparent signed off on the Rimefall drain. Idris is quietly planning a new shortcut, using Titan Hearts. |
 | **Wren** | Unlit | A young pilot who guides salvagers into Umbra. The player's way into Unlit territory. | To prove the Unlit aren't just giving up | Has started to hear the Quiet. |
 | **Guildmaster Rook Halloran** | Umbra Salvage Guild | Runs the salvage outpost on Umbra's edge | Profit, and the crew's safety | Knows the Hollow Fleet grows after every big battle. Sells that information to no one. |
+| **Juno Sallow** | Independent (bazaar) | A broker who hands out War Contracts for a cut. The human face of the job board. | To stay neutral and get rich | Knows which side Lumenhold wants to win each month, and has noticed it changes. |
 | **Prior Anselm** | Vesper Order | Elder of the scholar-monks on Vesper | To read HELIOS before the Order dies out | Has a dead stormdust grain under a lens, and suspects it was *made*. |
 
 ---
@@ -372,5 +380,7 @@ This is the modern-debt theme (needing loans to get a start in life), handled th
 - [ ] Confirm the renames: Cinder → **Kiln**, Umber → **Ochre**.
 - [ ] Name the Hollow Fleet's flagship.
 - [ ] What is the in-game currency called? (The lore assumes Lumenhold issues it.)
+- [ ] **Is the Ion Storm aware?** If it thinks, Lumenhold's harvesting becomes harm to a living thing (a Blade Runner-style question). See INFLUENCES.md.
+- [ ] Optional: should Dusklens be eye implants fitted at contract signing (more cyberpunk, darker)?
 - [ ] Approve the character list and dates, or change them.
 - [ ] Endgame / chapter structure: what can the player do about the Flame and the Tender?
