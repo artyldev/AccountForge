@@ -15,7 +15,9 @@ Everything here is tentative.
 ## Chapter 1: Owing the Hold
 **Personal story:** You arrive at Fulcrum Station. Quartermaster Vance hands you a ship and a contract, and your Lens switches on. You learn to fly, take your first Lumenhold jobs, and live through your first Blink. A Cinder Warden **Warden Hunt** sends you, alongside Warden ships and any other pilots nearby, after an **Unknown Signal**: your first Titan.
 
-**Ends with:** your first big Ledger milestone, and Warden-Captain Kettering saying, almost to herself: *"Rogue machines don't mine this neatly."*
+**Ends with:** your first big choice about the Ledger, then Warden-Captain Kettering at the Titan's mining site: *"Rogue machines don't mine this neatly."*
+
+**Full scene-by-scene draft:** chapters/chapter-1.md
 
 **Truth revealed:** Lumenhold is everywhere, and you owe it. The Titans aren't as rogue as claimed.
 

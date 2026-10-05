@@ -354,6 +354,7 @@ Lumenhold isn't one faceless villain. These are the people at the top, and they 
 ---
 
 ## Minor characters (proposed)
+- **Master-Smith Orla Bracken:** Hearthfleet smith who runs the Forge on Fulcrum Station. Gruff and kind. Rings the Blink bell, and her bell-timings are the first hint that the Almanac is wrong (Chapter 1).
 - **Grandmother Ise:** Wren's grandmother, an elder of the Listeners at the Altar. She opposes relighting the anchors, until the Maw's message.
 - **Corwin Vale:** Idris's ancestor, who signed off on the Rimefall drain. Appears only in records.
 - **The *Second Wind*:** Rook's old ship, now the flagship of the Hollow Fleet.
