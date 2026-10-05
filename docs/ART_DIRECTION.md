@@ -144,4 +144,4 @@ The plan is a scripted, headless Blender pipeline in this repo. Each asset is a 
 
 **Review loop:** render from four angles, plus one "baked-only" render showing exactly what Roblox will display. Critique against this document, fix, and repeat (up to 4 rounds).
 
-The full handoff prompt for setting this up is in the planning conversation. It should be updated to use the Quaternius ship as the baseline instead of the earlier test assets.
+**The full method, quality rubric and the handoff prompt are in BLENDER_PIPELINE.md.**
