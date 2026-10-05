@@ -4,34 +4,26 @@ Companion to LORE.md. These are planning notes, not final specs.
 
 ---
 
-## The Station (starting area)
+## Fulcrum Station (starting area)
 
-The current setup already fits the lore, so there's no need to change it. The player starts on the Station, learns to fly, and meets the core features there.
+The current setup already fits the lore, so there's no need to change it. The player starts on the Station, learns to fly, and meets the core features there. See LORE.md → Places for what each area is in the story.
 
-| Feature | Lore role |
-|---|---|
-| Mini markets | Consortium company stores with fixed prices |
-| Auction house | Consortium-run; takes a cut of every sale |
-| Bazaar | Independent traders who pay the Consortium rent |
-| Shipyard | Builds every ship in the system |
-| Social area | Neutral ground where every side of the war meets |
-
-The tutorial can double as the contract signing: the player is handed a ship, a Dusklens and a Ledger in the first scene.
+The tutorial can double as the contract signing: Quartermaster Vance hands the player a ship, a Dusklens and a Ledger in the first scene.
 
 ---
 
 ## The Ledger (starting debt)
 
-The player starts with the standard Consortium contract every pilot has for their first ship. It's normal in this world, which is the point: the modern experience of needing debt to get a start in life. The debt gives an immediate goal, teaches the gameplay loop, and ties the player to the story from minute one. Games that do this well: *Hardspace: Shipbreaker*, *Animal Crossing*.
+The player starts with the standard Lumenhold contract every pilot has for their first ship. It's normal in this world, which is the point: the modern experience of needing debt to get a start in life. The debt gives an immediate goal, teaches the gameplay loop, and ties the player to the story from minute one. Games that do this well: *Hardspace: Shipbreaker*, *Animal Crossing*.
 
-**Principle:** the debt holds back **Consortium privileges**, never the core fun. Players must always have money to spend on their own progress.
+**Principle:** the debt holds back **Lumenhold privileges**, never the core fun. Players must always have money to spend on their own progress.
 
-- **Automatic share:** a fixed cut (around 15%) of pay from **Consortium jobs only** goes to the debt. Money from exploring, trading and other factions is the player's to keep.
+- **Automatic share:** a fixed cut (around 15%) of pay from **Lumenhold jobs only** goes to the debt. Money from exploring, trading and other factions is the player's to keep.
 - **Optional payments** at any time.
-- **Rewards at milestones:** paying off 25 / 50 / 75 / 100% unlocks Consortium privileges: better ship licenses, more hangar slots, better jobs, and story chapters.
-- **Exploration pays it down:** the Consortium buys survey data and discoveries as debt credit at a bonus rate.
-- **Ignoring it is allowed:** players who don't pay get worse Consortium rates and are listed on debtor notices (flavor only). They lose no gear and no progress. Hearthfleet and Unlit characters may trust them *more* because of it.
-- **Paying it off is a story moment:** the player finds a hidden clause. This is the first crack in the Consortium's friendly image.
+- **Rewards at milestones:** paying off 25 / 50 / 75 / 100% unlocks Lumenhold privileges: better ship licenses, more hangar slots, better jobs, and story chapters.
+- **Exploration pays it down:** the Lumenhold buys survey data and discoveries as debt credit at a bonus rate.
+- **Ignoring it is allowed:** players who don't pay get worse Lumenhold rates and are listed on debtor notices (flavor only). They lose no gear and no progress. Hearthfleet and Unlit characters may trust them *more* because of it.
+- **Paying it off is a story moment:** the player finds a hidden clause. This is the first crack in the Lumenhold's friendly image.
 - **First payment within about 10–15 minutes** of starting, so the goal feels reachable.
 
 **Never:**
@@ -66,7 +58,7 @@ This replaces a plain encyclopedia. Lore is a **mystery players investigate**, a
 
 ## PvP: War Contracts
 
-- The Consortium's job board posts contracts for **both sides** of a conflict.
+- The Lumenhold's job board posts contracts for **both sides** of a conflict.
 - Taking a contract puts the player on that side **for that battle only**.
 - Players are literally mercenaries for the company funding everyone, so the mechanic and the story say the same thing.
 
@@ -90,20 +82,24 @@ This replaces a plain encyclopedia. Lore is a **mystery players investigate**, a
 
 ## Weapons and ships
 
-- All ships and weapons are standard Consortium gear. There's no faction-specific hardware, only cosmetic differences.
+- All ships and weapons are standard Lumenhold gear. There's no faction-specific hardware, only cosmetic differences.
 - Lore says "**weapons run on flame energy**." The current overheat mechanic fits. Ammo or charge mechanics would fit too, so the lore never needs changing.
 
 ---
 
 ## Bosses and world events
 
-| Thing | Gameplay | Lore |
+| Thing | Gameplay | Lore (see LORE.md) |
 |---|---|---|
-| **The Titan** (Cinderreach) | Large boss ship. Players follow an "Unknown signal" to find it. Drops a Titan Heart. | An Old World vessel drawn to the burning shard's heat. It repairs itself, which is why it respawns, and rebuilds its Heart each time. |
-| **Umbra boss** | TBD | Should tie to the Maw or Hollows (for example, something Truesight can't see) |
-| **The Ion Storm** | Roaming, planet-sized storm. Lightning in the outer cloud, a safe eye with valuable ore. | A leftover of the Great Flare. Lightning has fused rare ore in the eye over centuries. |
+| **The Titan** (Cinderreach) | Ship boss with a fleet. Players follow an "Unknown signal" to find it. Drops a **Titan Heart**, which the Forge turns into armor. | Unregistered dreadnought, officially a rogue. Secretly Lumenhold's, and rebuilt in the Station's own shipyard. |
+| **The Hollow Fleet** (Umbra) | Ship boss with a fleet | Shard War wrecks taken over by Hollows. The war keeps supplying new ones. |
+| **The Ion Storm** | Roaming planet-sized storm. Lightning in the outer cloud, a safe eye with valuable ore. | The Old World's last working machine. |
 
-Open: what are Titan Hearts used for in-game? The lore makes them the most sought-after item in the system, so their use should feel important.
+### Ion Storm: gameplay ideas
+- **A path players can predict:** it moves slowly and repeats, so players (and the Vesper Order) can chart it. Sell storm forecasts, or put them in the Ship's Log.
+- **Shelter during the Blink:** it keeps shining when the Flame goes dark, and Hollows won't enter the eye. It becomes a risky-but-safe place to wait out the Blink.
+- **Ruins in the eye:** explorable Old World structures with HELIOS markings, a home for Old World clues and future chapter content.
+- **Everyone wants it:** Lumenhold sells "storm insurance", and the factions race for the ore.
 
 ---
 

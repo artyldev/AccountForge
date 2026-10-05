@@ -28,7 +28,7 @@ Assets should look **used**. Plain, uniform surfaces are what look cheap.
 - **Panel lines:** surface detail carried by the normal map, not by extra polygons.
 - **Roughness variation:** never one uniform roughness value. Worn spots are shinier and dirty spots duller.
 - **Color variation:** subtle patchiness and fading. Never a perfectly even color.
-- **Markings:** decals for Consortium logos, hull numbers, warning stripes and faction banners.
+- **Markings:** decals for Lumenhold logos, hull numbers, warning stripes and faction banners.
 - **Bevels:** no razor-sharp 90° edges. Slight bevels catch light.
 
 ### Common mistakes
@@ -38,24 +38,48 @@ Assets should look **used**. Plain, uniform surfaces are what look cheap.
 
 ---
 
-## Consortium look (all standard ships and weapons)
+## Lumenhold look (all standard ships and weapons)
 
-All standard gear is Consortium-made, so it shares one visual language.
+All standard gear is Lumenhold-made, so it shares one visual language.
 
-- **Tentative palette:** off-white hull `#D9D4C7`, gunmetal `#3A3F47`, Consortium amber `#E0A43A`, with bare-metal chips showing through worn paint.
+- **Tentative palette:** off-white hull `#D9D4C7`, gunmetal `#3A3F47`, Lumenhold amber `#E0A43A`, with bare-metal chips showing through worn paint.
 - Industrial, practical, slightly old-fashioned: rivets, heavy hatches, stenciled labels.
 - **Faction cosmetics** sit on top: banners, colors, small decals. The hull itself stays standard.
 
 ---
 
-## Old World look (Titans, relics)
+## Old World look (Ion Storm eye structure, relics)
 
-This must look clearly different from Consortium gear, so players can tell old from new at a glance.
+This must look clearly different from Lumenhold gear, so players can tell old from new at a glance.
 
 - Smoother, more unified shapes. Fewer visible rivets and bolted-on parts. It looks grown or cast rather than assembled.
 - Weathered over centuries: heavy patina, dust, pitting, faded markings. Not chipped paint.
-- Its own accent color, distinct from Consortium amber (for example a cold white-blue glow from the Heart).
-- Faint "HELIOS" markings on hulls, half worn away.
+- Its own accent color, distinct from Lumenhold amber (for example a cold white-blue glow).
+- Faint "HELIOS" markings, half worn away.
+- Big, static structures are much easier to make than ships, so this is a good job for the Blender pipeline.
+
+---
+
+## Boss ship looks (built from existing ship models)
+
+- **The Titan:** Lumenhold design language at a much bigger scale. Make it by **kitbashing** (combining parts from several existing ship models) and adding heavy armor plates, extra weapons and an exposed glowing Heart. Scrubbed or missing markings, since it's unregistered.
+- **The Hollow Fleet:** standard Lumenhold hulls, battle-damaged, with all lights out, cold dark shard cores, and frost or dark residue. The same models with a different material pass.
+
+---
+
+## Where to get ship models
+
+Always check the license. A monetized Roblox game needs a license that **allows commercial use** and **allows modification**.
+
+- **Quaternius:** CC0 (free for any use). You're already using this.
+- **Kenney:** CC0. More low-poly, but useful for parts.
+- **Sketchfab:** filter for downloadable models. CC0 and CC-BY are fine (CC-BY needs a credit). Avoid NonCommercial (NC) and NoDerivatives (ND).
+- **itch.io asset packs:** free and paid. Licenses vary, so read each one.
+- **Paid stores** (CGTrader, TurboSquid, Synty): higher quality, with commercial licenses. Synty is low-poly, which may not match.
+- **AI mesh generators** (Roblox generate_mesh, Hunyuan3D, Meshy, Tripo): uneven quality. Best used for parts to kitbash, not whole hero ships.
+- **Roblox Creator Store:** check for hidden scripts before using anything.
+
+**The cheapest way to get unique bosses:** kitbash the ships you already have in Blender, scale them up, add armor, and retexture with the wear-and-tear rules. That's a good second job for the pipeline, after the Lumenhold ship remaster.
 
 ---
 
@@ -83,11 +107,11 @@ Check these against current Roblox documentation before relying on them.
 
 The plan is a scripted, headless Blender pipeline in this repo. Each asset is a Python script, and the pipeline renders previews for review.
 
-**First test asset:** take one Quaternius ship and produce a **Consortium-issued** semi-realistic version:
+**First test asset:** take one Quaternius ship and produce a **Lumenhold-issued** semi-realistic version:
 - PBR materials
 - edge wear, scratches and grime
 - panel lines
-- Consortium markings
+- Lumenhold markings
 - baked to the four SurfaceAppearance maps
 - exported as FBX for Roblox
 
