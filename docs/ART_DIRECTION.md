@@ -53,8 +53,8 @@ All standard gear is Lumenhold-made, so it shares one visual language.
 This must look clearly different from Lumenhold gear, so players can tell old from new at a glance.
 
 - **The Ion Storm:** fog with a faint shimmer. Up close it should look made of tiny glinting particles, not just cloud. Its own cold white-blue glow (distinct from Lumenhold amber), which stays visible during the Blink.
-- **Relics** (dead motes, the gold disc, coins): smooth, cast-looking shapes. Weathered over centuries: patina, pitting, faded markings, not chipped paint. Faint "HELIOS" etchings.
-- **Optional debris in the calm center:** ore chunks fused with glinting mote residue.
+- **Relics** (dead stormdust grains, the gold disc, coins): smooth, cast-looking shapes. Weathered over centuries: patina, pitting, faded markings, not chipped paint. Faint "HELIOS" etchings.
+- **Optional debris in the calm center:** ore chunks fused with glinting stormdust residue.
 
 ---
 

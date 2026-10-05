@@ -111,7 +111,7 @@ The goal is a long-lived MMO-style game (like Hypixel SkyBlock) with an ongoing 
 |---|---|---|
 | **Titans** (Cinderreach) | Ship boss with a fleet. Players follow an "Unknown signal" to find one. Drops a **Titan Heart**, which the Forge turns into armor. | Automated Lumenhold harvesters, officially "rogue." There are many. Lumenhold profits whether they survive or not. |
 | **The Hollow Fleet** (Umbra) | Ship boss with a fleet | Shard War wrecks taken over by Hollows. The war keeps supplying new ones. |
-| **The Ion Storm** | Roaming fog cloud with no surface that can pass over planets. Lightning in the outer layer, a calm center with valuable ore. | A swarm of tiny Old World machines (motes). The fog *is* the machine. |
+| **The Ion Storm** | Roaming fog cloud with no surface that can pass over planets. Lightning in the outer layer, a calm center with valuable ore. | Made of **stormdust**: every grain is a tiny Old World machine. The fog *is* the machine. |
 
 ### Titan Hearts: optional choice later
 The Forge is enough for now. Later, the Heart can become a **repeatable faction choice**:
@@ -124,7 +124,7 @@ That gives players a reason to care about factions every time they kill a boss, 
 ### Ion Storm: gameplay ideas
 - **A path players can predict:** it moves slowly and repeats, so players (and the Vesper Order) can chart it. Sell storm forecasts, or put them in the Ship's Log.
 - **Shelter during the Blink:** it keeps glowing when the Flame goes dark, and Hollows won't enter it. It becomes a risky-but-safe place to wait out the Blink.
-- **Dead motes as relics:** a rare drop with HELIOS etchings. Old World clues for the Ship's Log.
+- **Dead stormdust as relics:** rare grains with HELIOS etchings. Old World clues for the Ship's Log.
 - *(Optional later)* **Debris in the calm center:** floating ore chunks and wreckage to mine and look at. A good job for the Blender pipeline.
 - **Everyone wants it:** Lumenhold sells "storm insurance", and the factions race for the ore.
 
