@@ -331,7 +331,7 @@ Fulcrum Station is covered in cheerful Lumenhold messaging: posters, signs and a
 | "Build past it." | Meridians | Don't dwell, engineer a way through. |
 | "The dark keeps no ledger." | Unlit | In the dark, nobody owes anybody. A dig at Lumenhold. |
 
-**About "Tend the fire you have":** many real proverbs outlive their original meaning. People keep saying them long after they've forgotten what they were literally about. This one is a leftover from the Firstlight, when "tending the fire" literally meant looking after the Ion Storm, the machine that tends the Flame. Today it just means "look after what you've got." Players who solve the Ion Storm mystery realize the old saying was a literal instruction everyone forgot.
+**About "Tend the fire you have":** many real proverbs outlive their original meaning. People keep saying them long after they've forgotten what they were literally about. This one is a leftover from the Firstlight, when "tending the fire" literally meant guiding the Ion Storm, the living swarm that tends the Flame. Today it just means "look after what you've got." Players who solve the Ion Storm mystery realize the old saying was a literal instruction everyone forgot.
 
 ---
 
