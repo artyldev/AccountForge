@@ -40,7 +40,7 @@ These keep the story free of plot holes. Check new lore against them.
 | **Truesight** | Upgraded vision that shows full color in the dark | Quest reward (Unlit) |
 | **Lumenhold** (tentative) | The company that builds every ship and weapon | First scene (they hold your contract) |
 | **Fulcrum Station** (proposed) | The neutral trade station at the center of the system | Starting location |
-| **The Old World** | A civilization older than the Firstlight. Only relics remain. | Relics, the Ion Storm's eye |
+| **The Old World** | A civilization older than the Firstlight. Only relics remain. | Relics, the Ion Storm |
 | **The Vesper Order** (tentative) | Scholar-monks on Vesper who study the Old World | Mid-game (Old World storyline) |
 
 ---
@@ -65,14 +65,17 @@ These keep the story free of plot holes. Check new lore against them.
 
 ## The Ion Storm
 
-A planet-sized storm that drifts slowly through the system. Its outer cloud is a wall of lightning. Its eye is calm, and rich in rare ore.
+A planet-sized cloud of glowing fog that drifts through space. It has no surface and can pass right over planets. Its outer layer crackles with lightning. Its center is calm, and rich in rare ore.
+
+**The fog is the machine.** It's made of countless tiny Old World machines (**motes**), each smaller than a grain of sand, moving as one swarm. No ruins or big structures are needed. The cloud itself is the artifact.
 
 **What players can discover:**
 - **It follows a path.** It's slow and it repeats, so it can be charted and predicted.
-- **Something is in the eye.** A vast structure, half-buried in fused ore, unlike anything Lumenhold builds. Faded **HELIOS** markings cover it.
-- **It keeps shining during the Blink.** It is the only light in the sky when the Flame goes dark, because **it doesn't run on shards**.
-- **Hollows won't enter the eye.** During the Blink it's the safest place in the system.
-- **The ore** is matter the structure has fused and compressed over centuries. The lightning is its overflow.
+- **It keeps glowing during the Blink.** It's the only light in the sky when the Flame goes dark, because **it doesn't run on shards**.
+- **Hollows won't enter it.** During the Blink it's the safest place in the system.
+- **The ore** is matter the motes have gathered and fused. The lightning is their overflow.
+- **Dead motes**, under magnification, carry a tiny etched word: **HELIOS**.
+- *(Optional later)* Debris and ore chunks drifting in the calm center, for more to see and mine.
 
 The storm is the **Old World's last working machine**, and its biggest mystery. What it's for is in Hidden truths.
 
@@ -80,11 +83,11 @@ The storm is the **Old World's last working machine**, and its biggest mystery. 
 
 ## The Old World
 
-Before the Firstlight there was another civilization. It left behind relics, ruins and the machine in the Ion Storm's eye. Nobody knows where it came from or where it went.
+Before the Firstlight there was another civilization. It left behind relics and the Ion Storm. Nobody knows where it came from or where it went.
 
 ### What players find
-- **The structure in the Ion Storm's eye:** the largest Old World remnant.
-- **HELIOS:** a word on the Old World structure, and also on Lumenhold's oldest seal. Nobody can translate it.
+- **The Ion Storm:** the largest Old World remnant, still working.
+- **HELIOS:** a word etched on dead Ion Storm motes, and also on Lumenhold's oldest seal. Nobody can translate it.
 - **Old names:** **Pallas** and **Vesper** already carried these names in the oldest Firstlight records, and no known language explains them.
 - **Relics:** a gold disc engraved with a diagram of lines and dots, a coin with a face and unreadable letters, star charts with one circled star that isn't in the sky.
 
@@ -108,14 +111,14 @@ Scholar-monks living on lonely Vesper, where the sky is clearest. They chart the
 3. **The Firstlight:** the Elder Flame is whole. A long age of prosperity.
 4. **The Great Flare:** the Flame breaks. Shards scatter, planetoids form, the Seam opens, the first Blink happens. Records are lost.
 5. **The Scattering:** survivors are stranded on separate planetoids. They name many of their new worlds out of grief: Threnody, Mourn, Ossuary, Marrow.
-6. **The Founding:** the Ion Storm drifts over a planetoid, and its calm eye passes right over a group of salvagers. They walk into the Old World structure and come out with designs for sealed hulls. They build the first ships, reconnect the worlds, are hailed as saviors, and become **Lumenhold**. They build **Fulcrum Station** as neutral ground.
+6. **The Founding:** the Ion Storm drifts over a planetoid where a group of salvagers lives. They discover that **dead motes, ground into hull plating, let a ship survive open space.** They build the first sealed ships, reconnect the worlds, are hailed as saviors, and become **Lumenhold**. They build **Fulcrum Station** as neutral ground.
 7. **The Divergence:** people disagree about how to live in the broken world, and the three ways of life form.
 8. **The Disasters:** Cinderreach, Rimefall and Umbra, one per faction.
 9. **Present day:** the **Shard War** between the Hearthfleet and the Meridians, fought within sight of Fulcrum Station. Lumenhold supplies both sides. The Blink keeps getting longer.
 
 ### Where planet names come from (flavor)
 - **Survivor names** (grief and hope, from the Scattering): Threnody, Mourn, Marrow, Ossuary, Harrow, Sable, Solace, Halcyon, Rookery, Quill, Kestrel, Lament.
-- **Lumenhold names** (industrial, given to worlds they developed): Gantry, Ferrous, Bellow, Basalt, Tallow, Verge, Cinder, Umber.
+- **Lumenhold names** (industrial, given to worlds they developed): Gantry, Ferrous, Bellow, Basalt, Tallow, Verge, Kiln, Ochre.
 - **Old World names** (no one knows their origin): Pallas, Vesper.
 
 ---
@@ -148,43 +151,45 @@ Guild families bound by oaths and crafts. They live in stone-and-timber holds an
 - **Right:** they've guessed the real cause.
 - **Wrong:** they still fly shard-burning ships to fight for their beliefs.
 - **Their disaster: Cinderreach.**
-- **Territory:** the Ashway and Cinderreach (southeast).
+- **Territory:** the Ashway and Cinderreach (4–5 o'clock).
 
 ### The Meridians: the future
 Engineers and planners who build ivory-and-gold cities lit with solid light. They want a power source of their own to break Lumenhold's monopoly.
 - **Right:** the monopoly is the real danger.
 - **Wrong:** their shortcuts cost whole worlds.
 - **Their disaster: Rimefall.**
-- **Territory:** the Marches, next to their ruined Rimefall (north).
+- **Territory:** the Marches, next to their ruined Rimefall (12 o'clock).
 
 ### The Unlit: something else
 They live in and around Umbra, study the Maw, and believe the dark is coming whatever anyone does, so they've learned to live in it. They are the makers of Truesight.
 - **Right:** the dark can be understood and survived.
 - **Wrong:** they've stopped trying to save anyone else.
 - **Their disaster: Umbra.**
-- **Territory:** Umbra and the Penumbra (west).
+- **Territory:** Umbra and the Penumbra (9 o'clock).
 
 ---
 
 ## The map
 
-Fulcrum Station sits at the center. The Meridians hold the north, the Hearthfleet the southeast, and the Unlit the west. The Shard War is fought over the east flank, between the Meridian and Hearthfleet territories. That puts it within sight of the Station, which profits from it.
+Space has no north, so in-world people navigate by landmarks ("Rimefall-side", "past the Divide"). These docs use **clock positions on the map screen**, with Fulcrum Station at the center and Rimefall at 12 o'clock.
+
+The Meridians hold the 12 o'clock side, the Hearthfleet the 4–5 o'clock side, and the Unlit the 9 o'clock side. The Shard War is fought on the 3 o'clock flank, between the Meridian and Hearthfleet territories. That puts it within sight of the Station, which profits from it.
 
 | Region | Location | Planets and places | Who's there |
 |---|---|---|---|
-| **The Anchorage** (proposed) | center | Fulcrum Station, Cinder*, Umber* | Lumenhold. Safe zone. |
-| **The Divide** (proposed) | east | Tallow, Sable | Contested. **Shard War front line**, with shard fields. |
-| **The Marches** (proposed) | north | Threnody, Rookery, Pallas | Meridians |
-| **Rimefall** | far north | Verge, Gantry, Solace | Meridian ruins and refugees |
-| **The Penumbra** (proposed) | west, Umbra's edge | Halcyon, Harrow, Umbra Salvage Guild | Salvagers and Unlit guides |
-| **Umbra** | far west | Kestrel, Ferrous, Lament | Unlit. **The Hollow Fleet.** |
-| **The Strays** (proposed) | southwest | Vesper, Quill | Isolated. The Vesper Order lives on Vesper. |
-| **The Ashway** (proposed) | southeast | Mourn, Marrow, Cinder Wardens outpost | Hearthfleet |
-| **Cinderreach** | far southeast | Bellow, Basalt, Ossuary | Hearthfleet forge clans. **The Titan.** |
+| **The Anchorage** (proposed) | center | Fulcrum Station, Kiln (was Cinder), Ochre (was Umber) | Lumenhold. Safe zone. |
+| **The Divide** (proposed) | 3 o'clock | Tallow, Sable | Contested. **Shard War front line**, with shard fields. |
+| **The Marches** (proposed) | 11–12 o'clock | Threnody, Rookery, Pallas | Meridians |
+| **Rimefall** | 12 o'clock, far out | Verge, Gantry, Solace | Meridian ruins and refugees |
+| **The Penumbra** (proposed) | 9–10 o'clock, Umbra's edge | Halcyon, Harrow, Umbra Salvage Guild | Salvagers and Unlit guides |
+| **Umbra** | 9 o'clock, far out | Kestrel, Ferrous, Lament | Unlit. **The Hollow Fleet.** |
+| **The Strays** (proposed) | 6–7 o'clock | Vesper, Quill | Isolated. The Vesper Order lives on Vesper. |
+| **The Ashway** (proposed) | 4–5 o'clock | Mourn, Marrow, Cinder Wardens outpost | Hearthfleet |
+| **Cinderreach** | 4–5 o'clock, far out | Bellow, Basalt, Ossuary | Hearthfleet forge clans. **The Titan.** |
 | *(roaming)* | anywhere | **The Ion Storm** | Nobody owns it |
-| *(uncharted)* | the far east and beyond | none yet | Room for future regions |
+| *(uncharted)* | the empty 2–3 o'clock side and beyond | none yet | Room for future regions |
 
-\* Name clash: **Umber** vs **Umbra**, and **Cinder** vs **Cinderreach**. Both planets sit next to the Station, far from the regions they sound like. Rename them (for example Umber → Ochre, Cinder → Kiln or Slag).
+**Renamed (tentative):** Cinder → **Kiln** and Umber → **Ochre**, so neither sounds like Cinderreach or Umbra. Both are Lumenhold-style industrial names. Ochre is an earth pigment, like umber.
 
 ### Places
 
@@ -201,7 +206,7 @@ Fulcrum Station sits at the center. The Meridians hold the north, the Hearthflee
 
 **Umbra Salvage Guild:** independent salvagers on Umbra's edge. They strip the wrecks that drift into the dark, guided by Unlit pilots. They're the main reason anyone goes near the Hollow Fleet.
 
-**Cinder Wardens:** a Hearthfleet order guarding the approach to Cinderreach. They keep watch over the burning shard their ancestors set alight, as an act of penance. They have the most first-hand reports of the Titan.
+**Cinder Wardens:** a Hearthfleet order guarding the approach to Cinderreach. They keep watch over the burning shard their ancestors set alight, as an act of penance. They have the most first-hand reports of Titans.
 
 ### Region stories
 
@@ -217,10 +222,17 @@ Fulcrum Station sits at the center. The Meridians hold the north, the Hearthflee
 
 Both boss fleets use standard Lumenhold hulls, which matches the existing models (writing rule 2).
 
-### The Titan (Cinderreach)
-A dreadnought far larger than anything Lumenhold admits to building, escorted by a fleet. Its transponder is unregistered, so it shows up on scanners as an **Unknown Signal**. It prowls Cinderreach and attacks anyone who gets near the burning shard. Lumenhold says it's a rogue warship that went missing decades ago.
-- **Titan Heart:** its power core, a large refined pure shard. The Forge on Fulcrum Station turns it into armor.
-- **Why it comes back:** see Hidden truths.
+### Titans (Cinderreach)
+**Titan-class** dreadnoughts: huge automated harvesters with no crew, escorted by drone fleets. They mine the burning shard in Cinderreach and defend their haul against anyone who comes near. Their transponders are unregistered, so each one shows up on scanners as an **Unknown Signal**. Lumenhold's official story is that they're a class of old automated harvesters that went rogue decades ago and "can't be recalled."
+
+- **There are many of them, not one.** That's why a Titan is always out there to fight (repeatable boss).
+- **Titan Heart:** the core where a Titan stores what it has mined. It's essentially refined pure shard.
+- **What players can do with a Heart:**
+  - **Forge it into armor** on Fulcrum Station. This is the current mechanic.
+  - *(Optional later)* Turn it in to the **Cinder Wardens**, who return it to the fire (Hearthfleet reputation).
+  - *(Optional later)* Sell it to the **Meridians** for their research (Meridian reputation).
+- **The factions' view:** the Cinder Wardens post bounties on Titans because they're mining the fire their order guards. The Meridians want Hearts to study.
+- **Lumenhold's view:** see Hidden truths. It wins either way.
 
 ### The Hollow Fleet (Umbra)
 Wrecks drift into Umbra from every battle of the Shard War. Near the Seam, the Maw drains their shard cores and Hollows take over the dead hulls. The result is a fleet of lightless ships with no crew, led by a flagship *(name TBD)*.
@@ -247,9 +259,9 @@ This is the modern-debt theme (needing loans to get a start in life), handled th
 | Who darkened Umbra? | The Unlit put out the beacons |
 | Why does Cinderreach never stop burning? | A Hearthfleet Rekindling went wrong |
 | What's really in your contract? | A hidden clause, revealed when it's paid off |
-| Who owns the Titan? | See Hidden truths |
-| What is inside the Ion Storm? | See Hidden truths. Partly solvable. |
-| Where did Lumenhold's first ships come from? | See Hidden truths |
+| Who owns the Titans? | See Hidden truths |
+| What is the Ion Storm? | See Hidden truths. Partly solvable. |
+| What makes Lumenhold hulls impossible to copy? | Mote plating from the Ion Storm (see Hidden truths) |
 | Can the Flame be saved? | Open. This is the endgame question. |
 | What does HELIOS mean? | **Permanent mystery.** Marked as a lost word. |
 | Where did the Old World go? | **Permanent mystery.** |
@@ -260,9 +272,12 @@ This is the modern-debt theme (needing loans to get a start in life), handled th
 
 1. **Lumenhold has known for generations that shards are bound to the Flame**, and that every shard burned dims it. They hide this by altering the Flame Almanac.
 2. **Their goal isn't to fix the Flame.** A healed Flame means free light, and that would end their business. The war burns shards, which weakens the Flame, which makes their stockpile worth more. When the Flame is dim enough, **Lumenhold owns the last light.**
-3. **Lumenhold didn't invent sealed ships.** Its founders took the designs from the Old World structure in the Ion Storm's eye and claimed the invention. HELIOS on their seal was copied from that structure. They took the hull plans and never understood the rest.
-4. **The Titan is Lumenhold's.** It's a deniable warship guarding a secret shard-extraction operation inside Cinderreach. Every time players destroy it, **it's quietly rebuilt in Fulcrum Station's own shipyard.** Players who buy from that shipyard are paying for it. The "rogue warship" story keeps everyone, the Cinder Wardens included, away from the extraction site.
-5. **The Ion Storm is a Flame-tender.** The Old World built it to collect the charged matter the Elder Flame throws off and feed it back, keeping the Flame stable. **The Firstlight lasted exactly as long as the Tender kept its course.** Nobody remembered how to maintain it. It drifted off its path, and the Great Flare followed. Nobody did it on purpose; people simply forgot. **Restoring the Tender could slow the Flame's decay.** That's the long-term thread of hope.
+3. **Lumenhold's monopoly is the Ion Storm.** Every sealed hull needs mote plating, and only Lumenhold knows where it comes from. They quietly harvest the storm. That's why no one, not even the Meridians, can copy their ships. HELIOS on their seal was copied from the motes. They use the motes without understanding them, and **every harvest weakens the Tender** (see 5).
+4. **The Titans are Lumenhold's, and they're still running.** They mine Cinderreach's burning shard for Lumenhold, and the "rogue" story means Lumenhold can deny responsibility. **Lumenhold doesn't need players to fight them. It profits either way:**
+   - If a Titan completes its run, its Heart goes to a hidden Lumenhold collection point.
+   - If players destroy it, they bring the Heart to Lumenhold's Forge and pay forging fees. Or they sell it on Lumenhold's auction house, which takes a cut.
+   - Lost Titans are rebuilt in parts at Fulcrum Station's shipyard, listed as "export hull components." Players who buy from that shipyard are paying for the bosses they fight.
+5. **The Ion Storm is a Flame-tender.** The Old World built the mote swarm to collect the charged matter the Elder Flame throws off and feed it back, keeping the Flame stable. **The Firstlight lasted exactly as long as the Tender kept its course.** Nobody remembered how to maintain it. It drifted off its path, and the Great Flare followed. Lumenhold's harvesting has been shrinking it ever since. Nobody did it on purpose; people simply forgot. **Restoring the Tender could slow the Flame's decay.** That's the long-term thread of hope.
 6. **The Old World** *(author's private answer, never confirmed in the game)*: the people's ancestors arrived long ago, an expedition named HELIOS that built the Tender for its new sun. Over the centuries of the Firstlight they forgot, and the Great Flare destroyed the last records.
 7. **The war feeds the Maw.** Every wreck from the Shard War is a new hull for the Hollow Fleet.
 8. **Every faction has blood on its hands** (Cinderreach, Rimefall, Umbra). Lumenhold's crimes all come after the Great Flare.
@@ -276,7 +291,6 @@ This is the modern-debt theme (needing loans to get a start in life), handled th
 - [ ] Station name. Current pick: **Fulcrum Station**.
 - [ ] Old World order. Current pick: **the Vesper Order**.
 - [ ] Approve or replace the proposed regions: the Anchorage, the Divide, the Marches, the Penumbra, the Strays, the Ashway.
-- [ ] Rename **Umber** and **Cinder**?
-- [ ] There is a body labeled "Umbra" inside the Umbra region on the map. Is that a planet, or the region label?
+- [ ] Confirm the renames: Cinder → **Kiln**, Umber → **Ochre**.
 - [ ] Name the Hollow Fleet's flagship.
 - [ ] Endgame / chapter structure: what can the player do about the Flame and the Tender?

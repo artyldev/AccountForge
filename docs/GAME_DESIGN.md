@@ -87,18 +87,45 @@ This replaces a plain encyclopedia. Lore is a **mystery players investigate**, a
 
 ---
 
+## MMO structure: a story in a world that repeats
+
+The goal is a long-lived MMO-style game (like Hypixel SkyBlock) with an ongoing story. Those two goals pull against each other: bosses respawn and the world resets, while a story wants things to change. The usual MMO solution splits the game into three layers:
+
+| Layer | What it holds | Changes for |
+|---|---|---|
+| **The world** | Planets, bosses, the Shard War, the Ion Storm, the economy | Nobody. It stays stable so it can be replayed forever. |
+| **Personal story** | Quest chains, the Ledger, Ship's Log mysteries, reputation | One player at a time |
+| **World events** | Chapter or season updates, live events, the Blink getting longer | Everyone at once, on a schedule |
+
+**Rules that keep the lore from contradicting the repeating gameplay:**
+- **Anything repeatable must not be unique in the lore.** "A Titan", not "the Titan". "Hollowed ships", not one named ghost ship. There are always more.
+- **Anything unique happens only once**, in a personal quest or a one-time world event. For example, a story mission that kills one *named* Titan for good.
+- **Endless conflicts need a lore reason to be endless.** The Shard War never ends because **Lumenhold keeps it at a stalemate on purpose**. The repeating gameplay *is* the story.
+- **The big goal is shared, not personal.** Restoring the Tender (the Ion Storm) can be a **server-wide, long-term project** that every player contributes to over seasons. It's a story ending that doesn't stop the game.
+
+---
+
 ## Bosses and world events
 
 | Thing | Gameplay | Lore (see LORE.md) |
 |---|---|---|
-| **The Titan** (Cinderreach) | Ship boss with a fleet. Players follow an "Unknown signal" to find it. Drops a **Titan Heart**, which the Forge turns into armor. | Unregistered dreadnought, officially a rogue. Secretly Lumenhold's, and rebuilt in the Station's own shipyard. |
+| **Titans** (Cinderreach) | Ship boss with a fleet. Players follow an "Unknown signal" to find one. Drops a **Titan Heart**, which the Forge turns into armor. | Automated Lumenhold harvesters, officially "rogue." There are many. Lumenhold profits whether they survive or not. |
 | **The Hollow Fleet** (Umbra) | Ship boss with a fleet | Shard War wrecks taken over by Hollows. The war keeps supplying new ones. |
-| **The Ion Storm** | Roaming planet-sized storm. Lightning in the outer cloud, a safe eye with valuable ore. | The Old World's last working machine. |
+| **The Ion Storm** | Roaming fog cloud with no surface that can pass over planets. Lightning in the outer layer, a calm center with valuable ore. | A swarm of tiny Old World machines (motes). The fog *is* the machine. |
+
+### Titan Hearts: optional choice later
+The Forge is enough for now. Later, the Heart can become a **repeatable faction choice**:
+- **Forge it:** armor for you. Lumenhold takes its fee.
+- **Give it to the Cinder Wardens:** Hearthfleet reputation.
+- **Sell it to the Meridians:** Meridian reputation.
+
+That gives players a reason to care about factions every time they kill a boss, with no locked faction choice.
 
 ### Ion Storm: gameplay ideas
 - **A path players can predict:** it moves slowly and repeats, so players (and the Vesper Order) can chart it. Sell storm forecasts, or put them in the Ship's Log.
-- **Shelter during the Blink:** it keeps shining when the Flame goes dark, and Hollows won't enter the eye. It becomes a risky-but-safe place to wait out the Blink.
-- **Ruins in the eye:** explorable Old World structures with HELIOS markings, a home for Old World clues and future chapter content.
+- **Shelter during the Blink:** it keeps glowing when the Flame goes dark, and Hollows won't enter it. It becomes a risky-but-safe place to wait out the Blink.
+- **Dead motes as relics:** a rare drop with HELIOS etchings. Old World clues for the Ship's Log.
+- *(Optional later)* **Debris in the calm center:** floating ore chunks and wreckage to mine and look at. A good job for the Blender pipeline.
 - **Everyone wants it:** Lumenhold sells "storm insurance", and the factions race for the ore.
 
 ---

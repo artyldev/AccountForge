@@ -48,21 +48,19 @@ All standard gear is Lumenhold-made, so it shares one visual language.
 
 ---
 
-## Old World look (Ion Storm eye structure, relics)
+## Old World look (Ion Storm, relics)
 
 This must look clearly different from Lumenhold gear, so players can tell old from new at a glance.
 
-- Smoother, more unified shapes. Fewer visible rivets and bolted-on parts. It looks grown or cast rather than assembled.
-- Weathered over centuries: heavy patina, dust, pitting, faded markings. Not chipped paint.
-- Its own accent color, distinct from Lumenhold amber (for example a cold white-blue glow).
-- Faint "HELIOS" markings, half worn away.
-- Big, static structures are much easier to make than ships, so this is a good job for the Blender pipeline.
+- **The Ion Storm:** fog with a faint shimmer. Up close it should look made of tiny glinting particles, not just cloud. Its own cold white-blue glow (distinct from Lumenhold amber), which stays visible during the Blink.
+- **Relics** (dead motes, the gold disc, coins): smooth, cast-looking shapes. Weathered over centuries: patina, pitting, faded markings, not chipped paint. Faint "HELIOS" etchings.
+- **Optional debris in the calm center:** ore chunks fused with glinting mote residue.
 
 ---
 
 ## Boss ship looks (built from existing ship models)
 
-- **The Titan:** Lumenhold design language at a much bigger scale. Make it by **kitbashing** (combining parts from several existing ship models) and adding heavy armor plates, extra weapons and an exposed glowing Heart. Scrubbed or missing markings, since it's unregistered.
+- **Titans:** Lumenhold design language at a much bigger scale. Make it by **kitbashing** (combining parts from several existing ship models) and adding heavy armor plates, extra weapons and an exposed glowing Heart, and mining equipment (they're harvesters). Scrubbed or missing markings, since they're unregistered. Small differences between individual Titans help sell "there are many."
 - **The Hollow Fleet:** standard Lumenhold hulls, battle-damaged, with all lights out, cold dark shard cores, and frost or dark residue. The same models with a different material pass.
 
 ---
