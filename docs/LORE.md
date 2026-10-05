@@ -30,6 +30,7 @@ These keep the story free of plot holes. Check new lore against them.
 |---|---|---|
 | **The Elder Flame** | The sun. Everyday name: "the Flame." | From the start |
 | **The Firstlight** | The age of prosperity before the Great Flare | Ruins, old texts, NPC nostalgia |
+| **The Hearth** | The single world everyone lived on during the Firstlight. The Great Flare shattered it into today's planetoids. | Ruins, old maps, the Hearthfleet's name |
 | **The Great Flare** | The disaster that broke the Flame and scattered its pieces | Opening story |
 | **Shards** | Pieces of the Elder Flame. They power everything. | First minutes (your ship runs on one) |
 | **The Seam** | A wound in the sky left by the Great Flare | Seen during the first Blink |
@@ -51,7 +52,7 @@ These keep the story free of plot holes. Check new lore against them.
 ## How the world works
 
 - **The Elder Flame** is the sun. In the Firstlight it was whole. The **Great Flare** tore pieces off it and flung them across the sky. Nobody caused it on purpose (see Hidden truths).
-- **Every planetoid formed around a shard.** The shard gives a planetoid its gravity, its atmosphere and its environment. A burning shard makes a lava world. A drained shard makes an ice world.
+- **Every planetoid is a fragment of the Hearth with a shard lodged in its core.** When the Great Flare flung pieces of the Flame outward, they struck the Hearth and shattered it. Each fragment held together around the shard that hit it. The shard gives a planetoid its gravity, its atmosphere and its environment. A burning shard makes a lava world. A drained shard makes an ice world.
 - **Space is deadly.** Away from a shard's pull there is no air and no warmth, which is why every ship is fully enclosed.
 - **Shard energy is flame energy.** Ships, weapons, lights and settlements all run on it. Shards can be used up, and a spent shard never comes back.
 - **Shards are still bound to the Elder Flame.** Burning one drains the Flame a little. *(Almost nobody knows this.)*
@@ -128,6 +129,44 @@ Scholar-monks living on lonely Vesper, where the sky is clearest. They chart the
 
 ---
 
+## The Firstlight
+
+The Old World is the deep mystery. **The Firstlight is the lost golden age** that every faction is nostalgic for, argues over and claims to be heir to. It should feel close and personal, a time people's great-great-grandparents' stories still reach back to.
+
+### The Hearth
+During the Firstlight everyone lived on **one world: the Hearth.** It circled a whole, steady Elder Flame. There were no shards, no Blink and no Seam.
+- **The Great Flare shattered the Hearth.** Today's planetoids are its fragments, which is why Firstlight ruins turn up on almost every one of them.
+- **Some cities were split in two.** The Firstlight capital, **Carillon, the City of Bells**, broke in half: one half is on **Threnody**, the other on **Mourn**. Survivors named those fragments in grief. Finding the matching halves is a natural exploration quest.
+- **Fulcrum Station stands where the Hearth's core used to be.** Lumenhold built its hub at the exact center of the old world. People in the Hearthfleet find that offensive.
+- **Your map is the Hearth's remains:** a station at the center, with fragments drifting outward.
+
+### Life in the Firstlight
+- **Light was free.** The Flame was steady, and nobody burned anything for power. Life ran on sunlight, wind and water. There was no shard economy, because there were no shards.
+- **It looked like our "medieval space" style:** stone, timber, brass, bells, banners, sky-barges. This is where the Hearthfleet's look comes from.
+- **Sky-barges** sailed the Hearth's open air. When the world broke apart, the ones that were airborne were thrown into space, and their wrecks still drift between fragments. *(This is where your "space boats" idea lives: Firstlight wrecks, not a vehicle system.)*
+- **Bells kept time.** Carillon's bells marked the hours and the seasons. The Hearthfleet's Blink bells and bell-records descend from this tradition.
+- **Firstlight people had their own myths about the Old World.** Their stories mention "the Ones Who Came from Beyond the Flame" as legend. Even the Firstlight had forgotten its own origins.
+
+### The Keepers of the Course
+The Old World's knowledge of the harnesses passed to an order called **the Keepers of the Course**. Their duty was to look after the shepherd grains and keep the Ion Storm on course, and to keep the Damper's beacons lit.
+- **Over centuries, the duty turned into ritual.** The Keepers kept performing a ceremony called *the Tending* without understanding the technical meaning of the steps.
+- **The last Keeper who truly understood died long before the Flare.** After that the order was ceremonial, then religious, then a quaint tradition. The shepherd grains wore out, and nobody knew how to replace them.
+- **Their motto survives as a proverb:** *"Tend the fire you have."*
+- **The Keepers measured the Flame carefully**, ringing and recording the hours. **That habit survived in the Hearthfleet as bell-records**, which is why the Hearthfleet has accurate Blink records that can expose the Almanac.
+
+### Why the Firstlight ended
+**Nobody attacked it. Nobody did anything wrong. Everyone just forgot.** Comfort made the Keepers' work feel unnecessary, until it wasn't. That's the Firstlight's lesson, and it mirrors the present: the Firstlight ended because people *forgot* to tend their sun, and the present day is ending because people are *burning* it.
+
+### Who claims the Firstlight
+| Group | Their claim |
+|---|---|
+| **Hearthfleet** | "We are the Hearth's true heirs." Their name means the fleet that carries the Hearth's memory. They keep its crafts, bells and shrines. |
+| **Meridians** | "We are its builders." Their name comes from the meridian lines Firstlight surveyors drew across the Hearth. They see themselves as heirs to its engineering, not its rituals. |
+| **Unlit** | "It's gone. Stop praying to a corpse." They reject the nostalgia completely. |
+| **Lumenhold** | Sells the nostalgia. "Light for All" was a Firstlight inscription, and Lumenhold put it on every gate. They promise the Firstlight's comfort while doing the opposite of what made it work. |
+
+---
+
 ## Timeline
 
 Years are counted **forward from the Great Flare**, as plain numbers: the present day is **Year 412**. Nothing before the Flare gets a number. Older times are just "the Firstlight" and "the Old World." **Nothing is ever counted backwards** (no BC/AD-style confusion). All dates are tentative.
@@ -136,11 +175,11 @@ Years are counted **forward from the Great Flare**, as plain numbers: the presen
 |---|---|---|
 | ??? | **The Old World** | Unknown. Only relics and the Ion Storm remain. |
 | ??? | **The Arrival** | *Hidden.* See Hidden truths. |
-| (no numbered years) | **The Firstlight** | The Elder Flame is whole. One sky, one people, a long age of prosperity. The Ion Storm keeps its course, and nobody remembers why that matters. |
-| Year 0 | **The Great Flare** | The Flame breaks. Shards scatter, planetoids form around them, the Seam opens, and the first Blink happens. Almost every record is lost. |
-| Years 0–60 | **The Scattering** | Survivors are stranded on separate planetoids. They name their new worlds out of grief and hope: Threnody, Mourn, Ossuary, Solace, Halcyon. |
+| (no numbered years) | **The Firstlight** | Everyone lives on one world, **the Hearth**, under a whole and steady Flame. Light is free. A long age of prosperity. The Keepers of the Course guide the Ion Storm, until their knowledge fades into ritual (see The Firstlight). |
+| Year 0 | **The Great Flare** | The Flame surges and breaks. Its shards strike the Hearth and shatter it into fragments, each held together by a shard. The Seam opens, and the first Blink happens. Almost every record is lost. |
+| Years 0–60 | **The Scattering** | Survivors are stranded on separate fragments, drifting apart, with no way to cross between them. Families are split across worlds. They name their fragments out of grief and hope: Threnody, Mourn, Ossuary, Solace, Halcyon. |
 | ~Year 60 | **The Founding** | The Ion Storm drifts over a small planetoid where a crew of salvagers lives. They find that **stormdust, ground into hull plating, lets a ship survive open space.** They build the first sealed ships and reconnect the worlds. They become **Lumenhold**. Their home planetoid is renamed **Kiln**, after their first workshop. |
-| ~Year 90 | **Fulcrum Station** | Lumenhold builds the Station as neutral ground for trade. "Light for All" goes on the gates. |
+| ~Year 90 | **Fulcrum Station** | Lumenhold builds the Station at the center of the debris field, **where the Hearth's core used to be**. They borrow an old Firstlight inscription for the gates: "Light for All." |
 | ~Year 150 | **The Divergence** | People split over how to live in the broken world. The Hearthfleet, the Meridians and the Unlit form. |
 | ~Year 210 | **Cinderreach** | A Hearthfleet Rekindling sets a great shard burning forever. The Cinder Wardens are founded as penance. |
 | ~Year 300 | **Rimefall** | The Meridians drain a great shard. The region freezes. **That year the Blink grows noticeably longer.** Lumenhold's Almanac office notices, and quietly changes the numbers. |
@@ -181,14 +220,14 @@ Years are counted **forward from the Great Flare**, as plain numbers: the presen
 All three fly the same Lumenhold ships and carry the same weapons. They differ in **beliefs, cities, clothing, banners and ship colors** (cosmetic only).
 
 ### The Hearthfleet: the old ways
-Guild families bound by oaths and crafts. They live in stone-and-timber holds and keep shrines to the Elder Flame. They believe the Flame will recover if people stop burning so many shards. Their smiths also work the **Forge** on Fulcrum Station under a Lumenhold license.
+Guild families bound by oaths and crafts, who see themselves as the Hearth's true heirs. They live in stone-and-timber holds, keep shrines to the Elder Flame, and ring bells that descend from Carillon's. They believe the Flame will recover if people stop burning so many shards. Their smiths also work the **Forge** on Fulcrum Station under a Lumenhold license.
 - **Right:** they've guessed the real cause.
 - **Wrong:** they still fly shard-burning ships to fight for their beliefs.
 - **Their disaster: Cinderreach.**
 - **Territory:** the Ashway and Cinderreach (4–5 o'clock).
 
 ### The Meridians: the future
-Engineers and planners who build ivory-and-gold cities lit with solid light. They want a power source of their own to break Lumenhold's monopoly.
+Engineers and planners who take their name from the meridian lines Firstlight surveyors drew across the Hearth. They build ivory-and-gold cities lit with solid light. They want a power source of their own to break Lumenhold's monopoly.
 - **Right:** the monopoly is the real danger.
 - **Wrong:** their shortcuts cost whole worlds.
 - **Their disaster: Rimefall.**
@@ -207,7 +246,7 @@ At the heart of Umbra stands **the Altar**, an ancient structure near the Seam. 
 
 ## The map
 
-Space has no north, so in-world people navigate by landmarks ("Rimefall-side", "past the Divide"). These docs use **clock positions on the map screen**, with Fulcrum Station at the center and Rimefall at 12 o'clock.
+Space has no north, so in-world people navigate by landmarks ("Rimefall-side", "past the Divide"). These docs use **clock positions on the map screen**, with Fulcrum Station at the center and Rimefall at 12 o'clock. The whole map is the shattered Hearth: Fulcrum Station sits where its core was, and the planetoids are its fragments drifting outward.
 
 The Meridians hold the 12 o'clock side, the Hearthfleet the 4–5 o'clock side, and the Unlit the 9 o'clock side. The Shard War is fought on the 3 o'clock flank, between the Meridian and Hearthfleet territories. That puts it within sight of the Station, which profits from it.
 
@@ -288,6 +327,39 @@ Wrecks drift into Umbra from every battle of the Shard War. Near the Seam, the M
 
 ---
 
+## Present-day conflicts
+
+The Shard War is the biggest conflict, but it isn't the only one. Conflicts happen at three scales, and **every faction is also split internally**. No group is a single block.
+
+### System-wide
+| Conflict | Sides | What's at stake | Gameplay |
+|---|---|---|---|
+| **The Shard War** | Hearthfleet vs Meridians, on the Divide (Tallow, Sable) | The richest shard fields in a century | War Contracts, battles on the Divide |
+| **The Ledger** | Lumenhold vs the **Ledgerbreakers** | Whether anyone can live free of Lumenhold debt | Choices about debt, black-market Lens jobs, convoy jobs on both sides |
+| **The storm rush** | Everyone, as the Ion Storm passes | Storm ore, and Lumenhold's secret harvest | Racing to mine as the storm passes, claim-jumping |
+
+**The Ledgerbreakers:** an underground of pilots who refuse to pay. They hack their Lenses off the Almanac feed, fly with false transponders, and sometimes raid Lumenhold convoys. Lumenhold calls them all pirates. Some are. Most are just people who couldn't pay. Their best-known member goes only by **Tally**. Lumenhold's debt collectors, the **Assessors**, hunt them. *(This is the cyberpunk thread: going off the feed.)*
+
+### Regional
+| Region | Conflict | Sides |
+|---|---|---|
+| **Rimefall** | **The Rimeborn**: refugees from Rimefall, still living in camps on Solace after more than a century | The Rimeborn vs Meridian leaders who would rather forget, with Lumenhold offering "resettlement contracts" (more debt) |
+| **Cinderreach** | The fire itself | Cinder Wardens vs Emberwrights vs Titans |
+| **Umbra** | Salvage rights | The Umbra Salvage Guild strips wrecks, while traditional Unlit believe anything that drifts toward the Quiet belongs to it |
+| **The Anchorage** | Control of the Station | Lumenhold vs everyone who depends on it, quietly |
+
+### Inside each faction
+| Faction | Split | Side A | Side B |
+|---|---|---|---|
+| **Hearthfleet** | What to do with Cinderreach's fire | **Cinder Wardens:** leave it alone, as penance | **Emberwrights** (forge clans): harvest it to arm the war |
+| **Meridians** | How far to go for independence | **The Vale circle:** Titan Hearts at any cost (Idris Vale) | **The Rimeborn and cautious engineers:** never another Rimefall |
+| **Unlit** | Whether to engage with the world | **Listeners:** stay in the dark, honor the Quiet, keep outsiders out | **Guides:** work with salvagers and outsiders (Wren's generation) |
+| **Lumenhold** | What the company is *for* | **The Board:** the last light, at any cost | **The Almanac office:** lie to keep the peace (Crane), plus floor staff like Vance who believe in the old promise |
+
+**Why this matters for an MMO:** each conflict is a source of repeatable activity *and* story. Reputation can track both a faction and which side of its internal split you favor, without ever forcing a hard choice.
+
+---
+
 ## The Maw and the Ion Storm: opposites
 
 - **The Ion Storm gives light back.** The **Maw takes it.**
@@ -348,6 +420,7 @@ Human faces for each group. Each one wants something, and each one is right abou
 | **Wren** | Unlit | A young pilot who guides salvagers into Umbra. The player's way into Unlit territory. | To prove the Unlit aren't just giving up | Has started to hear the Quiet. |
 | **Guildmaster Rook Halloran** | Umbra Salvage Guild | Runs the salvage outpost on Umbra's edge | Profit, and the crew's safety | Knows the Hollow Fleet grows after every big battle. Sells that information to no one. |
 | **Juno Sallow** | Independent (bazaar) | A broker who hands out War Contracts for a cut. The human face of the job board. | To stay neutral and get rich | Knows which side Lumenhold wants to win each month, and has noticed it changes. |
+| **Tally** | Ledgerbreakers | A debtor who went off the feed. Known only by that name. | A way out of the Ledger for everyone, not just themself | Has proof that some Ledger terms were changed after people signed |
 | **Prior Anselm** | Vesper Order | Elder of the scholar-monks on Vesper | To read HELIOS before the Order dies out | Has spent years sifting stormdust and found a few grains that aren't like the rest: they were *made*. |
 
 ### Why Warden-Captain Kettering doubts the Titans are rogue
@@ -382,6 +455,8 @@ This is the modern-debt theme (needing loans to get a start in life), handled th
 | What makes Lumenhold hulls impossible to copy? | Stormdust plating from the Ion Storm (see Hidden truths) |
 | Who broke the Ceasefire of Sable? | Lumenhold |
 | Why don't the Almanac's Blink numbers match the Hearthfleet bell-records? | The Almanac has been altered since about Year 300 |
+| Why do Threnody and Mourn have matching ruins? | They hold the two halves of Carillon, the Firstlight capital |
+| Who were the Keepers of the Course? | The order that guided the Ion Storm, until their knowledge became ritual |
 | Can the Flame be saved? | Open. This is the endgame question. |
 | Is the Elder Flame itself alive? | **Permanent mystery.** |
 | What does HELIOS mean? | **Permanent mystery.** Marked as a lost word. |
@@ -402,10 +477,11 @@ This is the modern-debt theme (needing loans to get a start in life), handled th
 6. **The Old World** *(author's private answer, never confirmed in the game)*: the people's ancestors arrived long ago, an expedition named HELIOS that found two living forces near its new sun, the stormdust swarm and the Maw, and harnessed them to keep the sun steady. Over the centuries of the Firstlight they forgot, and the Great Flare destroyed the last records.
 7. **Lumenhold broke the Ceasefire of Sable.** The convoy destroyed near Tallow in Year 397 was hit by an unmarked Lumenhold ship. Peace would have ended the war contracts, and burned fewer shards.
 8. **The Almanac lie started at Rimefall (about Year 300).** That year the Blink jumped noticeably. Lumenhold's Almanac office realized what shard burning does, and has changed the numbers ever since. Hearthfleet shrines kept their own bell-records of Blink lengths. **Comparing the two is how players catch the lie.**
-9. **The Maw is natural, and the Old World put it on a leash.** It's an ancient, aware, black-hole-like being that feeds on light. Nobody made it. The HELIOS expedition found it near the Flame and built **the Damper**: a harness of anchors around it, powered by shard-beacons, that held it at a distance and let it feed only on the Flame's *excess* when the Flame surged. The Tender fed the Flame, the Maw ate the surplus, and the Damper kept the Maw in check: balance. When the Tender drifted, the Flame surged, and the Great Flare cracked the Damper. The Maw slipped closer and now sits in the Seam. **The Blink is the Flame passing behind it.** The Damper's last surviving piece is **the Altar in Umbra**, and **the beacons the Unlit put out around Year 340 were its anchors.** That's why the Maw drew closer that year. The Unlit have spent generations worshipping the harness without knowing it was built to hold back the very thing they listen to. The Maw isn't evil. It's a hungry creature that slipped its leash. **The hope isn't killing it, but restoring the balance:** guide the Tender back on course, and relight the Damper's anchors.
+9. **The Maw is natural, and the Old World put it on a leash.** It's an ancient, aware, black-hole-like being that feeds on light. Nobody made it. The HELIOS expedition found it near the Flame and built **the Damper**: a harness of anchors around it, lit by beacons that drank the Flame's light, that held it at a distance and let it feed only on the Flame's *excess* when the Flame surged. The Tender fed the Flame, the Maw ate the surplus, and the Damper kept the Maw in check: balance. When the Tender drifted, the Flame surged, and the Great Flare cracked the Damper. The Maw slipped closer and now sits in the Seam. **The Blink is the Flame passing behind it.** The Damper's last surviving piece is **the Altar in Umbra**. After the Flare, with the Flame's light failing, survivors near Umbra kept its beacons burning with shards out of habit and reverence, not knowing why. **The beacons the Unlit put out around Year 340 were its anchors.** That's why the Maw drew closer that year. The Unlit have spent generations worshipping the harness without knowing it was built to hold back the very thing they listen to. The Maw isn't evil. It's a hungry creature that slipped its leash. **The hope isn't killing it, but restoring the balance:** guide the Tender back on course, and relight the Damper's anchors.
 10. **The war feeds the Maw.** Every wreck from the Shard War is a new hull for the Hollow Fleet.
 11. **Every faction has blood on its hands** (Cinderreach, Rimefall, Umbra). Lumenhold's crimes all come after the Great Flare.
-12. **The theme:** the Firstlight ended because people forgot how to tend their sun. The present day is ending because people are burning it on purpose.
+12. **Lumenhold's motto is stolen.** "Light for All" was carved over Carillon's gates in the Firstlight, describing free sunlight. Lumenhold uses it to sell the opposite.
+13. **The theme:** the Firstlight ended because people forgot how to tend their sun. The present day is ending because people are burning it on purpose.
 
 ---
 
@@ -423,4 +499,5 @@ This is the modern-debt theme (needing loans to get a start in life), handled th
 - [x] The Maw and the Ion Storm are natural living forces the Old World **harnessed**, not built (decided).
 - [x] The Damper is the Old World's harness for the Maw, worshipped by the Unlit as the Altar (decided).
 - [ ] Approve the character list and dates, or change them.
+- [ ] Approve the Hearth (single shattered homeworld) and Carillon split between Threnody and Mourn.
 - [ ] Endgame / chapter structure: what can the player do about the Flame, the Tender and the Damper?

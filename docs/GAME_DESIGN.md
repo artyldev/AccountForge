@@ -56,6 +56,10 @@ This replaces a plain encyclopedia. Lore is a **mystery players investigate**, a
 - Why: Roblox players play with friends. Locking factions splits groups apart and hides content.
 - **Possible big choice at the end of a chapter** about the Flame. Restore it? Replace it? Let it go dark? This could be a server-wide event instead of a per-player ending.
 
+## Conflicts as content
+
+Every present-day conflict in LORE.md (the Shard War, the Ledger, the storm rush, Rimeborn, Cinderreach, Umbra salvage, and each faction's internal split) should supply both **repeatable activities** and **quest lines**. Reputation can track a faction *and* which side of its internal split the player leans toward.
+
 ## PvP: War Contracts
 
 - The Lumenhold's job board posts contracts for **both sides** of a conflict.

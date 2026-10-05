@@ -38,6 +38,18 @@ Assets should look **used**. Plain, uniform surfaces are what look cheap.
 
 ---
 
+## Three visual eras
+
+Players should be able to tell *when* something is from at a glance:
+
+| Era | Look | Where |
+|---|---|---|
+| **The Old World** | Smooth, cast-looking, strange. Cold white-blue accents. Faint HELIOS marks. | The Altar, shepherd grains, relics |
+| **The Firstlight** | Warm "medieval space": stone, timber, brass, bells, banners, sky-barge wrecks | Ruins on almost every planetoid, Carillon's halves, Hearthfleet holds |
+| **The Lumenhold age (now)** | Industrial sci-fi: riveted metal, stencils, amber branding, ads | Ships, Fulcrum Station, Titans |
+
+---
+
 ## Where each influence shows (see INFLUENCES.md)
 
 - **Fulcrum Station:** the most sci-fi place in the game, with cyberpunk and Blade Runner touches: Lumenhold ads and signs everywhere, a polished Lumenhold side (shipyard, auction house) and a cramped, cluttered bazaar side. It's a single deck for now, and more decks could come later. **During the Blink, only ads and signs stay lit.** This is the signature shot.
