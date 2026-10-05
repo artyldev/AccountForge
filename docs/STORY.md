@@ -6,7 +6,7 @@ A draft plan for releasing the story in chapters, MMO-style (see GAME_DESIGN.md 
 - **World update:** each chapter also adds lasting content (a region, a boss, a feature) that everyone shares.
 - **Truth revealed in layers:** each chapter reveals one layer of the hidden truth, from what everyone knows, to what quests uncover, to the endgame.
 
-Everything here is tentative.
+Everything here is tentative. Character arcs for every chapter are in CHARACTERS.md → Arc map.
 
 ---
 
@@ -16,6 +16,8 @@ Everything here is tentative.
 **Ends with:** your first big Ledger milestone, and Warden-Captain Kettering saying, almost to herself: *"Rogue machines don't mine this neatly."*
 
 **Truth revealed:** Lumenhold is everywhere, and you owe it. The Titans aren't as rogue as claimed.
+
+**Character beats:** Vance is your mentor. Juno introduces War Contracts. Kettering leads your first Warden Hunt. Wren cameos in the bazaar. Tally exists only as rumors and graffiti.
 
 **World content:** the starting experience, Titans, the Ledger.
 
@@ -28,6 +30,8 @@ Everything here is tentative.
 
 **Truth revealed:** the war isn't just tragic. It's feeding the Maw.
 
+**Character beats:** Rook hires you and hides his drift map. Vance recognizes his own work on a Hollowed hull. Idris hires you for a delivery to Pallas. Tally hacks your Lens for the first time. Crane presides over Almanac Day.
+
 **World content:** Umbra and the Penumbra, Truesight, the Hollow Fleet.
 
 ---
@@ -39,6 +43,8 @@ Everything here is tentative.
 
 **Truth revealed:** Lumenhold's monopoly depends on the Old World, and is slowly killing a living thing the Old World once guided to tend the Flame.
 
+**Character beats:** Kettering's tracker goes dark on a Lumenhold courier lane. Juno shows you the monthly contract pattern. Tally asks you to help raid a stormdust convoy. Vance won't look inside a sealed shipment. Crane visits Vesper in secret. Wren hears the Quiet flinch from the storm.
+
 **World content:** Ion Storm features (forecasts, Blink shelter, relics), the Vesper Order.
 
 ---
@@ -47,6 +53,8 @@ Everything here is tentative.
 **Personal story:** Hearthfleet bell-records don't match the Almanac. You trace the gap back to about Year 300 and to Almanac-Keeper Crane. It plays as a detective story: clues, people who might be lying, a trail. Vance discovers the Titan parts in his own shipyard. Evidence links the broken Ceasefire of Sable to Lumenhold.
 
 **Ends with:** Crane's quiet speech (see INFLUENCES.md). Then you switch your Lens to an independent feed, and **the Blink countdown on your HUD changes.** The truth about shard burning: **every shard burned dims the Elder Flame.** Lumenhold has known for over a century.
+
+**Character beats:** Juno's Year 397 record, Kettering's evidence and Vance's leaked manifests all come together. Crane unlocks the archive, gives her quiet speech, and hands you the Second Almanac. Vance is dismissed. Rook's drift map goes public. Kettering's own council betrays her.
 
 **Truth revealed:** the core hidden truth.
 
@@ -60,6 +68,8 @@ Everything here is tentative.
 **The long goal:** a **server-wide project** to restore the balance: guide the Ion Storm (the Tender) back on course, and relight the Damper's anchors in Umbra. Every player contributes over seasons. The Unlit are split: some see it as betraying the Quiet, others as finally understanding it.
 
 **Ongoing conflicts:** Lumenhold fights to keep its monopoly. Idris Vale's Titan Heart project threatens a new Rimefall. The Maw grows bolder as the story raises the stakes.
+
+**Character beats:** Anselm and Crane decode the Tending. Vance builds anchor parts on Solace. Idris's Heart engine test. Rook faces the *Second Wind*. The Maw speaks through Wren. Late in the chapter, the Ion Storm speaks once.
 
 **World content:** new regions on the uncharted 2–3 o'clock side of the map, new bosses, and the ongoing project.
 

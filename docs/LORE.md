@@ -318,7 +318,7 @@ Both boss fleets use standard Lumenhold hulls, which matches the existing models
 - **Lumenhold's view:** see Hidden truths. It wins either way.
 
 ### The Hollow Fleet (Umbra)
-Wrecks drift into Umbra from every battle of the Shard War. Near the Seam, the Maw drains their shard cores and Hollows take over the dead hulls. The result is a fleet of lightless ships with no crew, led by a flagship *(name TBD)*.
+Wrecks drift into Umbra from every battle of the Shard War. Near the Seam, the Maw drains their shard cores and Hollows take over the dead hulls. The result is a fleet of lightless ships with no crew, led by a flagship, ***the Second Wind*** (proposed, see CHARACTERS.md).
 - **Why it comes back:** the war keeps supplying fresh wrecks. **The war is literally feeding the Maw's fleet.**
 - Possible mechanic: Hollowed ships are invisible to Truesight, so players have to switch back to the Lens's low-light mode to fight them.
 
@@ -500,7 +500,7 @@ This is the modern-debt theme (needing loans to get a start in life), handled th
 - [ ] Old World order. Current pick: **the Vesper Order**.
 - [ ] Approve or replace the proposed regions: the Anchorage, the Divide, the Marches, the Penumbra, the Strays, the Ashway.
 - [ ] Confirm the renames: Cinder → **Kiln**, Umber → **Ochre**.
-- [ ] Name the Hollow Fleet's flagship.
+- [ ] Approve the Hollow Fleet flagship: *the Second Wind*, Rook Halloran's old ship (CHARACTERS.md).
 - [x] The Ion Storm is aware (decided). Lumenhold's harvesting is harm to a living thing.
 - [x] The Lens is an eye implant that explains the UI (decided).
 - [x] Currency stays "coins" (Lumenhold coin in the lore).
