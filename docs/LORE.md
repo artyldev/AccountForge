@@ -36,11 +36,11 @@ These keep the story free of plot holes. Check new lore against them.
 | **The Blink** | Each day the Flame enters the Seam, goes dark, and reappears on the opposite horizon | Experienced first, named after |
 | **The Maw** | Something in the Seam that feeds on leaking light | Rumors first, then sightings |
 | **Hollows** | Creatures that come out of the Seam during the Blink | First Blink encounter |
-| **Dusklens** | Standard-issue night vision. Shows one color only. | Given at the start |
+| **The Lens** | An eye implant every pilot gets with their first ship. It's the in-world reason for the game's HUD, and has a one-color low-light mode. | Fitted in the first scene |
 | **Truesight** | Upgraded vision that shows full color in the dark | Quest reward (Unlit) |
 | **Lumenhold** (tentative) | The company that builds every ship and weapon | First scene (they hold your contract) |
 | **Fulcrum Station** (proposed) | The neutral trade station at the center of the system | Starting location |
-| **AF** | "After the Flare." How years are counted. Present day is 412 AF. | Dates in dialogue and the Almanac |
+| **The Almanac** | Lumenhold's reference for everything: Blink times, routes, prices, contracts, notices. Fed live into every Lens. | Used from the first minute |
 | **Stormdust** | The glowing fog that makes up the Ion Storm | Seeing the storm, mining in it |
 | **The Old World** | A civilization older than the Firstlight. Only relics remain. | Relics, the Ion Storm |
 | **The Vesper Order** (tentative) | Scholar-monks on Vesper who study the Old World | Mid-game (Old World storyline) |
@@ -55,13 +55,33 @@ These keep the story free of plot holes. Check new lore against them.
 - **Shard energy is flame energy.** Ships, weapons, lights and settlements all run on it. Shards can be used up, and a spent shard never comes back.
 - **Shards are still bound to the Elder Flame.** Burning one drains the Flame a little. *(Almost nobody knows this.)*
 - **The Seam and the Blink.** Once a day the Flame passes through the Seam: it enters at one horizon, goes dark while inside, and comes out at the opposite horizon. Old records say the Blink was once instant. **It is getting longer.**
-- **The Maw** lives in the Seam. It is aware, ancient and patient, but it is **not a god**. It feeds on the light that leaks from the wound. It is weak in light, so it can only reach into the world during the Blink and in the deep dark of Umbra. **It grows as the Flame weakens.** The Hearthfleet call it "the Maw", the Meridians "the Null Point", the Unlit "the Quiet".
+- **The Maw** lives in the Seam. It is aware, ancient and patient, but it is **not a god**. It feeds on the light that leaks from the wound. It is weak in light, so it can only reach into the world during the Blink and in the deep dark of Umbra. **It grows as the Flame weakens.** The Hearthfleet call it "the Maw", the Meridians "the Null Point", the Unlit "the Quiet". *(What it really is: see Hidden truths.)*
 - **Hollows** come out of the Seam during the Blink. They contain no flame essence at all.
 
-### Vision
-- **Dusklens:** standard-issue lenses made by Lumenhold from crushed low-grade shard glass. Because the glass is impure, they show only one color.
-- **Truesight:** a lens cut from a *pure* shard, a craft only the Unlit know. **It doesn't see light. It senses flame essence**, and everything near a shard is soaked in it: rock, people, ships. That's why it works in total darkness, and in full color.
+### The Lens and Truesight
+- **The Lens:** a Lumenhold eye implant fitted when a pilot signs their first contract. **It's the in-world explanation for the game's UI:** map markers, ship readouts, heat gauges, quest markers, the Blink countdown, and your Ledger balance always in the corner of your eye. It runs on the **Almanac feed** (see The Almanac).
+  - **Low-light mode:** the lens is made from crushed low-grade shard glass, so in the dark it shows only one color.
+  - Everyone has one. Your debt is literally in your eyes. Lumenhold calls that "transparency."
+- **Truesight:** an upgrade cut from a *pure* shard, a craft only the Unlit know. **It doesn't see light. It senses flame essence**, and everything near a shard is soaked in it: rock, people, ships. That's why it works in total darkness, and in full color.
   - **Limit:** Hollows contain no flame essence, so Truesight can't see them.
+  - **Not tied to Lumenhold:** Truesight doesn't use the Almanac feed. That matters in Chapter 4.
+
+---
+
+## The Almanac
+
+Lumenhold's **Flame Almanac** is the most important thing in the system after the Flame itself. Everyone depends on it to survive and do business:
+
+- **Calendar and Blink schedule:** when the next Blink comes and how long it lasts.
+- **Ion Storm forecasts:** where the storm is heading.
+- **Charts and safe routes** between planetoids.
+- **Market prices** for ore, shards and goods.
+- **Trade law:** the standard terms of every Ledger contract, ship licenses, salvage rights.
+- **Notices:** bounties, debtor lists, War Contract listings, news.
+
+It's printed once a year, and **streamed live into every Lens** as the Almanac feed. In the game, the Almanac is the in-world name for the info screens: map, market, notices, Blink timer.
+
+**Why it matters:** whoever writes the Almanac decides what everyone knows. People trust it with their lives, because a wrong Blink time can strand you in the dark. That trust is Lumenhold's most valuable asset, more valuable than the shipyard. *(And its Blink numbers have been false since about Year 300. See Hidden truths.)*
 
 ---
 
@@ -108,25 +128,25 @@ Scholar-monks living on lonely Vesper, where the sky is clearest. They chart the
 
 ## Timeline
 
-Years are counted from the Great Flare: **AF** means "After the Flare." The present day is **412 AF**. All dates are tentative.
+Years are counted **forward from the Great Flare**, as plain numbers: the present day is **Year 412**. Nothing before the Flare gets a number. Older times are just "the Firstlight" and "the Old World." **Nothing is ever counted backwards** (no BC/AD-style confusion). All dates are tentative.
 
 | When | Era | What happened |
 |---|---|---|
 | ??? | **The Old World** | Unknown. Only relics and the Ion Storm remain. |
 | ??? | **The Arrival** | *Hidden.* See Hidden truths. |
-| ~900 years | **The Firstlight** | The Elder Flame is whole. One sky, one people, a long age of prosperity. The Ion Storm keeps its course, and nobody remembers why that matters. |
-| 0 AF | **The Great Flare** | The Flame breaks. Shards scatter, planetoids form around them, the Seam opens, and the first Blink happens. Almost every record is lost. |
-| 0–60 AF | **The Scattering** | Survivors are stranded on separate planetoids. They name their new worlds out of grief and hope: Threnody, Mourn, Ossuary, Solace, Halcyon. |
-| ~60 AF | **The Founding** | The Ion Storm drifts over a small planetoid where a crew of salvagers lives. They find that **stormdust, ground into hull plating, lets a ship survive open space.** They build the first sealed ships and reconnect the worlds. They become **Lumenhold**. Their home planetoid is renamed **Kiln**, after their first workshop. |
-| ~90 AF | **Fulcrum Station** | Lumenhold builds the Station as neutral ground for trade. "Light for All" goes on the gates. |
-| ~150 AF | **The Divergence** | People split over how to live in the broken world. The Hearthfleet, the Meridians and the Unlit form. |
-| ~210 AF | **Cinderreach** | A Hearthfleet Rekindling sets a great shard burning forever. The Cinder Wardens are founded as penance. |
-| ~300 AF | **Rimefall** | The Meridians drain a great shard. The region freezes. **That year the Blink grows noticeably longer.** Lumenhold's Almanac office notices, and quietly changes the numbers. |
-| ~340 AF | **Umbra goes dark** | The Unlit put out the old shard-beacons. The region falls into darkness. |
-| ~360 AF | **The first Titans** | Lumenhold's "lost automated harvesters" appear in Cinderreach. |
-| 381 AF | **The Shard War begins** | Rich shard veins are found on Tallow and Sable. See The Shard War. |
-| 397 AF | **The Ceasefire of Sable** | A peace that lasts eleven days. |
-| 412 AF | **Present day** | The war is deadlocked. The Blink keeps getting longer. You arrive at Fulcrum Station with a ship and a contract. |
+| (no numbered years) | **The Firstlight** | The Elder Flame is whole. One sky, one people, a long age of prosperity. The Ion Storm keeps its course, and nobody remembers why that matters. |
+| Year 0 | **The Great Flare** | The Flame breaks. Shards scatter, planetoids form around them, the Seam opens, and the first Blink happens. Almost every record is lost. |
+| Years 0–60 | **The Scattering** | Survivors are stranded on separate planetoids. They name their new worlds out of grief and hope: Threnody, Mourn, Ossuary, Solace, Halcyon. |
+| ~Year 60 | **The Founding** | The Ion Storm drifts over a small planetoid where a crew of salvagers lives. They find that **stormdust, ground into hull plating, lets a ship survive open space.** They build the first sealed ships and reconnect the worlds. They become **Lumenhold**. Their home planetoid is renamed **Kiln**, after their first workshop. |
+| ~Year 90 | **Fulcrum Station** | Lumenhold builds the Station as neutral ground for trade. "Light for All" goes on the gates. |
+| ~Year 150 | **The Divergence** | People split over how to live in the broken world. The Hearthfleet, the Meridians and the Unlit form. |
+| ~Year 210 | **Cinderreach** | A Hearthfleet Rekindling sets a great shard burning forever. The Cinder Wardens are founded as penance. |
+| ~Year 300 | **Rimefall** | The Meridians drain a great shard. The region freezes. **That year the Blink grows noticeably longer.** Lumenhold's Almanac office notices, and quietly changes the numbers. |
+| ~Year 340 | **Umbra goes dark** | The Unlit put out the old shard-beacons. The region falls into darkness. |
+| ~Year 360 | **The first Titans** | Lumenhold's "lost automated harvesters" appear in Cinderreach. |
+| Year 381 | **The Shard War begins** | Rich shard veins are found on Tallow and Sable. See The Shard War. |
+| Year 397 | **The Ceasefire of Sable** | A peace that lasts eleven days. |
+| Year 412 | **Present day** | The war is deadlocked. The Blink keeps getting longer. You arrive at Fulcrum Station with a ship and a contract. |
 
 ### Where planet names come from (flavor)
 - **Survivor names** (grief and hope, from the Scattering): Threnody, Mourn, Marrow, Ossuary, Harrow, Sable, Solace, Halcyon, Rookery, Quill, Kestrel, Lament.
@@ -144,7 +164,7 @@ Years are counted from the Great Flare: **AF** means "After the Flare." The pres
 | **Hearthfleet / Meridians / Unlit** | Territory and people | Each knows one piece of the truth |
 
 ### Lumenhold (tentative name)
-**Public face:** the company that saved the world. It builds every ship, weapon and pair of Dusklens. It owns Fulcrum Station, its shipyard, markets and auction house, the job boards and the currency. It publishes the **Flame Almanac**, the official record of Blink lengths. It accepts payment in shards.
+**Public face:** the company that saved the world. It builds every ship and weapon, and fits every pilot's Lens. It owns Fulcrum Station, its shipyard, markets and auction house, the job boards and the currency. It publishes the **Flame Almanac**, the official record of Blink lengths. It accepts payment in shards.
 
 **How players feel its influence:** everywhere and quietly. Prices rise during the Blink "for your safety." Jobs for both sides of the war are posted on the same board. Even independent traders at the bazaar pay Lumenhold rent. There is no cackling-villain moment. The evil is in the contracts.
 
@@ -238,6 +258,7 @@ Both boss fleets use standard Lumenhold hulls, which matches the existing models
 **Titan-class** dreadnoughts: huge automated harvesters with no crew, escorted by drone fleets. They mine the burning shard in Cinderreach and defend their haul against anyone who comes near. Their transponders are unregistered, so each one shows up on scanners as an **Unknown Signal**. Lumenhold's official story is that they're a class of old automated harvesters that went rogue decades ago and "can't be recalled."
 
 - **There are many of them, not one.** That's why a Titan is always out there to fight (repeatable boss).
+- **They take a team.** Titans were built to survive Cinderreach's heat and fight off whole fleets, so no lone pilot can beat one. The Cinder Wardens organize **Warden Hunts**: open bounty calls that gather pilots for a group attack.
 - **Titan Heart:** the core where a Titan stores what it has mined. It's essentially refined pure shard.
 - **What players can do with a Heart:**
   - **Forge it into armor** on Fulcrum Station. This is the current mechanic.
@@ -249,17 +270,17 @@ Both boss fleets use standard Lumenhold hulls, which matches the existing models
 ### The Hollow Fleet (Umbra)
 Wrecks drift into Umbra from every battle of the Shard War. Near the Seam, the Maw drains their shard cores and Hollows take over the dead hulls. The result is a fleet of lightless ships with no crew, led by a flagship *(name TBD)*.
 - **Why it comes back:** the war keeps supplying fresh wrecks. **The war is literally feeding the Maw's fleet.**
-- Possible mechanic: Hollowed ships are invisible to Truesight, so players have to fight them with Dusklens.
+- Possible mechanic: Hollowed ships are invisible to Truesight, so players have to switch back to the Lens's low-light mode to fight them.
 
 ---
 
 ## The Shard War
 
-**How it started (381 AF):** prospectors found the richest shard veins in a century on Tallow and Sable. The Meridians claimed them to power a new city. The Hearthfleet called it desecration: burning that much shard, they believed, would wound the Flame. The first battle, **the Sable Burning**, left a Meridian survey camp in ashes. Within a week, Lumenhold's job board was posting contracts for both sides.
+**How it started (Year 381):** prospectors found the richest shard veins in a century on Tallow and Sable. The Meridians claimed them to power a new city. The Hearthfleet called it desecration: burning that much shard, they believed, would wound the Flame. The first battle, **the Sable Burning**, left a Meridian survey camp in ashes. Within a week, Lumenhold's job board was posting contracts for both sides.
 
-**The ceasefire (397 AF):** Hearthfleet and Meridian envoys met on Fulcrum Station and signed **the Ceasefire of Sable**. Eleven days later, a Hearthfleet convoy was destroyed near Tallow. Each side blamed the other, and the war resumed. *(Who really did it: see Hidden truths.)*
+**The ceasefire (Year 397):** Hearthfleet and Meridian envoys met on Fulcrum Station and signed **the Ceasefire of Sable**. Eleven days later, a Hearthfleet convoy was destroyed near Tallow. Each side blamed the other, and the war resumed. *(Who really did it: see Hidden truths.)*
 
-**Now (412 AF):** 31 years in, the front line around Tallow and Sable has barely moved. Nobody remembers a time without war contracts. A generation of pilots has grown up flying for whichever side pays more this week.
+**Now (Year 412):** 31 years in, the front line around Tallow and Sable has barely moved. Nobody remembers a time without war contracts. A generation of pilots has grown up flying for whichever side pays more this week.
 
 ---
 
@@ -268,6 +289,7 @@ Wrecks drift into Umbra from every battle of the Shard War. Near the Seam, the M
 - **The Ion Storm gives light back.** The **Maw takes it.**
 - **Hollows won't enter the storm.** The Unlit say the Quiet "turns away from it, the way you turn from a fire."
 - **Both are getting stronger and weaker at the same time.** As the storm shrinks, the Maw grows.
+- **Both may be aware.** Two great presences, one that gives and one that takes. *(Why they're a pair: see Hidden truths.)*
 
 **What the Unlit say about the Maw:** it doesn't hate anyone. It's hungry, the way cold is hungry for heat. During the Blink, Unlit elders sit in total darkness and *listen*. They say the Quiet is patient, that it has been waiting since the Great Flare, and that it is closer now than in their grandparents' time.
 
@@ -277,11 +299,12 @@ Wrecks drift into Umbra from every battle of the Shard War. Near the Seam, the M
 
 ### Time
 - **Days are counted in Blinks.** "Three Blinks ago" means three days ago.
-- **Years are counted AF** (After the Flare).
-- **The Flame Almanac** is published by Lumenhold every year: Blink lengths, storm forecasts, shard prices. Almost everyone owns a copy. *(The Blink numbers in it are false. See Hidden truths.)*
+- **Years are plain numbers counted from the Great Flare.** "Year 412."
+- **The Almanac** tells everyone when the next Blink comes (see The Almanac).
+- **Money is Lumenhold coin**, stamped with the Lumenhold seal. In the game it's just "coins."
 
 ### During the Blink
-- **On Fulcrum Station:** the lights dim to save power, a chime sounds, and prices go up ("Blink surcharge").
+- **On Fulcrum Station:** the lights dim to save power, a chime sounds, every Lens shows a countdown, and prices go up ("Blink surcharge").
 - **Hearthfleet:** ring bells and cover their shards. It's a small act of conservation, a little like a prayer.
 - **Meridians:** keep working under solid light, and refuse to stop for the dark.
 - **Unlit:** go outside and listen.
@@ -291,18 +314,20 @@ Fulcrum Station is covered in cheerful Lumenhold messaging: posters, signs and a
 - *"Light for All."*
 - *"A paid Ledger is a peaceful Ledger."*
 - *"Blink surcharge in effect. Thank you for staying safe with Lumenhold."*
-- *"Stormdust? Just weather. Lumenhold sealant: trusted since 60 AF."*
+- *"Stormdust? Just weather. Lumenhold sealant: trusted since Year 60."*
 
 ### Sayings
 | Saying | Who says it | Meaning |
 |---|---|---|
-| "Short Blink." | Everyone | Goodbye and stay safe. Like "safe travels." |
+| "Keep your light." | Everyone | Goodbye, stay safe. In a world where light means life, it's the natural farewell. |
 | "Owing the Hold." | Everyone | Being in debt to Lumenhold, which is almost everyone. |
 | "Light for All." | Lumenhold | Their motto, on every gate and contract. Said sarcastically by everyone else. |
 | "Burning bright." | Hearthfleet | Wasting something precious. An insult. |
-| "Tend the fire you're given." | Hearthfleet | Look after what you have. *(It echoes the Ion Storm's real purpose without anyone realizing.)* |
+| "Tend the fire you have." | Hearthfleet | Take care of what you have instead of chasing more. *(See note below.)* |
 | "Build past it." | Meridians | Don't dwell, engineer a way through. |
 | "The dark keeps no ledger." | Unlit | In the dark, nobody owes anybody. A dig at Lumenhold. |
+
+**About "Tend the fire you have":** many real proverbs outlive their original meaning. People keep saying them long after they've forgotten what they were literally about. This one is a leftover from the Firstlight, when "tending the fire" literally meant looking after the Ion Storm, the machine that tends the Flame. Today it just means "look after what you've got." Players who solve the Ion Storm mystery realize the old saying was a literal instruction everyone forgot.
 
 ---
 
@@ -314,12 +339,18 @@ Human faces for each group. Each one wants something, and each one is right abou
 |---|---|---|---|---|
 | **Quartermaster Vance** | Lumenhold | Runs the shipyard. Gives the player their first ship. | To do right by new pilots. Genuinely believes Lumenhold keeps the system running. | Eventually finds out what the "export hull components" really are: Titan parts. Has to decide what to do about it. |
 | **Almanac-Keeper Edda Crane** | Lumenhold | Head of the Almanac office | Order. Believes the truth about the Blink would cause panic and war. | Changes the numbers every year. Sees it as a kind lie that keeps the peace. |
-| **Warden-Captain Maud Kettering** | Hearthfleet (Cinder Wardens) | Guards the approach to Cinderreach. Posts Titan bounties. | To make up for her ancestors' Rekindling | Suspects the Titans are mining the fire on purpose. Can't prove it. |
+| **Warden-Captain Maud Kettering** | Hearthfleet (Cinder Wardens) | Guards the approach to Cinderreach. Posts Titan bounties. | To make up for her ancestors' Rekindling | Has three reasons to doubt the "rogue" story (see below). Can't prove who's behind it. |
 | **Chief Engineer Idris Vale** | Meridians | Leads Meridian research | A power source no one can take away | A grandparent signed off on the Rimefall drain. Idris is quietly planning a new shortcut, using Titan Hearts. |
 | **Wren** | Unlit | A young pilot who guides salvagers into Umbra. The player's way into Unlit territory. | To prove the Unlit aren't just giving up | Has started to hear the Quiet. |
 | **Guildmaster Rook Halloran** | Umbra Salvage Guild | Runs the salvage outpost on Umbra's edge | Profit, and the crew's safety | Knows the Hollow Fleet grows after every big battle. Sells that information to no one. |
 | **Juno Sallow** | Independent (bazaar) | A broker who hands out War Contracts for a cut. The human face of the job board. | To stay neutral and get rich | Knows which side Lumenhold wants to win each month, and has noticed it changes. |
 | **Prior Anselm** | Vesper Order | Elder of the scholar-monks on Vesper | To read HELIOS before the Order dies out | Has a dead stormdust grain under a lens, and suspects it was *made*. |
+
+### Why Warden-Captain Kettering doubts the Titans are rogue
+The Wardens have watched Titans for 50 years, and three things don't add up:
+1. **They mine like they have a map.** Titans cut along straight survey lines and only hit the richest seams. A machine that's been lost for decades shouldn't know where the best shard is *this* year.
+2. **They leave full and come back empty.** The Wardens tracked a loaded Titan to the edge of their range. When it came back, its hold was empty. Something is unloading them.
+3. **Some ships are never attacked.** Lumenhold supply couriers cross Cinderreach regularly. No Titan has ever fired on one.
 
 ---
 
@@ -336,7 +367,7 @@ This is the modern-debt theme (needing loans to get a start in life), handled th
 | Mystery | Answer (author only) |
 |---|---|
 | Why is the Blink getting longer? | Shard burning drains the Flame. The Almanac has been altered to hide it. |
-| What is the Maw? | A scavenger in the Seam that grows as the Flame weakens |
+| What is the Maw? | The Old World's Damper, out of balance (see Hidden truths) |
 | What happened at Rimefall? | The Meridians drained a great shard |
 | Who darkened Umbra? | The Unlit put out the beacons |
 | Why does Cinderreach never stop burning? | A Hearthfleet Rekindling went wrong |
@@ -345,8 +376,9 @@ This is the modern-debt theme (needing loans to get a start in life), handled th
 | What is the Ion Storm? | See Hidden truths. Partly solvable. |
 | What makes Lumenhold hulls impossible to copy? | Stormdust plating from the Ion Storm (see Hidden truths) |
 | Who broke the Ceasefire of Sable? | Lumenhold |
-| Why don't the Almanac's Blink numbers match the Hearthfleet bell-records? | The Almanac has been altered since ~300 AF |
+| Why don't the Almanac's Blink numbers match the Hearthfleet bell-records? | The Almanac has been altered since about Year 300 |
 | Can the Flame be saved? | Open. This is the endgame question. |
+| Is the Elder Flame itself alive? | **Permanent mystery.** |
 | What does HELIOS mean? | **Permanent mystery.** Marked as a lost word. |
 | Where did the Old World go? | **Permanent mystery.** |
 
@@ -363,11 +395,12 @@ This is the modern-debt theme (needing loans to get a start in life), handled th
    - Lost Titans are rebuilt in parts at Fulcrum Station's shipyard, listed as "export hull components." Players who buy from that shipyard are paying for the bosses they fight.
 5. **The Ion Storm is a Flame-tender.** The Old World built the stormdust swarm to collect the charged matter the Elder Flame throws off and feed it back, keeping the Flame stable. **The Firstlight lasted exactly as long as the Tender kept its course.** Nobody remembered how to maintain it. It drifted off its path, and the Great Flare followed. Lumenhold's harvesting has been shrinking it ever since. Nobody did it on purpose; people simply forgot. **Restoring the Tender could slow the Flame's decay.** That's the long-term thread of hope.
 6. **The Old World** *(author's private answer, never confirmed in the game)*: the people's ancestors arrived long ago, an expedition named HELIOS that built the Tender for its new sun. Over the centuries of the Firstlight they forgot, and the Great Flare destroyed the last records.
-7. **Lumenhold broke the Ceasefire of Sable.** The convoy destroyed near Tallow in 397 AF was hit by an unmarked Lumenhold ship. Peace would have ended the war contracts, and burned fewer shards.
-8. **The Almanac lie started at Rimefall (~300 AF).** That year the Blink jumped noticeably. Lumenhold's Almanac office realized what shard burning does, and has changed the numbers ever since. Hearthfleet shrines kept their own bell-records of Blink lengths. **Comparing the two is how players catch the lie.**
-9. **The war feeds the Maw.** Every wreck from the Shard War is a new hull for the Hollow Fleet.
-10. **Every faction has blood on its hands** (Cinderreach, Rimefall, Umbra). Lumenhold's crimes all come after the Great Flare.
-11. **The theme:** the Firstlight ended because people forgot how to tend their sun. The present day is ending because people are burning it on purpose.
+7. **Lumenhold broke the Ceasefire of Sable.** The convoy destroyed near Tallow in Year 397 was hit by an unmarked Lumenhold ship. Peace would have ended the war contracts, and burned fewer shards.
+8. **The Almanac lie started at Rimefall (about Year 300).** That year the Blink jumped noticeably. Lumenhold's Almanac office realized what shard burning does, and has changed the numbers ever since. Hearthfleet shrines kept their own bell-records of Blink lengths. **Comparing the two is how players catch the lie.**
+9. **The Maw is the Old World's second machine.** The HELIOS expedition built two: the **Tender** (the Ion Storm), which feeds energy back into the Flame, and a **Damper**, which swallows excess energy when the Flame surges. Together they kept the Flame steady for the whole Firstlight. When the Tender drifted off course, the balance broke, the Flame surged, and the Great Flare tore the Damper loose. It now sits in the Seam, still doing its one job, *taking light*, with nothing to balance it. **The Blink is the Flame passing behind it.** It isn't evil. It's a machine that was never told to stop. **Restoring the Tender could calm it,** so the hope isn't killing the Maw but restoring the balance.
+10. **The war feeds the Maw.** Every wreck from the Shard War is a new hull for the Hollow Fleet.
+11. **Every faction has blood on its hands** (Cinderreach, Rimefall, Umbra). Lumenhold's crimes all come after the Great Flare.
+12. **The theme:** the Firstlight ended because people forgot how to tend their sun. The present day is ending because people are burning it on purpose.
 
 ---
 
@@ -379,8 +412,9 @@ This is the modern-debt theme (needing loans to get a start in life), handled th
 - [ ] Approve or replace the proposed regions: the Anchorage, the Divide, the Marches, the Penumbra, the Strays, the Ashway.
 - [ ] Confirm the renames: Cinder → **Kiln**, Umber → **Ochre**.
 - [ ] Name the Hollow Fleet's flagship.
-- [ ] What is the in-game currency called? (The lore assumes Lumenhold issues it.)
-- [ ] **Is the Ion Storm aware?** If it thinks, Lumenhold's harvesting becomes harm to a living thing (a Blade Runner-style question). See INFLUENCES.md.
-- [ ] Optional: should Dusklens be eye implants fitted at contract signing (more cyberpunk, darker)?
+- [x] The Ion Storm is aware (decided). Lumenhold's harvesting is harm to a living thing.
+- [x] The Lens is an eye implant that explains the UI (decided).
+- [x] Currency stays "coins" (Lumenhold coin in the lore).
+- [ ] Approve the Maw-as-Damper idea (Hidden truths #9).
 - [ ] Approve the character list and dates, or change them.
 - [ ] Endgame / chapter structure: what can the player do about the Flame and the Tender?

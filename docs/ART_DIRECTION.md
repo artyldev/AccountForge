@@ -40,7 +40,7 @@ Assets should look **used**. Plain, uniform surfaces are what look cheap.
 
 ## Where each influence shows (see INFLUENCES.md)
 
-- **Fulcrum Station:** cyberpunk and Blade Runner density. Layered decks, Lumenhold ads and signs, clean upper decks and crowded lower ones. **During the Blink, only ads and signs stay lit.** This is the signature shot.
+- **Fulcrum Station:** the most sci-fi place in the game, with cyberpunk and Blade Runner touches: Lumenhold ads and signs everywhere, a polished Lumenhold side (shipyard, auction house) and a cramped, cluttered bazaar side. It's a single deck for now, and more decks could come later. **During the Blink, only ads and signs stay lit.** This is the signature shot.
 - **Ruins, Rimefall, wrecks:** Fallout-style environmental storytelling. Frozen or abandoned scenes left exactly as they were, with readable logs and notes.
 - **Faction homes:** our own medieval-space style.
 
@@ -93,7 +93,7 @@ Always check the license. A monetized Roblox game needs a license that **allows 
 
 1. **Day:** normal Elder Flame light.
 2. **The Blink:** near-total dark. Check that glowing parts and silhouettes still read.
-3. **Dusklens:** single-color night vision view.
+3. **Lens low-light mode:** single-color night vision view.
 4. **Region moods:** Umbra (dark), Rimefall (cold and blue), Cinderreach (hot and orange).
 
 ---

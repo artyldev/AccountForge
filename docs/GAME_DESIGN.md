@@ -8,7 +8,7 @@ Companion to LORE.md. These are planning notes, not final specs.
 
 The current setup already fits the lore, so there's no need to change it. The player starts on the Station, learns to fly, and meets the core features there. See LORE.md → Places for what each area is in the story.
 
-The tutorial can double as the contract signing: Quartermaster Vance hands the player a ship, a Dusklens and a Ledger in the first scene.
+The tutorial can double as the contract signing: Quartermaster Vance hands the player a ship and a Ledger, and gets them fitted with a Lens. The Lens switching on is the moment the HUD appears.
 
 ---
 
@@ -45,7 +45,7 @@ This replaces a plain encyclopedia. Lore is a **mystery players investigate**, a
   - **Rumored:** conflicting accounts, each credited to who said it ("The Hearthfleet say…", "The Flame Almanac states…"). Players can see the truth is disputed.
   - **Solved:** once the key clues are found, the player gets a **Revelation**: the answer, a short story moment and a reward.
 - **Permanent mysteries** (like HELIOS) are marked as **Lost**, so players know nobody has the answer, not just them.
-- **Basic terms** (the Blink, shards, Dusklens) still get a short definition when they first appear, so players never get stuck on a word.
+- **Basic terms** (the Blink, shards, the Lens) still get a short definition when they first appear, so players never get stuck on a word.
 
 ---
 
@@ -72,11 +72,13 @@ This replaces a plain encyclopedia. Lore is a **mystery players investigate**, a
 
 ---
 
-## Vision gear
+## The Lens (UI) and Truesight
 
-- **Dusklens:** everyone gets it from the start. Shows one color in the dark.
-- **Truesight:** an upgrade to full-color vision, earned through the Unlit. Can't see Hollows (see LORE.md).
-- This makes Umbra optional rather than a chore: it's where you earn the upgrade, and the upgrade makes dark places comfortable.
+- **The Lens is the UI.** Everything on the HUD (map markers, ship readouts, heat, quest markers, Blink countdown, Ledger balance) is in-world information shown by the Lumenhold eye implant. This gives the UI a lore reason to exist.
+- **Low-light mode:** one-color night vision, available to everyone from the start.
+- **Truesight:** an upgrade to full color in the dark, earned through the Unlit. Can't see Hollows.
+- **Chapter 4 moment:** after the Almanac reveal, the player can switch the Lens to an independent feed, built from Hearthfleet bell-records and Vesper Order measurements. **The Blink countdown on the HUD changes.** The UI itself was lying, which makes the twist something the player sees, not just reads.
+- Umbra stays optional rather than a chore: it's where you earn Truesight, and Truesight makes dark places comfortable.
 
 ---
 
@@ -112,6 +114,21 @@ The goal is a long-lived MMO-style game (like Hypixel SkyBlock) with an ongoing 
 | **Titans** (Cinderreach) | Ship boss with a fleet. Players follow an "Unknown signal" to find one. Drops a **Titan Heart**, which the Forge turns into armor. | Automated Lumenhold harvesters, officially "rogue." There are many. Lumenhold profits whether they survive or not. |
 | **The Hollow Fleet** (Umbra) | Ship boss with a fleet | Shard War wrecks taken over by Hollows. The war keeps supplying new ones. |
 | **The Ion Storm** | Roaming fog cloud with no surface that can pass over planets. Lightning in the outer layer, a calm center with valuable ore. | Made of **stormdust**: every grain is a tiny Old World machine. The fog *is* the machine. |
+
+### Group fights
+Titans are hard enough to need a team. That suits an MMO: **Warden Hunts** are open bounty calls from the Cinder Wardens that gather players for a group attack.
+
+### Drops (proposal, beyond Titan Hearts)
+| Source | Drop | Possible use |
+|---|---|---|
+| Titans | **Titan Heart** | Armor at the Forge (current) |
+| Titans | **Titan plating** | Hull upgrades |
+| Titans | **Cutting beams** | Weapon parts or mining tools |
+| Titans | **Survey cores** | Sell to the Meridians, or read them: they carry Lumenhold survey stamps (a Ship's Log clue) |
+| Hollow Fleet | **Hollowed shards** (drained and dark) | Low-light or stealth gear, Unlit crafting |
+| Hollow Fleet | **Salvage** | General crafting, sold to the Umbra Salvage Guild |
+| Ion Storm | **Storm ore** | Current valuable ore |
+| Ion Storm | **Stormdust** | Valuable, but it's the living Tender. After Chapter 3, collecting it becomes a moral choice. |
 
 ### Titan Hearts: optional choice later
 The Forge is enough for now. Later, the Heart can become a **repeatable faction choice**:

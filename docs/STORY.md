@@ -11,7 +11,7 @@ Everything here is tentative.
 ---
 
 ## Chapter 1: Owing the Hold
-**Personal story:** You arrive at Fulcrum Station. Quartermaster Vance hands you a ship, a Dusklens and a contract. You learn to fly, take your first Lumenhold jobs, and live through your first Blink. A Cinder Warden bounty sends you after an **Unknown Signal**, your first Titan.
+**Personal story:** You arrive at Fulcrum Station. Quartermaster Vance hands you a ship and a contract, and your Lens switches on. You learn to fly, take your first Lumenhold jobs, and live through your first Blink. A Cinder Warden **Warden Hunt** sends you and other pilots after an **Unknown Signal**, your first Titan.
 
 **Ends with:** your first big Ledger milestone, and Warden-Captain Kettering saying, almost to herself: *"Rogue machines don't mine this neatly."*
 
@@ -44,9 +44,9 @@ Everything here is tentative.
 ---
 
 ## Chapter 4: The Almanac
-**Personal story:** Hearthfleet bell-records don't match the Almanac. You trace the gap back to ~300 AF and to Almanac-Keeper Crane. Vance discovers the Titan parts in his own shipyard. Evidence links the broken Ceasefire of Sable to Lumenhold.
+**Personal story:** Hearthfleet bell-records don't match the Almanac. You trace the gap back to about Year 300 and to Almanac-Keeper Crane. It plays as a detective story: clues, people who might be lying, a trail. Vance discovers the Titan parts in his own shipyard. Evidence links the broken Ceasefire of Sable to Lumenhold.
 
-**Ends with:** the truth about shard burning: **every shard burned dims the Elder Flame.** Lumenhold has known for over a century.
+**Ends with:** Crane's quiet speech (see INFLUENCES.md). Then you switch your Lens to an independent feed, and **the Blink countdown on your HUD changes.** The truth about shard burning: **every shard burned dims the Elder Flame.** Lumenhold has known for over a century.
 
 **Truth revealed:** the core hidden truth.
 
